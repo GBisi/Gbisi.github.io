@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['accettasfida_137',['accettaSfida',['../class_word_quizzle_client.html#a4add1e2c096474b518dea763af7a6573',1,'WordQuizzleClient.accettaSfida()'],['../class_word_quizzle_client_service.html#a4c88f130316580205d2f4f808a78a66c',1,'WordQuizzleClientService.accettaSfida()'],['../class_word_quizzle_server_service.html#ab25a00b519044ce4181c66fa3f412815',1,'WordQuizzleServerService.accettaSfida()'],['../interface_word_quizzle_service.html#a682e96f1bc25a23bd448d51f233a6c28',1,'WordQuizzleService.accettaSfida()']]],
+  ['aggiungi_5famico_138',['aggiungi_amico',['../class_word_quizzle_client.html#a47e5d9e8bd41242505edcb76350df881',1,'WordQuizzleClient.aggiungi_amico()'],['../class_word_quizzle_client_service.html#af8aab1c9bac51180ba45a42d6347b1f7',1,'WordQuizzleClientService.aggiungi_amico()'],['../class_word_quizzle_server_service.html#a378a2523ed3c3c05001a6a3f5216ca82',1,'WordQuizzleServerService.aggiungi_amico()'],['../interface_word_quizzle_service.html#a9b0441e9bbdbda3213f217f4fe5a97f3',1,'WordQuizzleService.aggiungi_amico()']]]
+];

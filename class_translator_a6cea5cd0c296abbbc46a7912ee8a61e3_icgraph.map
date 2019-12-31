@@ -1,0 +1,5 @@
+<map id="Translator.translate" name="Translator.translate">
+<area shape="rect" id="node1" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="187,31,320,57"/>
+<area shape="rect" id="node2" href="$class_tester.html#a3d7eded60a03b56faa1711bf13abafeb" title=" " alt="" coords="27,5,117,32"/>
+<area shape="rect" id="node3" href="$class_translator.html#ab1b2597be1f7a0c61fa5dc7a68cd77c5" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="5,56,139,83"/>
+</map>

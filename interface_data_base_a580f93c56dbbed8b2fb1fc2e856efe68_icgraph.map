@@ -1,0 +1,12 @@
+<map id="DataBase.checkUser" name="DataBase.checkUser">
+<area shape="rect" id="node1" title="Controlla che quel nome utente sia nel database." alt="" coords="807,166,952,193"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a378a2523ed3c3c05001a6a3f5216ca82" title=" " alt="" coords="532,5,759,47"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_server_service.html#a7d1e0c830ff9c94df196ed2d4e49e703" title=" " alt="" coords="544,71,747,112"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_server_service.html#a75f5865caa37a7f0d2c2f5c95940c7d9" title=" " alt="" coords="542,137,749,163"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_server_service.html#ad8f2f775c4d322ac50c25dbc2b673505" title=" " alt="" coords="536,188,755,229"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_server_service.html#a8002d35c102aec827bb58c4f1ca7b295" title=" " alt="" coords="536,253,755,295"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_server_service.html#afc47f0b66a46f079c4bed5e579e9a173" title=" " alt="" coords="542,319,749,346"/>
+<area shape="rect" id="node3" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title=" " alt="" coords="361,137,484,163"/>
+<area shape="rect" id="node4" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title=" " alt="" coords="208,137,313,163"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title=" " alt="" coords="5,137,160,163"/>
+</map>

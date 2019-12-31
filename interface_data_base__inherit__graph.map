@@ -1,0 +1,4 @@
+<map id="DataBase" name="DataBase">
+<area shape="rect" id="node1" title="Database che gestisce gli utenti." alt="" coords="15,5,129,141"/>
+<area shape="rect" id="node2" href="$class_data_base_j_s_o_n.html" title="Database che gestisce gli utenti tramite un file JSON." alt="" coords="5,189,139,457"/>
+</map>

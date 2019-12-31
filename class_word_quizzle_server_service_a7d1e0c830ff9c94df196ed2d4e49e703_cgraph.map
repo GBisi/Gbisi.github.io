@@ -1,0 +1,6 @@
+<map id="WordQuizzleServerService.lista_amici" name="WordQuizzleServerService.lista_amici">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,208,90"/>
+<area shape="rect" id="node2" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="256,5,401,32"/>
+<area shape="rect" id="node3" href="$class_user.html#ac5a53986b756ba9b81c5eb3a5e76f070" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="271,56,386,83"/>
+<area shape="rect" id="node4" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="265,107,393,133"/>
+</map>

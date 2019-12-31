@@ -1,0 +1,6 @@
+<map id="WordQuizzleServerService.sfida" name="WordQuizzleServerService.sfida">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="260,5,405,32"/>
+<area shape="rect" id="node3" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="269,56,397,83"/>
+<area shape="rect" id="node4" href="$class_user.html#a60ab059fe0b20cb98d3a2315e820b318" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="283,107,382,133"/>
+</map>
