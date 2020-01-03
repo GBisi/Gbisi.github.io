@@ -1,7 +1,0 @@
-<map id="WordQuizzleServerService.mostra_classifica" name="WordQuizzleServerService.mostra_classifica">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,224,115"/>
-<area shape="rect" id="node2" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="272,5,417,32"/>
-<area shape="rect" id="node3" href="$class_user.html#ac5a53986b756ba9b81c5eb3a5e76f070" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="287,56,402,83"/>
-<area shape="rect" id="node4" href="$class_user.html#a81a02d4809c6da6252e322ea4229a4bb" title="Restituisce il punteggio dell&#39;utente." alt="" coords="292,107,397,133"/>
-<area shape="rect" id="node5" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="281,157,409,184"/>
-</map>

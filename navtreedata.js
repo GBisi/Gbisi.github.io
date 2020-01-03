@@ -37,6 +37,9 @@ var NAVTREE =
         [ "Svolgimento del gioco", "index.html#autotoc_md17", null ]
       ] ]
     ] ],
+    [ "Package", "namespaces.html", [
+      [ "Package", "namespaces.html", "namespaces_dup" ]
+    ] ],
     [ "Classi", "annotated.html", [
       [ "Elenco dei tipi composti", "annotated.html", "annotated_dup" ],
       [ "Indice dei tipi composti", "classes.html", null ],
@@ -46,16 +49,13 @@ var NAVTREE =
         [ "Funzioni", "functions_func.html", null ],
         [ "Variabili", "functions_vars.html", null ]
       ] ]
-    ] ],
-    [ "File", "files.html", [
-      [ "Elenco dei file", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_client_8java.html"
+"annotated.html"
 ];
 
 var SYNCONMSG = 'cliccare per disabilitare la sincronizzazione del pannello';

@@ -1,0 +1,5 @@
+<map id="WordQuizzle.WordQuizzleServerService.aggiungi_amico" name="WordQuizzle.WordQuizzleServerService.aggiungi_amico">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,217,65"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
+<area shape="rect" id="node3" href="$interface_word_quizzle_1_1_data_base.html#a2128ed726158cf0961972a99ac83b9a8" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="286,56,469,83"/>
+</map>

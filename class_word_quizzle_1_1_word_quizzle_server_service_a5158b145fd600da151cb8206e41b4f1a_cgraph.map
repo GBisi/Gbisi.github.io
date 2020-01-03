@@ -1,0 +1,6 @@
+<map id="WordQuizzle.WordQuizzleServerService.login" name="WordQuizzle.WordQuizzleServerService.login">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,217,90"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_user.html#ab3df921fe5bcada15672f146592dbc3f" title="Restituisce la password dell&#39;utente." alt="" coords="274,56,481,83"/>
+<area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,107,481,133"/>
+</map>

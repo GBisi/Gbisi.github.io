@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['client_103',['Client',['../class_client.html',1,'']]]
+  ['challenge_92',['Challenge',['../class_word_quizzle_1_1_challenge.html',1,'WordQuizzle']]]
 ];

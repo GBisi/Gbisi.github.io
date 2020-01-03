@@ -1,6 +1,0 @@
-<map id="DataBaseJSON.checkUser" name="DataBaseJSON.checkUser">
-<area shape="rect" id="node1" title="Controlla che quel nome utente sia nel database." alt="" coords="243,56,421,83"/>
-<area shape="rect" id="node2" href="$class_data_base_j_s_o_n.html#ae9669b5063abf1a0a2e7a5b7481358b9" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="31,5,169,32"/>
-<area shape="rect" id="node3" href="$class_data_base_j_s_o_n.html#aa7678d4bad3a666732723f0844253b50" title="Modifica il punteggio (User.score) di un utente." alt="" coords="5,56,195,83"/>
-<area shape="rect" id="node4" href="$class_data_base_j_s_o_n.html#a64a57f48b018b652282cdc153a4605b1" title="Aggiunge un nuovo utente nel database." alt="" coords="17,107,183,133"/>
-</map>

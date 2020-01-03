@@ -1,9 +1,0 @@
-<map id="DataBaseJSON" name="DataBaseJSON">
-<area shape="rect" id="node1" title="Database che gestisce gli utenti tramite un file JSON." alt="" coords="268,359,401,553"/>
-<area shape="rect" id="node2" href="$interface_data_base.html" title="Database che gestisce gli utenti." alt="" coords="5,145,120,281"/>
-<area shape="rect" id="node3" title=" " alt="" coords="145,175,285,252"/>
-<area shape="rect" id="node4" title=" " alt="" coords="191,5,238,83"/>
-<area shape="rect" id="node5" title=" " alt="" coords="309,175,360,252"/>
-<area shape="rect" id="node6" title=" " alt="" coords="384,175,437,252"/>
-<area shape="rect" id="node7" title=" " alt="" coords="461,175,512,252"/>
-</map>

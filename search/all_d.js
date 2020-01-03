@@ -1,10 +1,8 @@
 var searchData=
 [
-  ['read_53',['read',['../class_data_base_j_s_o_n.html#abca4311e63b042f0951c37de2dfcf6a6',1,'DataBaseJSON']]],
-  ['readjson_54',['readJSON',['../class_data_base_j_s_o_n.html#a1466f38f441ced86e24497751cff0c20',1,'DataBaseJSON']]],
-  ['readme_2emd_55',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['record_56',['Record',['../class_word_quizzle_server_service_1_1_record.html',1,'WordQuizzleServerService.Record'],['../class_word_quizzle_server_service_1_1_record.html#ab1eefd8adbd8c080912e29b20199d4ff',1,'WordQuizzleServerService.Record.Record()']]],
-  ['registra_5futente_57',['registra_utente',['../interface_user_registry.html#a2c7c78d07dd2a2bd50c2b5e3f0ebb185',1,'UserRegistry.registra_utente()'],['../class_user_registry_service.html#ac5ed507529becf944bf80f044bca3285',1,'UserRegistryService.registra_utente()'],['../class_word_quizzle_client.html#a516539e0da1d5d54431a7e41cf9339f8',1,'WordQuizzleClient.registra_utente()'],['../class_word_quizzle_client_service.html#aec5784511e9d3e5e63e500e20a00f57f',1,'WordQuizzleClientService.registra_utente()']]],
-  ['response_58',['response',['../class_session.html#afecb5f975b6def1ec919007c1990176e',1,'Session']]],
-  ['run_59',['run',['../class_client.html#a64336c3153afaaf5f45493e9ed206430',1,'Client.run()'],['../class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466',1,'WordQuizzleServer.run()']]]
+  ['pagina_20principale_46',['Pagina Principale',['../index.html',1,'']]],
+  ['parse_47',['parse',['../class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178',1,'WordQuizzle.Session.parse()'],['../class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b',1,'WordQuizzle.WQCli.parse()']]],
+  ['password_48',['password',['../class_word_quizzle_1_1_user.html#ad30f9a01ad0ed6afd7e5930049d05bb8',1,'WordQuizzle::User']]],
+  ['path_49',['path',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#aa06e47ce515a6c24b94d469cf75605f3',1,'WordQuizzle.DataBaseJSON.path()'],['../class_word_quizzle_1_1_dictionary_txt.html#a43f140c8bee295018cce7d2167d31a49',1,'WordQuizzle.DictionaryTxt.path()']]],
+  ['player_50',['Player',['../class_word_quizzle_1_1_player.html',1,'WordQuizzle.Player'],['../class_word_quizzle_1_1_player.html#ad0b2fb1855b9d2d220f16ae876dab63b',1,'WordQuizzle.Player.Player()']]]
 ];

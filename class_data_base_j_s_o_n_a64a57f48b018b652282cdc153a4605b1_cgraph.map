@@ -1,5 +1,0 @@
-<map id="DataBaseJSON.newUser" name="DataBaseJSON.newUser">
-<area shape="rect" id="node1" title="Aggiunge un nuovo utente nel database." alt="" coords="5,31,172,57"/>
-<area shape="rect" id="node2" href="$class_data_base_j_s_o_n.html#a0e2fb15fe514e5455e92b9617782bd7a" title="Controlla che quel nome utente sia nel database." alt="" coords="220,5,399,32"/>
-<area shape="rect" id="node3" href="$class_data_base_j_s_o_n.html#a11523157e04fff10c538e226ed705a2e" title="Fa il commit del database nel file json." alt="" coords="220,56,399,83"/>
-</map>

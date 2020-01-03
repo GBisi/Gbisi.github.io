@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['n_194',['N',['../class_dictionary_txt.html#a2f394b6914330cdd38905f9b2637a557',1,'DictionaryTxt']]],
-  ['name_195',['name',['../class_user.html#a15206c2eceffa1dcd2056a1eb6992c1a',1,'User.name()'],['../class_word_quizzle_server_service_1_1_record.html#ab07428323a5dd97952adc985d6512a20',1,'WordQuizzleServerService.Record.name()']]]
+  ['n_173',['N',['../class_word_quizzle_1_1_dictionary_txt.html#a512cfb27b4f108b4ef5f87de6856a31e',1,'WordQuizzle::DictionaryTxt']]],
+  ['name_174',['name',['../class_word_quizzle_1_1_user.html#af4c6caf1df2ef8778d48ffa03a591ef8',1,'WordQuizzle::User']]]
 ];

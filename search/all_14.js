@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['z_102',['Z',['../class_word_quizzle_server_service.html#ab06021565a222bb04f683d68f2a773a0',1,'WordQuizzleServerService']]]
+  ['x_89',['X',['../class_word_quizzle_1_1_word_quizzle_server_service.html#a6deceb9137d4d9a2e0e25a989c30e194',1,'WordQuizzle::WordQuizzleServerService']]]
 ];

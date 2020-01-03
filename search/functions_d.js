@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['wordquizzleclient_180',['WordQuizzleClient',['../class_word_quizzle_client.html#a7e043a689725a001062947ffa8885b33',1,'WordQuizzleClient']]],
-  ['wordquizzleclientservice_181',['WordQuizzleClientService',['../class_word_quizzle_client_service.html#a54c1b1619b06b116d877705286e9d9ad',1,'WordQuizzleClientService']]],
-  ['wordquizzleserver_182',['WordQuizzleServer',['../class_word_quizzle_server.html#a26a93457255d3ef11cee703b556cb480',1,'WordQuizzleServer']]],
-  ['wordquizzleserverservice_183',['WordQuizzleServerService',['../class_word_quizzle_server_service.html#a1097a3d24dd1c03adbefeb92bca95d20',1,'WordQuizzleServerService']]],
-  ['writejson_184',['writeJSON',['../class_data_base_j_s_o_n.html#a11523157e04fff10c538e226ed705a2e',1,'DataBaseJSON']]]
+  ['tostring_154',['toString',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#aa310d209a505e0776d7829414ae717d5',1,'WordQuizzle.DataBaseJSON.toString()'],['../class_word_quizzle_1_1_user.html#a84c15175f1549463d34a31286863f08f',1,'WordQuizzle.User.toString()']]],
+  ['translate_155',['translate',['../class_word_quizzle_1_1_translator.html#a9fcad4b807785c63c72bc85f672fb635',1,'WordQuizzle.Translator.translate(String word)'],['../class_word_quizzle_1_1_translator.html#aebc2b8b89e22283fa8bb1286c5f13f32',1,'WordQuizzle.Translator.translate(String[] ls)']]]
 ];

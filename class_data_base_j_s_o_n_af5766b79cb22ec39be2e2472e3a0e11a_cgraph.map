@@ -1,4 +1,0 @@
-<map id="DataBaseJSON.DataBaseJSON" name="DataBaseJSON.DataBaseJSON">
-<area shape="rect" id="node1" title="Genera un database json per la gestione degli utenti." alt="" coords="5,5,213,32"/>
-<area shape="rect" id="node2" href="$class_data_base_j_s_o_n.html#a1466f38f441ced86e24497751cff0c20" title="Legge dal file json il database gia&#39; esistene, se non esiste ne crea uno." alt="" coords="261,5,437,32"/>
-</map>

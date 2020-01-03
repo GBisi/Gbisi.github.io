@@ -1,0 +1,6 @@
+<map id="WordQuizzle.WordQuizzleServerService.mostra_punteggio" name="WordQuizzle.WordQuizzleServerService.mostra_punteggio">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,217,90"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_user.html#ae4cc205520a878a71ce7c673e96f7e4f" title="Restituisce il punteggio dell&#39;utente." alt="" coords="285,56,469,83"/>
+<area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,107,481,133"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="User.getScore" name="User.getScore">
-<area shape="rect" id="node1" title="Restituisce il punteggio dell&#39;utente." alt="" coords="799,46,904,73"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#ad8f2f775c4d322ac50c25dbc2b673505" title=" " alt="" coords="532,5,751,47"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_server_service.html#a8002d35c102aec827bb58c4f1ca7b295" title=" " alt="" coords="532,71,751,112"/>
-<area shape="rect" id="node4" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title=" " alt="" coords="361,78,484,105"/>
-<area shape="rect" id="node5" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title=" " alt="" coords="208,78,313,105"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title=" " alt="" coords="5,78,160,105"/>
-</map>

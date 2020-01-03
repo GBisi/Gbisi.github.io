@@ -1,0 +1,19 @@
+<map id="WordQuizzle.Session.parse" name="WordQuizzle.Session.parse">
+<area shape="rect" id="node1" title=" " alt="" coords="5,242,189,269"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title=" " alt="" coords="237,242,440,269"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac4a4c99a303ffb813cae6cfed0e12817" title=" " alt="" coords="488,5,700,47"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a1f28542d2118fba0a19061d5acf603ec" title=" " alt="" coords="488,71,700,112"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a198417a123b189dd75e88d3e969cd11d" title=" " alt="" coords="488,201,700,243"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a5158b145fd600da151cb8206e41b4f1a" title=" " alt="" coords="488,332,700,373"/>
+<area shape="rect" id="node12" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac79f01637184c2916b5381056f5d36e7" title=" " alt="" coords="488,463,700,504"/>
+<area shape="rect" id="node13" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ad212848f8436aaf885c017463458d2f4" title=" " alt="" coords="488,136,700,177"/>
+<area shape="rect" id="node15" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" title=" " alt="" coords="488,267,700,308"/>
+<area shape="rect" id="node16" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" title=" " alt="" coords="488,397,700,439"/>
+<area shape="rect" id="node5" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="748,242,972,269"/>
+<area shape="rect" id="node6" href="$interface_word_quizzle_1_1_data_base.html#a2128ed726158cf0961972a99ac83b9a8" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="769,78,951,105"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_1_1_user.html#a8a3e0c4b349c4e6bf825bc84c179c36b" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="763,141,957,167"/>
+<area shape="rect" id="node9" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="757,293,963,319"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_1_1_user.html#ab3df921fe5bcada15672f146592dbc3f" title="Restituisce la password dell&#39;utente." alt="" coords="757,343,963,370"/>
+<area shape="rect" id="node14" href="$class_word_quizzle_1_1_user.html#ae4cc205520a878a71ce7c673e96f7e4f" title="Restituisce il punteggio dell&#39;utente." alt="" coords="768,191,952,218"/>
+<area shape="rect" id="node17" href="$class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="771,405,949,431"/>
+</map>

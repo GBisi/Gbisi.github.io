@@ -1,14 +1,10 @@
 var searchData=
 [
-  ['database_9',['DataBase',['../interface_data_base.html',1,'']]],
-  ['database_2ejava_10',['DataBase.java',['../_data_base_8java.html',1,'']]],
-  ['databasejson_11',['DataBaseJSON',['../class_data_base_j_s_o_n.html',1,'DataBaseJSON'],['../class_data_base_j_s_o_n.html#af5766b79cb22ec39be2e2472e3a0e11a',1,'DataBaseJSON.DataBaseJSON()']]],
-  ['databasejson_2ejava_12',['DataBaseJSON.java',['../_data_base_j_s_o_n_8java.html',1,'']]],
-  ['db_13',['db',['../class_user_registry_service.html#af21f37b28f412e7d1b66f59ab7b39501',1,'UserRegistryService.db()'],['../class_word_quizzle_server_service.html#ab03872c32373d31348897dd78be2ac86',1,'WordQuizzleServerService.db()']]],
-  ['defaultword_14',['defaultWord',['../class_dictionary_txt.html#a898b309f31f91b0838bf73b6e4bf78c9',1,'DictionaryTxt']]],
-  ['dict_15',['dict',['../class_word_quizzle_server_service.html#ab6a106c6a8eca7d4b5480b7e56f02cb0',1,'WordQuizzleServerService']]],
-  ['dictionary_16',['Dictionary',['../interface_dictionary.html',1,'']]],
-  ['dictionary_2ejava_17',['Dictionary.java',['../_dictionary_8java.html',1,'']]],
-  ['dictionarytxt_18',['DictionaryTxt',['../class_dictionary_txt.html',1,'DictionaryTxt'],['../class_dictionary_txt.html#ae8b8c62003569bd5760081f1e0b2d243',1,'DictionaryTxt.DictionaryTxt()']]],
-  ['dictionarytxt_2ejava_19',['DictionaryTxt.java',['../_dictionary_txt_8java.html',1,'']]]
+  ['database_8',['DataBase',['../interface_word_quizzle_1_1_data_base.html',1,'WordQuizzle']]],
+  ['databasejson_9',['DataBaseJSON',['../class_word_quizzle_1_1_data_base_j_s_o_n.html',1,'WordQuizzle.DataBaseJSON'],['../class_word_quizzle_1_1_data_base_j_s_o_n.html#af9ba53d110fe905a01445e045b47f859',1,'WordQuizzle.DataBaseJSON.DataBaseJSON()']]],
+  ['db_10',['db',['../class_word_quizzle_1_1_user_registry_service.html#aadba3b71d050e34d4cfd66275191be3b',1,'WordQuizzle.UserRegistryService.db()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#a2185eb41bde269fd13c6b995c5df3017',1,'WordQuizzle.WordQuizzleServerService.db()']]],
+  ['defaultword_11',['defaultWord',['../class_word_quizzle_1_1_dictionary_txt.html#ac6c7358923273c19f3f0f59c2bc455df',1,'WordQuizzle::DictionaryTxt']]],
+  ['dict_12',['dict',['../class_word_quizzle_1_1_challenge.html#ad06c76f8ef4f78ba5f89d6db881f3ba7',1,'WordQuizzle::Challenge']]],
+  ['dictionary_13',['Dictionary',['../interface_word_quizzle_1_1_dictionary.html',1,'WordQuizzle']]],
+  ['dictionarytxt_14',['DictionaryTxt',['../class_word_quizzle_1_1_dictionary_txt.html',1,'WordQuizzle.DictionaryTxt'],['../class_word_quizzle_1_1_dictionary_txt.html#a70003469c4e6009d3a368c4f22a35086',1,'WordQuizzle.DictionaryTxt.DictionaryTxt()']]]
 ];

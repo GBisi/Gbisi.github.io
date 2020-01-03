@@ -1,0 +1,5 @@
+<map id="WordQuizzle.Translator.translate" name="WordQuizzle.Translator.translate">
+<area shape="rect" id="node1" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="265,31,477,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_tester.html#a2607b3bdfe7761a407bb839129405ca1" title=" " alt="" coords="27,5,196,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_translator.html#aebc2b8b89e22283fa8bb1286c5f13f32" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="5,56,217,83"/>
+</map>

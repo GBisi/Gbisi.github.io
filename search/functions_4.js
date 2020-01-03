@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['isfriend_155',['isFriend',['../class_user.html#a60ab059fe0b20cb98d3a2315e820b318',1,'User']]],
-  ['isterminated_156',['isTerminated',['../class_session.html#aaede3db35a6f25322a0f4ca3d2b0def7',1,'Session']]]
+  ['hasstarted_130',['hasStarted',['../class_word_quizzle_1_1_challenge.html#a01122cbf42d3c80115456c5148a204b4',1,'WordQuizzle::Challenge']]],
+  ['help_131',['help',['../class_word_quizzle_1_1_w_q_cli.html#af99dd07b4f0c4e029f872de8ea3ae9f3',1,'WordQuizzle::WQCli']]]
 ];

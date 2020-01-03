@@ -1,0 +1,9 @@
+<map id="WordQuizzle.DataBaseJSON" name="WordQuizzle.DataBaseJSON">
+<area shape="rect" id="node1" title="Database che gestisce gli utenti tramite un file JSON." alt="" coords="322,373,514,568"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html" title="Database che gestisce gli utenti." alt="" coords="5,160,164,296"/>
+<area shape="rect" id="node3" title=" " alt="" coords="188,182,368,274"/>
+<area shape="rect" id="node4" title=" " alt="" coords="255,5,301,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="393,189,443,267"/>
+<area shape="rect" id="node6" title=" " alt="" coords="467,189,521,267"/>
+<area shape="rect" id="node7" title=" " alt="" coords="545,189,595,267"/>
+</map>
