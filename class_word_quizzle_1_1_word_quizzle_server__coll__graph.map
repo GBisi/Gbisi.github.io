@@ -1,8 +1,8 @@
 <map id="WordQuizzle.WordQuizzleServer" name="WordQuizzle.WordQuizzleServer">
-<area shape="rect" id="node1" title=" " alt="" coords="231,733,443,840"/>
-<area shape="rect" id="node2" title=" " alt="" coords="131,491,277,568"/>
-<area shape="rect" id="node3" title=" " alt="" coords="302,491,373,568"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="397,388,609,671"/>
+<area shape="rect" id="node1" title=" " alt="" coords="231,909,443,1016"/>
+<area shape="rect" id="node2" title=" " alt="" coords="131,579,277,656"/>
+<area shape="rect" id="node3" title=" " alt="" coords="302,579,373,656"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="397,388,609,847"/>
 <area shape="rect" id="node5" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title=" " alt="" coords="5,145,224,325"/>
 <area shape="rect" id="node6" title=" " alt="" coords="249,197,367,274"/>
 <area shape="rect" id="node7" title=" " alt="" coords="391,197,614,274"/>
