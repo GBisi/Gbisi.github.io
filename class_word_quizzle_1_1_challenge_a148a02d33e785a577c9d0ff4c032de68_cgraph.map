@@ -1,0 +1,5 @@
+<map id="WordQuizzle.Challenge.Challenge" name="WordQuizzle.Challenge.Challenge">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,224,73"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="272,5,484,47"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_dictionary_txt.html#aadbe2c8d9416b2f9f57c7301abd1a9a0" title="Restituisce una lista di k parole a caso dal dizionario." alt="" coords="279,71,477,112"/>
+</map>

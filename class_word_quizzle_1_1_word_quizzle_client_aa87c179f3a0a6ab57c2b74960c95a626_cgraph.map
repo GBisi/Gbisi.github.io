@@ -1,5 +1,7 @@
 <map id="WordQuizzle.WordQuizzleClient.login" name="WordQuizzle.WordQuizzleClient.login">
-<area shape="rect" id="node1" title=" " alt="" coords="5,13,245,39"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#aa02afd3fa03a290940b6c958e3c57199" title=" " alt="" coords="293,5,503,47"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title=" " alt="" coords="551,5,760,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,245,73"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#aa02afd3fa03a290940b6c958e3c57199" title=" " alt="" coords="293,39,503,80"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title=" " alt="" coords="551,39,760,80"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a59c8bdbde7768c2b478d51f4f13f7afb" title=" " alt="" coords="808,5,1017,47"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd" title=" " alt="" coords="808,71,1017,112"/>
 </map>

@@ -1,0 +1,22 @@
+var NAVTREEINDEX1 =
+{
+"interface_word_quizzle_1_1_dictionary.html#acb1539a88fe2e0dfa9c339e29dc0b4c5":[2,0,0,10,0],
+"interface_word_quizzle_1_1_user_registry.html":[2,0,0,18],
+"interface_word_quizzle_1_1_user_registry.html#ac029b14906c71f2843e0da7f53dc3fb6":[2,0,0,18,0],
+"interface_word_quizzle_1_1_word_quizzle_service.html":[2,0,0,24],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a03b9a7a322f06b3c95a028faf5eb32d4":[2,0,0,24,10],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a249b5976997c2e6d6d2ceb7e71cc7d75":[2,0,0,24,0],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a40fcaf644a7b5e4e1c1e592052f55e0b":[2,0,0,24,9],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a4abc4590c1b6009ec9afb7ba1a1022b1":[2,0,0,24,8],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a51f8d07d06959a1719fd7e7f4bee1e75":[2,0,0,24,6],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a840ff7492e52f3917106fdea99c6e0f5":[2,0,0,24,2],
+"interface_word_quizzle_1_1_word_quizzle_service.html#a92f4e390ec5be3e56f73d2c98787a302":[2,0,0,24,1],
+"interface_word_quizzle_1_1_word_quizzle_service.html#aa52c8d6d7cb293c01798f169eb4d51d3":[2,0,0,24,7],
+"interface_word_quizzle_1_1_word_quizzle_service.html#abae2cda062f36f0e54c9d13589c53027":[2,0,0,24,3],
+"interface_word_quizzle_1_1_word_quizzle_service.html#aeb5de079812fd32afd8b4f55f0fae5b0":[2,0,0,24,4],
+"interface_word_quizzle_1_1_word_quizzle_service.html#afad4dcc98ed2305c17a64146548c1100":[2,0,0,24,5],
+"namespace_word_quizzle.html":[1,0,0],
+"namespace_word_quizzle.html":[2,0,0],
+"namespaces.html":[1,0],
+"pages.html":[]
+};

@@ -45,7 +45,7 @@ var NAVTREE =
       [ "Indice dei tipi composti", "classes.html", null ],
       [ "Gerarchia delle classi", "hierarchy.html", "hierarchy" ],
       [ "Membri dei composti", "functions.html", [
-        [ "Tutto", "functions.html", null ],
+        [ "Tutto", "functions.html", "functions_dup" ],
         [ "Funzioni", "functions_func.html", null ],
         [ "Variabili", "functions_vars.html", null ]
       ] ]
@@ -55,7 +55,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"interface_word_quizzle_1_1_dictionary.html#acb1539a88fe2e0dfa9c339e29dc0b4c5"
 ];
 
 var SYNCONMSG = 'cliccare per disabilitare la sincronizzazione del pannello';

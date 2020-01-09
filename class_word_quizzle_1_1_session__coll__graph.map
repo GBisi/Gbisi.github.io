@@ -1,12 +1,13 @@
 <map id="WordQuizzle.Session" name="WordQuizzle.Session">
-<area shape="rect" id="node1" title=" " alt="" coords="313,909,461,1119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="289,579,372,656"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="397,388,609,847"/>
-<area shape="rect" id="node4" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title=" " alt="" coords="5,145,224,325"/>
-<area shape="rect" id="node5" title=" " alt="" coords="249,197,367,274"/>
-<area shape="rect" id="node6" title=" " alt="" coords="391,197,614,274"/>
-<area shape="rect" id="node7" title=" " alt="" coords="479,5,526,83"/>
-<area shape="rect" id="node8" href="$interface_word_quizzle_1_1_data_base.html" title="Database che gestisce gli utenti." alt="" coords="638,167,797,303"/>
-<area shape="rect" id="node9" title=" " alt="" coords="821,197,944,274"/>
-<area shape="rect" id="node10" title=" " alt="" coords="853,5,913,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="166,880,314,1148"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,549,88,627"/>
+<area shape="rect" id="node3" title=" " alt="" coords="113,549,223,627"/>
+<area shape="rect" id="node4" title=" " alt="" coords="247,549,379,627"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="403,359,615,817"/>
+<area shape="rect" id="node6" title=" " alt="" coords="73,189,191,267"/>
+<area shape="rect" id="node7" title=" " alt="" coords="215,182,395,274"/>
+<area shape="rect" id="node8" title=" " alt="" coords="389,5,435,83"/>
+<area shape="rect" id="node11" title=" " alt="" coords="419,182,599,274"/>
+<area shape="rect" id="node9" title=" " alt="" coords="623,189,694,267"/>
+<area shape="rect" id="node10" href="$interface_word_quizzle_1_1_data_base.html" title="Database che gestisce gli utenti." alt="" coords="718,160,877,296"/>
 </map>

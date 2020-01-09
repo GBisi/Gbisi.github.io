@@ -1,3 +1,4 @@
 <map id="Grafico della gerarchia delle classi" name="Grafico della gerarchia delle classi">
-<area shape="rect" id="node1" href="$class_word_quizzle_1_1_w_q_cli.html" title=" " alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node1" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title=" " alt="" coords="5,13,224,39"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html" title=" " alt="" coords="272,5,481,47"/>
 </map>

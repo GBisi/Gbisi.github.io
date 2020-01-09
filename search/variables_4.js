@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['friends_194',['friends',['../class_word_quizzle_1_1_user.html#ad632bdf6454c8de80a71dc088ea55e27',1,'WordQuizzle::User']]]
+  ['end_259',['end',['../class_word_quizzle_1_1_session.html#a009ccad385178bf25899bff3c90620ae',1,'WordQuizzle::Session']]]
 ];

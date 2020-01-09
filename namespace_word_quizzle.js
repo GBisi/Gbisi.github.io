@@ -12,6 +12,7 @@ var namespace_word_quizzle =
     [ "DataBaseJSON", "class_word_quizzle_1_1_data_base_j_s_o_n.html", "class_word_quizzle_1_1_data_base_j_s_o_n" ],
     [ "Dictionary", "interface_word_quizzle_1_1_dictionary.html", "interface_word_quizzle_1_1_dictionary" ],
     [ "DictionaryTxt", "class_word_quizzle_1_1_dictionary_txt.html", "class_word_quizzle_1_1_dictionary_txt" ],
+    [ "Notifier", "class_word_quizzle_1_1_notifier.html", "class_word_quizzle_1_1_notifier" ],
     [ "Player", "class_word_quizzle_1_1_player.html", "class_word_quizzle_1_1_player" ],
     [ "Session", "class_word_quizzle_1_1_session.html", "class_word_quizzle_1_1_session" ],
     [ "Tester", "class_word_quizzle_1_1_tester.html", null ],
@@ -24,5 +25,6 @@ var namespace_word_quizzle =
     [ "WordQuizzleServer", "class_word_quizzle_1_1_word_quizzle_server.html", "class_word_quizzle_1_1_word_quizzle_server" ],
     [ "WordQuizzleServerService", "class_word_quizzle_1_1_word_quizzle_server_service.html", "class_word_quizzle_1_1_word_quizzle_server_service" ],
     [ "WordQuizzleService", "interface_word_quizzle_1_1_word_quizzle_service.html", "interface_word_quizzle_1_1_word_quizzle_service" ],
-    [ "WQCli", "class_word_quizzle_1_1_w_q_cli.html", "class_word_quizzle_1_1_w_q_cli" ]
+    [ "WQCli", "class_word_quizzle_1_1_w_q_cli.html", "class_word_quizzle_1_1_w_q_cli" ],
+    [ "WQGui", "class_word_quizzle_1_1_w_q_gui.html", "class_word_quizzle_1_1_w_q_gui" ]
 ];

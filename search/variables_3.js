@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['end_193',['end',['../class_word_quizzle_1_1_challenge.html#a320f013c7d12e2889b1e9683684b6757',1,'WordQuizzle.Challenge.end()'],['../class_word_quizzle_1_1_session.html#a009ccad385178bf25899bff3c90620ae',1,'WordQuizzle.Session.end()']]]
+  ['db_257',['db',['../class_word_quizzle_1_1_challenge.html#a9505107cb46b1be16ad0bf1362561932',1,'WordQuizzle.Challenge.db()'],['../class_word_quizzle_1_1_user_registry_service.html#aadba3b71d050e34d4cfd66275191be3b',1,'WordQuizzle.UserRegistryService.db()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#a2185eb41bde269fd13c6b995c5df3017',1,'WordQuizzle.WordQuizzleServerService.db()']]],
+  ['defaultword_258',['defaultWord',['../class_word_quizzle_1_1_dictionary_txt.html#ac6c7358923273c19f3f0f59c2bc455df',1,'WordQuizzle::DictionaryTxt']]]
 ];

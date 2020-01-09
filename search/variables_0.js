@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bfs_188',['bfs',['../class_word_quizzle_1_1_session.html#a1f36b2c79ae241998225c2a34110a9c5',1,'WordQuizzle::Session']]]
+  ['ans_252',['ans',['../class_word_quizzle_1_1_player.html#a9ae6e4877adaade73cf24e6979e9f1f8',1,'WordQuizzle::Player']]]
 ];

@@ -77,17 +77,17 @@ var sectionId = 'dynsection-3';
 <path fill="none" stroke="midnightblue" d="M758.852,-50.2052C750.314,-51.3748 741.62,-52.5657 733.077,-53.736"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="759.352,-53.6695 768.784,-48.8446 758.402,-46.7343 759.352,-53.6695"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title=" ">
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="574,-0.5 574,-30.5 733,-30.5 733,-0.5 574,-0.5"/>
 <text text-anchor="start" x="582" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.mostra_punteggio</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node1&#45;&gt;Node6</title>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M758.852,-29.223C750.314,-28.1002 741.62,-26.9569 733.077,-25.8334"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="758.413,-32.6953 768.784,-30.5292 759.326,-25.7551 758.413,-32.6953"/>
 </g>
@@ -120,18 +120,31 @@ var sectionId = 'dynsection-3';
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
 <g id="a_node5"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-30 0,-49 176,-49 176,-30 0,-30"/>
-<text text-anchor="middle" x="88" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.run</text>
+<polygon fill="white" stroke="black" points="0,-49 0,-68 176,-68 176,-49 0,-49"/>
+<text text-anchor="middle" x="88" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.run</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M201.692,-39.5C193.27,-39.5 184.665,-39.5 176.149,-39.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="201.854,-43.0001 211.854,-39.5 201.853,-36.0001 201.854,-43.0001"/>
+<path fill="none" stroke="midnightblue" d="M201.692,-47.2898C193.27,-48.1275 184.665,-48.9836 176.149,-49.8308"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="202.249,-50.7517 211.854,-46.279 201.556,-43.7861 202.249,-50.7517"/>
 </g>
-<!-- Node6&#45;&gt;Node3 -->
-<g id="edge6" class="edge"><title>Node6&#45;&gt;Node3</title>
+<!-- Node6 -->
+<g id="node6" class="node"><title>Node6</title>
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="20.5,-11 20.5,-30 155.5,-30 155.5,-11 20.5,-11"/>
+<text text-anchor="middle" x="88" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.run</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node6 -->
+<g id="edge5" class="edge"><title>Node4&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M201.853,-31.7263C186.473,-30.1963 170.471,-28.6045 155.517,-27.1169"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="201.556,-35.2139 211.854,-32.721 202.249,-28.2483 201.556,-35.2139"/>
+</g>
+<!-- Node7&#45;&gt;Node3 -->
+<g id="edge7" class="edge"><title>Node7&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M563.764,-26.7383C555.191,-27.8241 546.552,-28.9182 538.129,-29.9849"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="564.3,-30.1985 573.781,-25.4697 563.421,-23.2539 564.3,-30.1985"/>
 </g>

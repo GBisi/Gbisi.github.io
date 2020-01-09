@@ -1,6 +1,7 @@
 <map id="WordQuizzle.WordQuizzleServerService.sfida" name="WordQuizzle.WordQuizzleServerService.sfida">
-<area shape="rect" id="node1" title=" " alt="" coords="5,49,217,90"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,217,127"/>
 <area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
-<area shape="rect" id="node3" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,56,481,83"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="288,107,467,133"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" title=" " alt="" coords="287,57,467,98"/>
+<area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,123,481,149"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="288,173,467,200"/>
 </map>
