@@ -92,7 +92,7 @@ var sectionId = 'dynsection-14';
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ace8277bd092a7ac14bcfe5927ecc8c33" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ace8277bd092a7ac14bcfe5927ecc8c33" target="_top" xlink:title="Restituisce il tempo di attesa per l&#39;accettazione di una richiesta, in millisecondi.">
 <polygon fill="white" stroke="black" points="225.5,-18.5 225.5,-48.5 384.5,-48.5 384.5,-18.5 225.5,-18.5"/>
 <text text-anchor="start" x="233.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="305" y="-25.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getT1</text>
@@ -120,7 +120,7 @@ var sectionId = 'dynsection-14';
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title="Restituisce il numero di parole per sfida.">
 <polygon fill="white" stroke="black" points="457,-98.5 457,-128.5 616,-128.5 616,-98.5 457,-98.5"/>
 <text text-anchor="start" x="465" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="536.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getK</text>
@@ -134,7 +134,7 @@ var sectionId = 'dynsection-14';
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" target="_top" xlink:title="Restituisce la durata di una sfida, in millisecondi.">
 <polygon fill="white" stroke="black" points="457,-49.5 457,-79.5 616,-79.5 616,-49.5 457,-49.5"/>
 <text text-anchor="start" x="465" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="536.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getT2</text>

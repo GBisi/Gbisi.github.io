@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title="Accetta una richiesta di sfida inviata da nickAmico.">
 <polygon fill="white" stroke="black" points="188,-115 188,-145 347,-145 347,-115 188,-115"/>
 <text text-anchor="start" x="196" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-122" font-family="Helvetica,sans-Serif" font-size="10.00">Service.accettaSfida</text>
@@ -33,7 +33,7 @@
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a1f28542d2118fba0a19061d5acf603ec" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a1f28542d2118fba0a19061d5acf603ec" target="_top" xlink:title="Aggiunge un utente alla lista di amici di nickUtente.">
 <polygon fill="white" stroke="black" points="188,-409 188,-439 347,-439 347,-409 188,-409"/>
 <text text-anchor="start" x="196" y="-427" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">Service.aggiungi_amico</text>
@@ -47,7 +47,7 @@
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a198417a123b189dd75e88d3e969cd11d" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a198417a123b189dd75e88d3e969cd11d" target="_top" xlink:title="Restituisce la lista degli amici di nickUtente.">
 <polygon fill="white" stroke="black" points="188,-311 188,-341 347,-341 347,-311 188,-311"/>
 <text text-anchor="start" x="196" y="-329" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-318" font-family="Helvetica,sans-Serif" font-size="10.00">Service.lista_amici</text>
@@ -61,7 +61,7 @@
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title="Effettua il login specificando l&#39;indirizzo per la connessione UDP.">
 <polygon fill="white" stroke="black" points="188,-360 188,-390 347,-390 347,-360 188,-360"/>
 <text text-anchor="start" x="196" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-367" font-family="Helvetica,sans-Serif" font-size="10.00">Service.login</text>
@@ -75,7 +75,7 @@
 </g>
 <!-- Node21 -->
 <g id="node21" class="node"><title>Node21</title>
-<g id="a_node21"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac79f01637184c2916b5381056f5d36e7" target="_top" xlink:title=" ">
+<g id="a_node21"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac79f01637184c2916b5381056f5d36e7" target="_top" xlink:title="Effettua il logout.">
 <polygon fill="white" stroke="black" points="188,-66 188,-96 347,-96 347,-66 188,-66"/>
 <text text-anchor="start" x="196" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">Service.logout</text>
@@ -89,7 +89,7 @@
 </g>
 <!-- Node22 -->
 <g id="node22" class="node"><title>Node22</title>
-<g id="a_node22"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ad212848f8436aaf885c017463458d2f4" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ad212848f8436aaf885c017463458d2f4" target="_top" xlink:title="Restituisce la classifica dell&#39;utente e dei suoi amici.">
 <polygon fill="white" stroke="black" points="188,-262 188,-292 347,-292 347,-262 188,-262"/>
 <text text-anchor="start" x="196" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">Service.mostra_classifica</text>
@@ -103,7 +103,7 @@
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
-<g id="a_node24"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title=" ">
+<g id="a_node24"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title="Restituisce il punteggio di nickUtente.">
 <polygon fill="white" stroke="black" points="188,-213 188,-243 347,-243 347,-213 188,-213"/>
 <text text-anchor="start" x="196" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">Service.mostra_punteggio</text>
@@ -117,7 +117,7 @@
 </g>
 <!-- Node25 -->
 <g id="node25" class="node"><title>Node25</title>
-<g id="a_node25"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" target="_top" xlink:title=" ">
+<g id="a_node25"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" target="_top" xlink:title="Invia una richiesta di sfida ad un amico di nickUtente.">
 <polygon fill="white" stroke="black" points="188,-164 188,-194 347,-194 347,-164 188,-164"/>
 <text text-anchor="start" x="196" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="267.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">Service.sfida</text>
@@ -263,7 +263,7 @@
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title="Restituisce il numero di parole per sfida.">
 <polygon fill="white" stroke="black" points="794,-109 794,-139 953,-139 953,-109 794,-109"/>
 <text text-anchor="start" x="802" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="873.5" y="-116" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getK</text>

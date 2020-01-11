@@ -1,5 +1,5 @@
 <map id="WordQuizzle.WordQuizzleServerService.aggiungi_amico" name="WordQuizzle.WordQuizzleServerService.aggiungi_amico">
-<area shape="rect" id="node1" title=" " alt="" coords="771,23,983,65"/>
+<area shape="rect" id="node1" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="771,23,983,65"/>
 <area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title="Gestisce effettivamente la richiesta del client." alt="" coords="520,31,723,57"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,31,472,57"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,5,240,32"/>

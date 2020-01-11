@@ -1,6 +1,6 @@
 <map id="WordQuizzle.WordQuizzleClientService.write" name="WordQuizzle.WordQuizzleClientService.write">
-<area shape="rect" id="node1" title=" " alt="" coords="520,267,729,308"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title=" " alt="" coords="263,267,472,308"/>
+<area shape="rect" id="node1" title="Invia al server un messaggio." alt="" coords="520,267,729,308"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title="Invia un messaggio al server e attende una sua risposta." alt="" coords="263,267,472,308"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a547ba20a2963597abe34d58e643ea2db" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="5,5,215,47"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#adc41c272e3f60eaf3fb07f477887a7ff" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="5,71,215,112"/>
 <area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#ab8db9cd5ff3f755cf306b508741ce7b1" title="Richiede la lista degli amici di nickUtente." alt="" coords="5,136,215,177"/>

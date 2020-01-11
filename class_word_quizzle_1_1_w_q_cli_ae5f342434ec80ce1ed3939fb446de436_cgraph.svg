@@ -65,7 +65,7 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" target="_top" xlink:title="Restituisce il numero di parole per sfida.">
 <polygon fill="white" stroke="black" points="178,-98.5 178,-128.5 337,-128.5 337,-98.5 178,-98.5"/>
 <text text-anchor="start" x="186" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="257.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getK</text>
@@ -79,7 +79,7 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" target="_top" xlink:title="Restituisce la durata di una sfida, in millisecondi.">
 <polygon fill="white" stroke="black" points="178,-49.5 178,-79.5 337,-79.5 337,-49.5 178,-49.5"/>
 <text text-anchor="start" x="186" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="257.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getT2</text>

@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-150 367,-150 367,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Invia una richiesta di sfida ad un amico di nickUtente.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-55 0,-85 159,-85 159,-55 0,-55"/>
 <text text-anchor="start" x="8" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="79.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">Service.sfida</text>

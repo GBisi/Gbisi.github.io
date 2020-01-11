@@ -5,5 +5,5 @@
 <area shape="rect" id="node5" href="$class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" title="Restituisce la sessione del giocatore." alt="" coords="244,107,451,133"/>
 <area shape="rect" id="node6" href="$class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" title="Imposta la risposta da inviare al client." alt="" coords="233,157,461,184"/>
 <area shape="rect" id="node7" href="$class_word_quizzle_1_1_translator.html#a9fcad4b807785c63c72bc85f672fb635" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="241,208,453,235"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="509,49,721,90"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="509,49,721,90"/>
 </map>

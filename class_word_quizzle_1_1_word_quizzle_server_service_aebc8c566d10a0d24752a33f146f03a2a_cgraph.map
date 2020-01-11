@@ -1,5 +1,5 @@
 <map id="WordQuizzle.WordQuizzleServerService.accettaSfida" name="WordQuizzle.WordQuizzleServerService.accettaSfida">
-<area shape="rect" id="node1" title=" " alt="" coords="5,115,217,157"/>
+<area shape="rect" id="node1" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="5,115,217,157"/>
 <area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" title="Restituisce il tempo di creazione della sfida." alt="" coords="287,57,467,98"/>
 <area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,123,481,149"/>
@@ -10,5 +10,5 @@
 <area shape="rect" id="node10" href="$class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" title="Restituisce la sessione del giocatore." alt="" coords="548,232,755,259"/>
 <area shape="rect" id="node11" href="$class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" title="Imposta la risposta da inviare al client." alt="" coords="537,283,765,309"/>
 <area shape="rect" id="node12" href="$class_word_quizzle_1_1_translator.html#a9fcad4b807785c63c72bc85f672fb635" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="545,333,757,360"/>
-<area shape="rect" id="node9" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="813,174,1025,215"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="813,174,1025,215"/>
 </map>

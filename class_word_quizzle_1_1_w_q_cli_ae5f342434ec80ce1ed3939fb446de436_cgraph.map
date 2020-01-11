@@ -1,7 +1,7 @@
 <map id="WordQuizzle.WQCli.game" name="WordQuizzle.WQCli.game">
 <area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="5,78,180,105"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="243,5,455,47"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" title=" " alt="" coords="243,71,455,112"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="243,5,455,47"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="243,71,455,112"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_client.html#a828a5e7a358bd53296d88c97172db13b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="228,136,469,177"/>
 <area shape="rect" id="node5" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a40fcaf644a7b5e4e1c1e592052f55e0b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="517,136,768,177"/>
 </map>

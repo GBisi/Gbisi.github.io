@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-84 354,-84 354,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Invia un messaggio al server e attende una sua risposta.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-24.5 0,-54.5 157,-54.5 157,-24.5 0,-24.5"/>
 <text text-anchor="start" x="8" y="-42.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleClient</text>
 <text text-anchor="middle" x="78.5" y="-31.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.send</text>
@@ -20,7 +20,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_client_service.html#a59c8bdbde7768c2b478d51f4f13f7afb" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_client_service.html#a59c8bdbde7768c2b478d51f4f13f7afb" target="_top" xlink:title="Ottiene un messaggio inviato dal server.">
 <polygon fill="white" stroke="black" points="193,-49.5 193,-79.5 350,-79.5 350,-49.5 193,-49.5"/>
 <text text-anchor="start" x="201" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleClient</text>
 <text text-anchor="middle" x="271.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.read</text>
@@ -34,7 +34,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd" target="_top" xlink:title="Invia al server un messaggio.">
 <polygon fill="white" stroke="black" points="193,-0.5 193,-30.5 350,-30.5 350,-0.5 193,-0.5"/>
 <text text-anchor="start" x="201" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleClient</text>
 <text text-anchor="middle" x="271.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.write</text>

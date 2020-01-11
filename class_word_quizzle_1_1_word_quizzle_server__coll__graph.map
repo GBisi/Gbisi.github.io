@@ -1,8 +1,8 @@
 <map id="WordQuizzle.WordQuizzleServer" name="WordQuizzle.WordQuizzleServer">
-<area shape="rect" id="node1" title="Il server che gestisce le interazioni con i client." alt="" coords="94,880,306,987"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,549,152,627"/>
+<area shape="rect" id="node1" title="Il server che gestisce le interazioni con i client." alt="" coords="94,792,306,899"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,505,152,583"/>
 <area shape="rect" id="node3" title=" " alt="" coords="165,189,235,267"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="311,359,523,817"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title="Implementa la Business Logic." alt="" coords="311,359,523,729"/>
 <area shape="rect" id="node5" title=" " alt="" coords="259,189,378,267"/>
 <area shape="rect" id="node6" title=" " alt="" coords="402,182,582,274"/>
 <area shape="rect" id="node7" title=" " alt="" coords="575,5,622,83"/>

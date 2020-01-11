@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="33,81,213,108"/>
 <area shape="rect" id="node5" href="$class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="1031,158,1211,199"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48" title="Conclude la sfida." alt="" coords="289,5,471,32"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" title=" " alt="" coords="771,158,983,199"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="771,158,983,199"/>
 <area shape="rect" id="node7" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title="Gestisce effettivamente la richiesta del client." alt="" coords="520,161,723,188"/>
 <area shape="rect" id="node8" href="$class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,160,472,187"/>
 <area shape="rect" id="node9" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,160,240,187"/>

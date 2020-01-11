@@ -95,7 +95,7 @@
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title="Accetta una richiesta di sfida inviata da nickAmico.">
 <polygon fill="white" stroke="black" points="574,-30.812 574,-60.812 733,-60.812 733,-30.812 574,-30.812"/>
 <text text-anchor="start" x="582" y="-48.812" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-37.812" font-family="Helvetica,sans-Serif" font-size="10.00">Service.accettaSfida</text>

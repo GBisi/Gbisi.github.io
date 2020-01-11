@@ -172,7 +172,7 @@ Attributi privati</h2></td></tr>
 <p>Una sessione si conclude con il logout.</p>
 <dl class="section see"><dt>Si veda anche</dt><dd><a class="el" href="class_word_quizzle_1_1_challenge.html" title="Implementa la sfida tra due utenti.">Challenge</a> </dd>
 <dd>
-<a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html">WordQuizzleServerService</a> </dd></dl>
+<a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html" title="Implementa la Business Logic.">WordQuizzleServerService</a> </dd></dl>
 </div><h2 class="groupheader">Documentazione dei costruttori e dei distruttori</h2>
 <a id="a0766ca3e420740118fc6f26014a91fc2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0766ca3e420740118fc6f26014a91fc2">&#9670;&nbsp;</a></span>Session()</h2>
@@ -238,14 +238,16 @@ Attributi privati</h2></td></tr>
 
 <p>Gestisce effettivamente la richiesta del client. </p>
 <p>Controllare il protocollo di comunicazione nella relazione per maggiori dettagli.</p>
+<p>Riguardo il protocollo di comunicazione il client invia un messaggio al server con il seguente formato: "nome_comando nome_utente [info_aggiuntive[...]] Dove le info aggiuntive possono essere anche una serie. Solitamente saranno il nome di un altro utente o la password dell'utente.</p>
+<p>La risposta del server sara in caso di esito positivo: "OK [info_aggiuntive_richieste]" con le informazioni che sono opzionali. In caso di errore: "KO descrizione_errore" con descrizione non opzionale</p>
 <dl class="params"><dt>Parametri</dt><dd>
   <table class="params">
     <tr><td class="paramname">request</td><td>La richiesta del client </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Restituisce</dt><dd>una stringa contenente la risposta del server alla richiesta </dd></dl>
-<dl class="section see"><dt>Si veda anche</dt><dd><a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html">WordQuizzleServerService</a> </dd>
+<dl class="section return"><dt>Restituisce</dt><dd>una stringa contenente la risposta del server alla richiesta o un messaggio di errore </dd></dl>
+<dl class="section see"><dt>Si veda anche</dt><dd><a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html" title="Implementa la Business Logic.">WordQuizzleServerService</a> </dd>
 <dd>
 <a class="el" href="class_word_quizzle_1_1_challenge.html" title="Implementa la sfida tra due utenti.">Challenge</a> </dd></dl>
 <div class="dynheader">
@@ -257,8 +259,7 @@ Questo è il grafo delle chiamate per questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a21992c338367b1a3c2e57fdb7cae3018_icgraph.svg" width="100%" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a21992c338367b1a3c2e57fdb7cae3018_icgraph.svg" width="100%" height="366"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -284,8 +285,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a17292c458e9474dd97c4ea9566b84cd6_icgraph.svg" width="483" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a17292c458e9474dd97c4ea9566b84cd6_icgraph.svg" width="483" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -336,8 +336,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_ac7b986c42486afe057019b848fa1025c_icgraph.svg" width="522" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_ac7b986c42486afe057019b848fa1025c_icgraph.svg" width="522" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -382,8 +381,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a9674071120402a73f173cd874d740613_icgraph.svg" width="100%" height="404"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a9674071120402a73f173cd874d740613_icgraph.svg" width="100%" height="404"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -408,8 +406,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_aa1393315db65680fa9eac88d993d6938_icgraph.svg" width="520" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_aa1393315db65680fa9eac88d993d6938_icgraph.svg" width="520" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -433,8 +430,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a002484312c9f9178b1327f7dece00080_icgraph.svg" width="488" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a002484312c9f9178b1327f7dece00080_icgraph.svg" width="488" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -466,7 +462,7 @@ Questo è il grafo dei chiamanti di questa funzione:</div>
 <dl class="section return"><dt>Restituisce</dt><dd>una stringa contenente la risposta del server alla richiesta </dd></dl>
 <dl class="section see"><dt>Si veda anche</dt><dd>compue(String request) </dd>
 <dd>
-<a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html">WordQuizzleServerService</a> </dd>
+<a class="el" href="class_word_quizzle_1_1_word_quizzle_server_service.html" title="Implementa la Business Logic.">WordQuizzleServerService</a> </dd>
 <dd>
 <a class="el" href="class_word_quizzle_1_1_challenge.html" title="Implementa la sfida tra due utenti.">Challenge</a> </dd></dl>
 <div class="dynheader">
@@ -478,8 +474,7 @@ Questo è il grafo delle chiamate per questa funzione:</div>
 <div class="dynheader">
 Questo è il grafo dei chiamanti di questa funzione:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a6793f02ea7cab6fffe0361893cf40178_icgraph.svg" width="478" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_word_quizzle_1_1_session_a6793f02ea7cab6fffe0361893cf40178_icgraph.svg" width="478" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>

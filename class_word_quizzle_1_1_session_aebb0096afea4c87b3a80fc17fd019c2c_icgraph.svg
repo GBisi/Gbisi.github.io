@@ -65,7 +65,7 @@ var sectionId = 'dynsection-12';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title="Effettua il login specificando l&#39;indirizzo per la connessione UDP.">
 <polygon fill="white" stroke="black" points="574,-14 574,-44 733,-44 733,-14 574,-14"/>
 <text text-anchor="start" x="582" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">Service.login</text>

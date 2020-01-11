@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title="Accetta una richiesta di sfida inviata da nickAmico.">
 <polygon fill="white" stroke="black" points="574,-245.5 574,-275.5 733,-275.5 733,-245.5 574,-245.5"/>
 <text text-anchor="start" x="582" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.accettaSfida</text>
@@ -33,7 +33,7 @@
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a198417a123b189dd75e88d3e969cd11d" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a198417a123b189dd75e88d3e969cd11d" target="_top" xlink:title="Restituisce la lista degli amici di nickUtente.">
 <polygon fill="white" stroke="black" points="574,-196.5 574,-226.5 733,-226.5 733,-196.5 574,-196.5"/>
 <text text-anchor="start" x="582" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.lista_amici</text>
@@ -47,7 +47,7 @@
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a4f338d0b1c7bbf662fc0e40844cf5c33" target="_top" xlink:title="Effettua il login specificando l&#39;indirizzo per la connessione UDP.">
 <polygon fill="white" stroke="black" points="574,-147.5 574,-177.5 733,-177.5 733,-147.5 574,-147.5"/>
 <text text-anchor="start" x="582" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.login</text>
@@ -61,7 +61,7 @@
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ad212848f8436aaf885c017463458d2f4" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#ad212848f8436aaf885c017463458d2f4" target="_top" xlink:title="Restituisce la classifica dell&#39;utente e dei suoi amici.">
 <polygon fill="white" stroke="black" points="574,-98.5 574,-128.5 733,-128.5 733,-98.5 574,-98.5"/>
 <text text-anchor="start" x="582" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.mostra_classifica</text>
@@ -75,7 +75,7 @@
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a45a270251f3ca3e1595ceddf56fbe041" target="_top" xlink:title="Restituisce il punteggio di nickUtente.">
 <polygon fill="white" stroke="black" points="574,-49.5 574,-79.5 733,-79.5 733,-49.5 574,-49.5"/>
 <text text-anchor="start" x="582" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.mostra_punteggio</text>
@@ -89,7 +89,7 @@
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" target="_top" xlink:title="Invia una richiesta di sfida ad un amico di nickUtente.">
 <polygon fill="white" stroke="black" points="574,-0.5 574,-30.5 733,-30.5 733,-0.5 574,-0.5"/>
 <text text-anchor="start" x="582" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service.sfida</text>

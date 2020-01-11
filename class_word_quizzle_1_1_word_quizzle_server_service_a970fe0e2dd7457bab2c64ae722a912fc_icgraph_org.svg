@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-303 1351,-303 1351,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Restituisce il numero di parole per sfida.">
 <polygon fill="#bfbfbf" stroke="black" points="1188,-174 1188,-204 1347,-204 1347,-174 1188,-174"/>
 <text text-anchor="start" x="1196" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="1267.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">Service.getK</text>
@@ -182,7 +182,7 @@
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title=" ">
+<g id="a_node12"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" target="_top" xlink:title="Accetta una richiesta di sfida inviata da nickAmico.">
 <polygon fill="white" stroke="black" points="584,-154 584,-184 743,-184 743,-154 584,-154"/>
 <text text-anchor="start" x="592" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="663.5" y="-161" font-family="Helvetica,sans-Serif" font-size="10.00">Service.accettaSfida</text>

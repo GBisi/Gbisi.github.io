@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a1f28542d2118fba0a19061d5acf603ec" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server_service.html#a1f28542d2118fba0a19061d5acf603ec" target="_top" xlink:title="Aggiunge un utente alla lista di amici di nickUtente.">
 <polygon fill="white" stroke="black" points="574,-14 574,-44 733,-44 733,-14 574,-14"/>
 <text text-anchor="start" x="582" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer</text>
 <text text-anchor="middle" x="653.5" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">Service.aggiungi_amico</text>

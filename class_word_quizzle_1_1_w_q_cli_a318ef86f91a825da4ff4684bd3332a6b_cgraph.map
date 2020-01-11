@@ -14,8 +14,8 @@
 <area shape="rect" id="node29" href="$class_word_quizzle_1_1_word_quizzle_client.html#a98206956fc50ef3951d27f2a89fb21fa" title="Registra un nuovo utente." alt="" coords="231,1100,487,1141"/>
 <area shape="rect" id="node31" href="$class_word_quizzle_1_1_word_quizzle_client.html#a2f667c9d998bab28411f3fd0af90ec8c" title="Invia una richiesta di sfida ad un amico." alt="" coords="239,1166,479,1193"/>
 <area shape="rect" id="node3" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a92f4e390ec5be3e56f73d2c98787a302" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="537,5,808,47"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="567,605,779,647"/>
-<area shape="rect" id="node7" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" title=" " alt="" coords="567,671,779,712"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="567,605,779,647"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="567,671,779,712"/>
 <area shape="rect" id="node8" href="$class_word_quizzle_1_1_word_quizzle_client.html#a828a5e7a358bd53296d88c97172db13b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="552,736,793,777"/>
 <area shape="rect" id="node9" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a40fcaf644a7b5e4e1c1e592052f55e0b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="856,736,1107,777"/>
 <area shape="rect" id="node11" href="$class_word_quizzle_1_1_w_q_cli.html#a0637563fc8b57e7e5d7bc623be3047e9" title="Restistuisce una stringa contenente informazioni riguardo la visualizzazione della lista amici." alt="" coords="589,188,756,229"/>
