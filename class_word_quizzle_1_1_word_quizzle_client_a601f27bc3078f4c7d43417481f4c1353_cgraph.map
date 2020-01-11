@@ -1,7 +1,4 @@
 <map id="WordQuizzle.WordQuizzleClient.lista_amici" name="WordQuizzle.WordQuizzleClient.lista_amici">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,243,80"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#ab8db9cd5ff3f755cf306b508741ce7b1" title=" " alt="" coords="291,39,500,80"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title=" " alt="" coords="548,39,757,80"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a59c8bdbde7768c2b478d51f4f13f7afb" title=" " alt="" coords="805,5,1015,47"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd" title=" " alt="" coords="805,71,1015,112"/>
+<area shape="rect" id="node1" title="Richiede la lista degli amici di user." alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a840ff7492e52f3917106fdea99c6e0f5" title="Richiede la lista degli amici di nickUtente." alt="" coords="291,5,537,47"/>
 </map>

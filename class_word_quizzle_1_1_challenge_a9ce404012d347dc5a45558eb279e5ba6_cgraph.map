@@ -1,6 +1,6 @@
 <map id="WordQuizzle.Challenge.calculate" name="WordQuizzle.Challenge.calculate">
-<area shape="rect" id="node1" title=" " alt="" coords="5,64,220,91"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_player.html#a990d3fa733cc283004193dbbd7e1c229" title=" " alt="" coords="269,5,479,32"/>
+<area shape="rect" id="node1" title="Calcola le statistiche del giocatore al termine della sfida." alt="" coords="5,64,220,91"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_player.html#a990d3fa733cc283004193dbbd7e1c229" title="Restituisce la lista di risposte del giocatore." alt="" coords="269,5,479,32"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aacb55e983eb8efadf3d6ec8bbc70c0b4" title=" " alt="" coords="268,57,480,98"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a0c3917de5aa1c3375e99f2e029afa1b7" title=" " alt="" coords="268,122,480,163"/>
 </map>

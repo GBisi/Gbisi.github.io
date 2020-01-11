@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-328 273.5,-328 273.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Classe che si occupa della registrazione degli utenti.">
 <polygon fill="#bfbfbf" stroke="black" points="108,-0.5 108,-79.5 240,-79.5 240,-0.5 108,-0.5"/>
 <text text-anchor="start" x="116" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.UserRegistry</text>
 <text text-anchor="middle" x="174" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Service</text>
@@ -25,7 +25,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="interface_word_quizzle_1_1_user_registry.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="interface_word_quizzle_1_1_user_registry.html" target="_top" xlink:title="Interfaccia RMI per la registrazione di un utente.">
 <polygon fill="white" stroke="black" points="0,-149.5 0,-206.5 132,-206.5 132,-149.5 0,-149.5"/>
 <text text-anchor="middle" x="66" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.UserRegistry</text>
 <polyline fill="none" stroke="black" points="0,-187.5 132,-187.5 "/>

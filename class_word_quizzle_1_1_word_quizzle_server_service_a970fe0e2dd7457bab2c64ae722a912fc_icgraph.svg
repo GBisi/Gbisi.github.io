@@ -66,46 +66,46 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_challenge.html#a148a02d33e785a577c9d0ff4c032de68" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="988,-277.5 988,-296.5 1152,-296.5 1152,-277.5 988,-277.5"/>
-<text text-anchor="middle" x="1070" y="-284.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.Challenge</text>
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_challenge.html#a148a02d33e785a577c9d0ff4c032de68" target="_top" xlink:title="Crea una nuova sfida.">
+<polygon fill="white" stroke="black" points="988,-276.5 988,-295.5 1152,-295.5 1152,-276.5 988,-276.5"/>
+<text text-anchor="middle" x="1070" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.Challenge</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M1241.23,-210.603C1219.07,-228.478 1185.28,-253.249 1152,-268 1143.42,-271.804 1133.97,-274.901 1124.65,-277.405"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1243.61,-213.173 1249.12,-204.124 1239.17,-207.761 1243.61,-213.173"/>
+<path fill="none" stroke="midnightblue" d="M1240.79,-210.627C1218.6,-228.243 1185,-252.493 1152,-267 1143.27,-270.837 1133.66,-273.958 1124.2,-276.478"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1243.13,-213.238 1248.71,-204.234 1238.73,-207.791 1243.13,-213.238"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#ae5f342434ec80ce1ed3939fb446de436" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1004.5,-239.5 1004.5,-258.5 1135.5,-258.5 1135.5,-239.5 1004.5,-239.5"/>
-<text text-anchor="middle" x="1070" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.game</text>
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a0e3cb31624c4fdda7b58977fe75de341" target="_top" xlink:title="Crea la finestra di gioco durante una sfida.">
+<polygon fill="white" stroke="black" points="1002.5,-238.5 1002.5,-257.5 1137.5,-257.5 1137.5,-238.5 1002.5,-238.5"/>
+<text text-anchor="middle" x="1070" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.game</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M1216.99,-207.439C1196.95,-214.601 1173.51,-222.603 1152,-229 1139.37,-232.758 1125.48,-236.371 1112.83,-239.468"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1218.31,-210.683 1226.53,-204 1215.93,-204.098 1218.31,-210.683"/>
+<path fill="none" stroke="midnightblue" d="M1217.27,-207.48C1197.18,-214.683 1173.63,-222.704 1152,-229 1140.21,-232.431 1127.32,-235.679 1115.36,-238.486"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1218.62,-210.715 1226.83,-204.021 1216.23,-204.133 1218.62,-210.715"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a0e3cb31624c4fdda7b58977fe75de341" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1002.5,-200.5 1002.5,-219.5 1137.5,-219.5 1137.5,-200.5 1002.5,-200.5"/>
-<text text-anchor="middle" x="1070" y="-207.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.game</text>
+<!-- Node5 -->
+<g id="node5" class="node"><title>Node5</title>
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#ae5f342434ec80ce1ed3939fb446de436" target="_top" xlink:title="Gestisce una sfida.">
+<polygon fill="white" stroke="black" points="1004.5,-200.5 1004.5,-219.5 1135.5,-219.5 1135.5,-200.5 1004.5,-200.5"/>
+<text text-anchor="middle" x="1070" y="-207.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.game</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge7" class="edge"><title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M1177.6,-198.55C1164.14,-199.995 1150.46,-201.465 1137.58,-202.848"/>
+<!-- Node1&#45;&gt;Node5 -->
+<g id="edge4" class="edge"><title>Node1&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M1177.62,-198.548C1163.51,-200.063 1149.15,-201.605 1135.74,-203.046"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1178.26,-201.999 1187.83,-197.451 1177.51,-195.039 1178.26,-201.999"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_player.html#a5df71a0f2196e8ee3bfff3bc232f4669" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_player.html#a5df71a0f2196e8ee3bfff3bc232f4669" target="_top" xlink:title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore.">
 <polygon fill="white" stroke="black" points="1000,-159.5 1000,-178.5 1140,-178.5 1140,-159.5 1000,-159.5"/>
 <text text-anchor="middle" x="1070" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player.getNext</text>
 </a>
@@ -118,7 +118,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_player.html#ad49b0929ec96521b65f67f861654bbe6" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_player.html#ad49b0929ec96521b65f67f861654bbe6" target="_top" xlink:title="Verifica se l&#39;utente ha terminato la sfida.">
 <polygon fill="white" stroke="black" points="386,-71.5 386,-90.5 548,-90.5 548,-71.5 386,-71.5"/>
 <text text-anchor="middle" x="467" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player.isTerminated</text>
 </a>
@@ -131,7 +131,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_challenge.html#a88b843bf595b590ca87dcc196861a364" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_challenge.html#a88b843bf595b590ca87dcc196861a364" target="_top" xlink:title="Genera la stringa contenente le statistiche di un utente.">
 <polygon fill="white" stroke="black" points="792.5,-5.5 792.5,-24.5 938.5,-24.5 938.5,-5.5 792.5,-5.5"/>
 <text text-anchor="middle" x="865.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.result</text>
 </a>
@@ -144,64 +144,64 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="779,-241.5 779,-260.5 952,-260.5 952,-241.5 779,-241.5"/>
-<text text-anchor="middle" x="865.5" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.nuovaRichiesta</text>
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" target="_top" xlink:title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie...">
+<polygon fill="white" stroke="black" points="804.5,-279.5 804.5,-298.5 926.5,-298.5 926.5,-279.5 804.5,-279.5"/>
+<text text-anchor="middle" x="865.5" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Notifier.run</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge"><title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M994.116,-249.74C980.508,-249.874 966.216,-250.015 952.322,-250.152"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="994.406,-253.237 1004.37,-249.638 994.337,-246.237 994.406,-253.237"/>
+<path fill="none" stroke="midnightblue" d="M1012.2,-259.501C981.089,-265.799 942.995,-273.512 913.562,-279.471"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1012.93,-262.924 1022.03,-257.509 1011.54,-256.063 1012.93,-262.924"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="800,-279.5 800,-298.5 931,-298.5 931,-279.5 800,-279.5"/>
-<text text-anchor="middle" x="865.5" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.parse</text>
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" target="_top" xlink:title="Gestisce una richiesta di sfida.">
+<polygon fill="white" stroke="black" points="779,-203.5 779,-222.5 952,-222.5 952,-203.5 779,-203.5"/>
+<text text-anchor="middle" x="865.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.nuovaRichiesta</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node3&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M1010.7,-260.516C980.286,-266.524 943.522,-273.786 914.727,-279.474"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1011.62,-263.902 1020.75,-258.53 1010.26,-257.034 1011.62,-263.902"/>
-</g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="599.5,-260.5 599.5,-279.5 727.5,-279.5 727.5,-260.5 599.5,-260.5"/>
-<text text-anchor="middle" x="663.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.main</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M768.698,-260.101C754.76,-261.425 740.713,-262.76 727.643,-264.001"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="769.188,-263.571 778.812,-259.14 768.525,-256.602 769.188,-263.571"/>
-</g>
-<!-- Node6&#45;&gt;Node5 -->
-<g id="edge6" class="edge"><title>Node6&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M789.632,-281.888C769.201,-279.947 747.273,-277.863 727.571,-275.992"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="789.556,-285.396 799.842,-282.857 790.218,-278.427 789.556,-285.396"/>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M994.116,-211.109C980.508,-211.311 966.216,-211.523 952.322,-211.729"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="994.424,-214.605 1004.37,-210.957 994.32,-207.606 994.424,-214.605"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="804.5,-203.5 804.5,-222.5 926.5,-222.5 926.5,-203.5 804.5,-203.5"/>
-<text text-anchor="middle" x="865.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Notifier.run</text>
+<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" target="_top" xlink:title="Gestisce le richieste dell&#39;utente.">
+<polygon fill="white" stroke="black" points="800,-241.5 800,-260.5 931,-260.5 931,-241.5 800,-241.5"/>
+<text text-anchor="middle" x="865.5" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.parse</text>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge8" class="edge"><title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M992.235,-211.137C970.523,-211.459 947.213,-211.804 926.634,-212.109"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="992.466,-214.634 1002.41,-210.986 992.363,-207.635 992.466,-214.634"/>
+<!-- Node5&#45;&gt;Node8 -->
+<g id="edge7" class="edge"><title>Node5&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M1012.2,-221.501C981.089,-227.799 942.995,-235.512 913.562,-241.471"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1012.93,-224.924 1022.03,-219.509 1011.54,-218.063 1012.93,-224.924"/>
+</g>
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title="Gestisce l&#39;interazione con l&#39;utente.">
+<polygon fill="white" stroke="black" points="599.5,-222.5 599.5,-241.5 727.5,-241.5 727.5,-222.5 599.5,-222.5"/>
+<text text-anchor="middle" x="663.5" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.main</text>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M768.698,-222.101C754.76,-223.425 740.713,-224.76 727.643,-226.001"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="769.188,-225.571 778.812,-221.14 768.525,-218.602 769.188,-225.571"/>
+</g>
+<!-- Node8&#45;&gt;Node7 -->
+<g id="edge8" class="edge"><title>Node8&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M789.632,-243.888C769.201,-241.947 747.273,-239.863 727.571,-237.992"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="789.556,-247.396 799.842,-244.857 790.218,-240.427 789.556,-247.396"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" target="_top" xlink:title="Gestisce la sfida.">
 <polygon fill="white" stroke="black" points="20.5,-71.5 20.5,-90.5 155.5,-90.5 155.5,-71.5 20.5,-71.5"/>
 <text text-anchor="middle" x="88" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.run</text>
 </a>
@@ -214,7 +214,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" target="_top" xlink:title="Aggiunge l&#39;utente sfidato alla sfida e la avvia.">
 <polygon fill="white" stroke="black" points="798,-154 798,-184 933,-184 933,-154 798,-154"/>
 <text text-anchor="start" x="806" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.set</text>
 <text text-anchor="middle" x="865.5" y="-161" font-family="Helvetica,sans-Serif" font-size="10.00">Player2</text>
@@ -242,7 +242,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" target="_top" xlink:title="Gestisce effettivamente la richiesta del client.">
 <polygon fill="white" stroke="black" points="391,-156.5 391,-175.5 543,-175.5 543,-156.5 391,-156.5"/>
 <text text-anchor="middle" x="467" y="-163.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.compute</text>
 </a>
@@ -255,7 +255,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" target="_top" xlink:title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce.">
 <polygon fill="white" stroke="black" points="212,-154.5 212,-173.5 350,-173.5 350,-154.5 212,-154.5"/>
 <text text-anchor="middle" x="281" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.parse</text>
 </a>
@@ -273,7 +273,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node15 -->
 <g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" target="_top" xlink:title="Gestisce le interazioni con i client.">
 <polygon fill="white" stroke="black" points="0,-154.5 0,-173.5 176,-173.5 176,-154.5 0,-154.5"/>
 <text text-anchor="middle" x="88" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.run</text>
 </a>
@@ -291,7 +291,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="class_word_quizzle_1_1_challenge.html#a4587e95b2628810f0c66278e90a9934c" target="_top" xlink:title=" ">
+<g id="a_node17"><a xlink:href="class_word_quizzle_1_1_challenge.html#a4587e95b2628810f0c66278e90a9934c" target="_top" xlink:title="Verifica se la sfida e&#39; terminata.">
 <polygon fill="white" stroke="black" points="216.5,-66 216.5,-96 345.5,-96 345.5,-66 216.5,-66"/>
 <text text-anchor="start" x="224.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.is</text>
 <text text-anchor="middle" x="281" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">Terminated</text>
@@ -310,7 +310,7 @@ var sectionId = 'dynsection-5';
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48" target="_top" xlink:title="Conclude la sfida.">
 <polygon fill="white" stroke="black" points="595,-0.5 595,-19.5 732,-19.5 732,-0.5 595,-0.5"/>
 <text text-anchor="middle" x="663.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.end</text>
 </a>

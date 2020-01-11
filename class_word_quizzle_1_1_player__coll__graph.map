@@ -1,6 +1,6 @@
 <map id="WordQuizzle.Player" name="WordQuizzle.Player">
-<area shape="rect" id="node1" title=" " alt="" coords="397,1211,536,1391"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html" title=" " alt="" coords="239,880,387,1148"/>
+<area shape="rect" id="node1" title="Rappresenta un giocatore impegnato un una sfida." alt="" coords="397,1211,536,1391"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html" title="Rappresenta una sessione di un utente." alt="" coords="239,880,387,1148"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,549,88,627"/>
 <area shape="rect" id="node4" title=" " alt="" coords="113,549,223,627"/>
 <area shape="rect" id="node5" title=" " alt="" coords="247,549,379,627"/>

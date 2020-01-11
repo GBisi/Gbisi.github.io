@@ -33,7 +33,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" target="_top" xlink:title="Restituisce il tempo di creazione della sfida.">
 <polygon fill="white" stroke="black" points="211.5,-77 211.5,-107 346.5,-107 346.5,-77 211.5,-77"/>
 <text text-anchor="start" x="219.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.get</text>
 <text text-anchor="middle" x="279" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">StartTime</text>

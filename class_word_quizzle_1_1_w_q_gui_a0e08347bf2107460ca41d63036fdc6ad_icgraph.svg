@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-24 307,-24 307,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Crea l&#39;interfaccia per la prima volta.">
 <polygon fill="#bfbfbf" stroke="black" points="168,-0.5 168,-19.5 303,-19.5 303,-0.5 168,-0.5"/>
 <text text-anchor="middle" x="235.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.make</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f" target="_top" xlink:title="Avvia l&#39;interfaccia.">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-19.5 132,-19.5 132,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="66" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.main</text>
 </a>

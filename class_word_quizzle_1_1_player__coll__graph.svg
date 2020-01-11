@@ -57,7 +57,7 @@ var sectionId = 'dynsection-0';
 <polygon fill="white" stroke="none" points="-4,4 -4,-1043 657.5,-1043 657.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Rappresenta un giocatore impegnato un una sfida.">
 <polygon fill="#bfbfbf" stroke="black" points="294,-0.5 294,-134.5 398,-134.5 398,-0.5 294,-0.5"/>
 <text text-anchor="middle" x="346" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player</text>
 <polyline fill="none" stroke="black" points="294,-115.5 398,-115.5 "/>
@@ -76,7 +76,7 @@ var sectionId = 'dynsection-0';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html" target="_top" xlink:title="Rappresenta una sessione di un utente.">
 <polygon fill="white" stroke="black" points="175.5,-182.5 175.5,-382.5 286.5,-382.5 286.5,-182.5 175.5,-182.5"/>
 <text text-anchor="middle" x="231" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session</text>
 <polyline fill="none" stroke="black" points="175.5,-363.5 286.5,-363.5 "/>

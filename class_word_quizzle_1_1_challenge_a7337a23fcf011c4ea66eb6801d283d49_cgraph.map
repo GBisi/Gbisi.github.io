@@ -1,6 +1,6 @@
 <map id="WordQuizzle.Challenge.close" name="WordQuizzle.Challenge.close">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,199,83"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" title=" " alt="" coords="259,5,462,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" title=" " alt="" coords="257,56,464,83"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" title=" " alt="" coords="247,107,475,133"/>
+<area shape="rect" id="node1" title="Conclude la sfida inviando ad ogni giocatore un messaggio." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" title="Restituisce la socket del client." alt="" coords="259,5,462,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" title="Restituisce la sessione del giocatore." alt="" coords="257,56,464,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" title="Imposta la risposta da inviare al client." alt="" coords="247,107,475,133"/>
 </map>

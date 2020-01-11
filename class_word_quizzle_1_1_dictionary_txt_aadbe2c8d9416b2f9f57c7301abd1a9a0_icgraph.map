@@ -1,4 +1,4 @@
 <map id="WordQuizzle.DictionaryTxt.getWords" name="WordQuizzle.DictionaryTxt.getWords">
 <area shape="rect" id="node1" title="Restituisce una lista di k parole a caso dal dizionario." alt="" coords="272,5,471,47"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_challenge.html#a148a02d33e785a577c9d0ff4c032de68" title=" " alt="" coords="5,13,224,39"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_challenge.html#a148a02d33e785a577c9d0ff4c032de68" title="Crea una nuova sfida." alt="" coords="5,13,224,39"/>
 </map>

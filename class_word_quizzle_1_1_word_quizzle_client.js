@@ -14,6 +14,6 @@ var class_word_quizzle_1_1_word_quizzle_client =
     [ "registra_utente", "class_word_quizzle_1_1_word_quizzle_client.html#a98206956fc50ef3951d27f2a89fb21fa", null ],
     [ "sendTranslation", "class_word_quizzle_1_1_word_quizzle_client.html#a828a5e7a358bd53296d88c97172db13b", null ],
     [ "sfida", "class_word_quizzle_1_1_word_quizzle_client.html#a2f667c9d998bab28411f3fd0af90ec8c", null ],
-    [ "service", "class_word_quizzle_1_1_word_quizzle_client.html#a87ac7cc4556a8b73969351a2b621093d", null ],
+    [ "service", "class_word_quizzle_1_1_word_quizzle_client.html#a5b652dd1eb82de6f2689c6aa4f999d8c", null ],
     [ "user", "class_word_quizzle_1_1_word_quizzle_client.html#af116b00599e42f731bbf8d2eee486ebc", null ]
 ];

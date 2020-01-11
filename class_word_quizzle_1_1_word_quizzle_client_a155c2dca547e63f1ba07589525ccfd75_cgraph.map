@@ -1,7 +1,4 @@
 <map id="WordQuizzle.WordQuizzleClient.mostra_classifica" name="WordQuizzle.WordQuizzleClient.mostra_classifica">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,259,80"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a972476e61ab3c927ba99af27bc7f58bb" title=" " alt="" coords="307,39,516,80"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a0ed33ad0199840ae1847c4ecbc992ce2" title=" " alt="" coords="564,39,773,80"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a59c8bdbde7768c2b478d51f4f13f7afb" title=" " alt="" coords="821,5,1031,47"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd" title=" " alt="" coords="821,71,1031,112"/>
+<area shape="rect" id="node1" title="Richiede la classifica dell&#39;user e dei suoi amici." alt="" coords="5,5,259,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a51f8d07d06959a1719fd7e7f4bee1e75" title="Richiede la classifica dell&#39;utente e dei suoi amici." alt="" coords="307,5,569,47"/>
 </map>

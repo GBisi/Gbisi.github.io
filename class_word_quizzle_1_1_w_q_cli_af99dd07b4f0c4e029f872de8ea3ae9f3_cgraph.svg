@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-385.5 308,-385.5 308,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Restistuisce una stringa contenente informazioni riguardo i comandi da utilizzare.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-181.5 0,-200.5 125,-200.5 125,-181.5 0,-181.5"/>
 <text text-anchor="middle" x="62.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.help</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a423482396d62407941b62b92f4a25732" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a423482396d62407941b62b92f4a25732" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo l&#39;aggiunta di un amico.">
 <polygon fill="white" stroke="black" points="161,-351 161,-381 304,-381 304,-351 161,-351"/>
 <text text-anchor="start" x="169" y="-369" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.aggiungi</text>
 <text text-anchor="middle" x="232.5" y="-358" font-family="Helvetica,sans-Serif" font-size="10.00">_amico</text>
@@ -33,7 +33,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a0637563fc8b57e7e5d7bc623be3047e9" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a0637563fc8b57e7e5d7bc623be3047e9" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo la visualizzazione della lista amici.">
 <polygon fill="white" stroke="black" points="170,-302 170,-332 295,-332 295,-302 170,-302"/>
 <text text-anchor="start" x="178" y="-320" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.lista</text>
 <text text-anchor="middle" x="232.5" y="-309" font-family="Helvetica,sans-Serif" font-size="10.00">_amici</text>
@@ -47,7 +47,7 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a5be21ae4cfdcdae806ff4a935f0799fd" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a5be21ae4cfdcdae806ff4a935f0799fd" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo il login.">
 <polygon fill="white" stroke="black" points="168.5,-263.5 168.5,-282.5 296.5,-282.5 296.5,-263.5 168.5,-263.5"/>
 <text text-anchor="middle" x="232.5" y="-270.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.login</text>
 </a>
@@ -60,7 +60,7 @@
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a09b72dba431b9d164cc07cdbd58053df" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a09b72dba431b9d164cc07cdbd58053df" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo il logout.">
 <polygon fill="white" stroke="black" points="165.5,-225.5 165.5,-244.5 299.5,-244.5 299.5,-225.5 165.5,-225.5"/>
 <text text-anchor="middle" x="232.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.logout</text>
 </a>
@@ -73,7 +73,7 @@
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a147c086aad7a54c6162cea04f4a5cea8" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a147c086aad7a54c6162cea04f4a5cea8" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo la visualizzazione della classifica.">
 <polygon fill="white" stroke="black" points="164,-176 164,-206 301,-206 301,-176 164,-176"/>
 <text text-anchor="start" x="172" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.mostra</text>
 <text text-anchor="middle" x="232.5" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">_classifica</text>
@@ -87,7 +87,7 @@
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a10b2156f5c561a889f7feec6cb7bbacc" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a10b2156f5c561a889f7feec6cb7bbacc" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo la visualizzazione del proprio punteggio.">
 <polygon fill="white" stroke="black" points="164,-127 164,-157 301,-157 301,-127 164,-127"/>
 <text text-anchor="start" x="172" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.mostra</text>
 <text text-anchor="middle" x="232.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">_punteggio</text>
@@ -101,7 +101,7 @@
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a07609480f2f51587119199d616ce5ee2" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a07609480f2f51587119199d616ce5ee2" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo l&#39;uscita dal gioco.">
 <polygon fill="white" stroke="black" points="171,-88.5 171,-107.5 294,-107.5 294,-88.5 171,-88.5"/>
 <text text-anchor="middle" x="232.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.quit</text>
 </a>
@@ -114,7 +114,7 @@
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a65cec1c9b0f47f1996351f0fd40f9c4c" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a65cec1c9b0f47f1996351f0fd40f9c4c" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo la registrazione di un utente.">
 <polygon fill="white" stroke="black" points="162.5,-39 162.5,-69 302.5,-69 302.5,-39 162.5,-39"/>
 <text text-anchor="start" x="170.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.registra</text>
 <text text-anchor="middle" x="232.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">_utente</text>
@@ -128,7 +128,7 @@
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#abf6a8e25f47e24745e96260127cf9b71" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#abf6a8e25f47e24745e96260127cf9b71" target="_top" xlink:title="Restistuisce una stringa contenente informazioni riguardo l&#39;invio di una sfida.">
 <polygon fill="white" stroke="black" points="168.5,-0.5 168.5,-19.5 296.5,-19.5 296.5,-0.5 168.5,-0.5"/>
 <text text-anchor="middle" x="232.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.sfida</text>
 </a>

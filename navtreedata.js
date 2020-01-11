@@ -56,7 +56,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"interface_word_quizzle_1_1_dictionary.html#acb1539a88fe2e0dfa9c339e29dc0b4c5"
+"interface_word_quizzle_1_1_dictionary.html#a53e48ccbd3fbb5afda88fce5852086e8"
 ];
 
 var SYNCONMSG = 'cliccare per disabilitare la sincronizzazione del pannello';

@@ -1,0 +1,4 @@
+<map id="WordQuizzle.WQGui.inChallenge" name="WordQuizzle.WQGui.inChallenge">
+<area shape="rect" id="node1" title="Verifica se l&#39;utente e&#39; impegnato in una sfida." alt="" coords="216,5,431,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="5,5,168,32"/>
+</map>

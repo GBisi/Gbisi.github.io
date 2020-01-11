@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-555.5 1376,-555.5 1376,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Gestisce le interazioni con i client.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-418 0,-437 176,-437 176,-418 0,-418"/>
 <text text-anchor="middle" x="88" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.run</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html#a17292c458e9474dd97c4ea9566b84cd6" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html#a17292c458e9474dd97c4ea9566b84cd6" target="_top" xlink:title="Restituisce il ByteBuffer Array della sessione.">
 <polygon fill="white" stroke="black" points="226.5,-532 226.5,-551 368.5,-551 368.5,-532 226.5,-532"/>
 <text text-anchor="middle" x="297.5" y="-539" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getBfs</text>
 </a>
@@ -32,7 +32,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" target="_top" xlink:title="Restituisce la socket del client.">
 <polygon fill="white" stroke="black" points="1015.5,-316 1015.5,-335 1167.5,-335 1167.5,-316 1015.5,-316"/>
 <text text-anchor="middle" x="1091.5" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getClient</text>
 </a>
@@ -45,7 +45,7 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_session.html#ac7b986c42486afe057019b848fa1025c" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_session.html#ac7b986c42486afe057019b848fa1025c" target="_top" xlink:title="Restituisce la risposta da inviare al client.">
 <polygon fill="white" stroke="black" points="212,-418 212,-437 383,-437 383,-418 212,-418"/>
 <text text-anchor="middle" x="297.5" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getResponse</text>
 </a>
@@ -58,7 +58,7 @@
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_session.html#a9674071120402a73f173cd874d740613" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_session.html#a9674071120402a73f173cd874d740613" target="_top" xlink:title="Restituisce il nome utente corrente della sessione.">
 <polygon fill="white" stroke="black" points="223.5,-380 223.5,-399 371.5,-399 371.5,-380 223.5,-380"/>
 <text text-anchor="middle" x="297.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getUser</text>
 </a>
@@ -71,7 +71,7 @@
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_session.html#aa1393315db65680fa9eac88d993d6938" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_session.html#aa1393315db65680fa9eac88d993d6938" target="_top" xlink:title="Verifica se la sessione e&#39; terminata.">
 <polygon fill="white" stroke="black" points="212.5,-342 212.5,-361 382.5,-361 382.5,-342 212.5,-342"/>
 <text text-anchor="middle" x="297.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.isTerminated</text>
 </a>
@@ -84,7 +84,7 @@
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_session.html#a002484312c9f9178b1327f7dece00080" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="class_word_quizzle_1_1_session.html#a002484312c9f9178b1327f7dece00080" target="_top" xlink:title="Crea un nuovo ByteBuffer Array.">
 <polygon fill="white" stroke="black" points="224.5,-304 224.5,-323 370.5,-323 370.5,-304 224.5,-304"/>
 <text text-anchor="middle" x="297.5" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.newBfs</text>
 </a>
@@ -97,7 +97,7 @@
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" target="_top" xlink:title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce.">
 <polygon fill="white" stroke="black" points="228.5,-456 228.5,-475 366.5,-475 366.5,-456 228.5,-456"/>
 <text text-anchor="middle" x="297.5" y="-463" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.parse</text>
 </a>
@@ -110,7 +110,7 @@
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" target="_top" xlink:title="Gestisce effettivamente la richiesta del client.">
 <polygon fill="white" stroke="black" points="419,-303 419,-322 571,-322 571,-303 419,-303"/>
 <text text-anchor="middle" x="495" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.compute</text>
 </a>
@@ -248,7 +248,7 @@
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" target="_top" xlink:title=" ">
+<g id="a_node12"><a xlink:href="class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" target="_top" xlink:title="Restituisce il tempo di creazione della sfida.">
 <polygon fill="white" stroke="black" points="818.5,-106.5 818.5,-136.5 953.5,-136.5 953.5,-106.5 818.5,-106.5"/>
 <text text-anchor="start" x="826.5" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.get</text>
 <text text-anchor="middle" x="886" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">StartTime</text>
@@ -288,7 +288,7 @@
 </g>
 <!-- Node15 -->
 <g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" target="_top" xlink:title="Aggiunge l&#39;utente sfidato alla sfida e la avvia.">
 <polygon fill="white" stroke="black" points="818.5,-57.5 818.5,-87.5 953.5,-87.5 953.5,-57.5 818.5,-57.5"/>
 <text text-anchor="start" x="826.5" y="-75.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.set</text>
 <text text-anchor="middle" x="886" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">Player2</text>
@@ -307,7 +307,7 @@
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_player.html#a5df71a0f2196e8ee3bfff3bc232f4669" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="class_word_quizzle_1_1_player.html#a5df71a0f2196e8ee3bfff3bc232f4669" target="_top" xlink:title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore.">
 <polygon fill="white" stroke="black" points="1021.5,-6 1021.5,-25 1161.5,-25 1161.5,-6 1021.5,-6"/>
 <text text-anchor="middle" x="1091.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player.getNext</text>
 </a>
@@ -320,7 +320,7 @@
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" target="_top" xlink:title="Restituisce la sessione del giocatore.">
 <polygon fill="white" stroke="black" points="1014,-120 1014,-139 1169,-139 1169,-120 1014,-120"/>
 <text text-anchor="middle" x="1091.5" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player.getSession</text>
 </a>
@@ -333,7 +333,7 @@
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" target="_top" xlink:title="Imposta la risposta da inviare al client.">
 <polygon fill="white" stroke="black" points="1006,-82 1006,-101 1177,-101 1177,-82 1006,-82"/>
 <text text-anchor="middle" x="1091.5" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.setResponse</text>
 </a>
@@ -437,7 +437,7 @@
 </g>
 <!-- Node27 -->
 <g id="node27" class="node"><title>Node27</title>
-<g id="a_node27"><a xlink:href="class_word_quizzle_1_1_session.html#aebb0096afea4c87b3a80fc17fd019c2c" target="_top" xlink:title=" ">
+<g id="a_node27"><a xlink:href="class_word_quizzle_1_1_session.html#aebb0096afea4c87b3a80fc17fd019c2c" target="_top" xlink:title="Imposta l&#39;indirizzo UDP del client a cui inviare le richieste di sfida.">
 <polygon fill="white" stroke="black" points="813.5,-369 813.5,-388 958.5,-388 958.5,-369 813.5,-369"/>
 <text text-anchor="middle" x="886" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.setUdp</text>
 </a>

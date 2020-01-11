@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-100 356,-100 356,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Conclude la sfida inviando ad ogni giocatore un messaggio.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-38.5 0,-57.5 145,-57.5 145,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="72.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.close</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" target="_top" xlink:title="Restituisce la socket del client.">
 <polygon fill="white" stroke="black" points="190.5,-76.5 190.5,-95.5 342.5,-95.5 342.5,-76.5 190.5,-76.5"/>
 <text text-anchor="middle" x="266.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getClient</text>
 </a>
@@ -32,7 +32,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_player.html#a1f8fc44dbae0c22017e5d4e435fa5bc0" target="_top" xlink:title="Restituisce la sessione del giocatore.">
 <polygon fill="white" stroke="black" points="189,-38.5 189,-57.5 344,-57.5 344,-38.5 189,-38.5"/>
 <text text-anchor="middle" x="266.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Player.getSession</text>
 </a>
@@ -45,7 +45,7 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_session.html#a26ad2a090660e09b1416cd530fdf1e9a" target="_top" xlink:title="Imposta la risposta da inviare al client.">
 <polygon fill="white" stroke="black" points="181,-0.5 181,-19.5 352,-19.5 352,-0.5 181,-0.5"/>
 <text text-anchor="middle" x="266.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.setResponse</text>
 </a>

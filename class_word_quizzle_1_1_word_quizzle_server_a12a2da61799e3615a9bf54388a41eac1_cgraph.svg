@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-35 385,-35 385,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Avvia il server.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-6 0,-25 183,-25 183,-6 0,-6"/>
 <text text-anchor="middle" x="91.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.main</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a1fe678baf30a6c0831dfd92eb69b1c52" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a1fe678baf30a6c0831dfd92eb69b1c52" target="_top" xlink:title="Crea un server sulla porta specificata.">
 <polygon fill="white" stroke="black" points="219,-0.5 219,-30.5 381,-30.5 381,-0.5 219,-0.5"/>
 <text text-anchor="start" x="227" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.</text>
 <text text-anchor="middle" x="300" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzleServer</text>

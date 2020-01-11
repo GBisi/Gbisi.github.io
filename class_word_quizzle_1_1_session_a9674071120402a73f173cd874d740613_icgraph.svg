@@ -57,7 +57,7 @@ var sectionId = 'dynsection-6';
 <polygon fill="white" stroke="none" points="-4,4 -4,-100 535,-100 535,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Restituisce il nome utente corrente della sessione.">
 <polygon fill="#bfbfbf" stroke="black" points="383,-38.5 383,-57.5 531,-57.5 531,-38.5 383,-38.5"/>
 <text text-anchor="middle" x="457" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.getUser</text>
 </a>
@@ -65,7 +65,7 @@ var sectionId = 'dynsection-6';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48" target="_top" xlink:title="Conclude la sfida.">
 <polygon fill="white" stroke="black" points="190.5,-76.5 190.5,-95.5 327.5,-95.5 327.5,-76.5 190.5,-76.5"/>
 <text text-anchor="middle" x="259" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.end</text>
 </a>
@@ -78,7 +78,7 @@ var sectionId = 'dynsection-6';
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" target="_top" xlink:title="Gestisce la sfida.">
 <polygon fill="white" stroke="black" points="0,-57.5 0,-76.5 135,-76.5 135,-57.5 0,-57.5"/>
 <text text-anchor="middle" x="67.5" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.run</text>
 </a>
@@ -91,7 +91,7 @@ var sectionId = 'dynsection-6';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" target="_top" xlink:title="Gestisce le interazioni con i client.">
 <polygon fill="white" stroke="black" points="171,-0.5 171,-19.5 347,-19.5 347,-0.5 171,-0.5"/>
 <text text-anchor="middle" x="259" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleServer.run</text>
 </a>

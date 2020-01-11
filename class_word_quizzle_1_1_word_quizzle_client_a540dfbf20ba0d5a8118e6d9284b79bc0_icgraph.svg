@@ -57,7 +57,7 @@ var sectionId = 'dynsection-2';
 <polygon fill="white" stroke="none" points="-4,4 -4,-62 569,-62 569,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Accetta una richiesta di sfida inviata da nickAmico.">
 <polygon fill="#bfbfbf" stroke="black" points="373,-14 373,-44 565,-44 565,-14 373,-14"/>
 <text text-anchor="start" x="381" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleClient.accetta</text>
 <text text-anchor="middle" x="469" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">Sfida</text>
@@ -66,7 +66,7 @@ var sectionId = 'dynsection-2';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" target="_top" xlink:title="Gestisce una richiesta di sfida.">
 <polygon fill="white" stroke="black" points="164,-38.5 164,-57.5 337,-57.5 337,-38.5 164,-38.5"/>
 <text text-anchor="middle" x="250.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.nuovaRichiesta</text>
 </a>
@@ -79,7 +79,7 @@ var sectionId = 'dynsection-2';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" target="_top" xlink:title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie...">
 <polygon fill="white" stroke="black" points="189.5,-0.5 189.5,-19.5 311.5,-19.5 311.5,-0.5 189.5,-0.5"/>
 <text text-anchor="middle" x="250.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Notifier.run</text>
 </a>
@@ -92,7 +92,7 @@ var sectionId = 'dynsection-2';
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title="Gestisce l&#39;interazione con l&#39;utente.">
 <polygon fill="white" stroke="black" points="0,-38.5 0,-57.5 128,-57.5 128,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="64" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.main</text>
 </a>

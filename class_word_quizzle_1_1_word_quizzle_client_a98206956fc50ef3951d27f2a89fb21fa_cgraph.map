@@ -1,5 +1,4 @@
 <map id="WordQuizzle.WordQuizzleClient.registra_utente" name="WordQuizzle.WordQuizzleClient.registra_utente">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,261,47"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a613b0b49460f9d115fc6ba4dae066d3a" title=" " alt="" coords="309,5,519,47"/>
-<area shape="rect" id="node3" href="$interface_word_quizzle_1_1_user_registry.html#ac029b14906c71f2843e0da7f53dc3fb6" title=" " alt="" coords="567,5,789,47"/>
+<area shape="rect" id="node1" title="Registra un nuovo utente." alt="" coords="5,5,261,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a4abc4590c1b6009ec9afb7ba1a1022b1" title="Registra un utente." alt="" coords="309,5,575,47"/>
 </map>

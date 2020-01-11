@@ -1,4 +1,4 @@
 <map id="WordQuizzle.WordQuizzleClient.controllaRichieste" name="WordQuizzle.WordQuizzleClient.controllaRichieste">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,268,47"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html#a25da445402c9c6b89f89d12ac350004c" title=" " alt="" coords="316,5,525,47"/>
+<area shape="rect" id="node1" title="Verifica se ci sono richieste di sfida per user." alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a12eccd4ef95e4ec5a7591b6038429eda" title="Verifica se ci sono richieste di sfida per nickUtente." alt="" coords="316,5,587,47"/>
 </map>

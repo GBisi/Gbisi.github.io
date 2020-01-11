@@ -1,7 +1,4 @@
 <map id="WordQuizzle.WordQuizzleClient" name="WordQuizzle.WordQuizzleClient">
-<area shape="rect" id="node1" title=" " alt="" coords="199,667,409,935"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client_service.html" title=" " alt="" coords="199,292,409,604"/>
-<area shape="rect" id="node3" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title=" " alt="" coords="5,5,224,229"/>
-<area shape="rect" id="node4" title=" " alt="" coords="249,79,359,156"/>
-<area shape="rect" id="node5" title=" " alt="" coords="383,79,502,156"/>
+<area shape="rect" id="node1" title="Definisce un Client con memoria." alt="" coords="10,292,219,560"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title="Interfaccia che definisce i servizi utilizzabili da un client." alt="" coords="5,5,224,229"/>
 </map>

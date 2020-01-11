@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-84 345,-84 345,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Genera la stringa contenente le statistiche di un utente.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-30 0,-49 146,-49 146,-30 0,-30"/>
 <text text-anchor="middle" x="73" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Challenge.result</text>
 </a>

@@ -59,7 +59,7 @@
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_session.html#aebb0096afea4c87b3a80fc17fd019c2c" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_session.html#aebb0096afea4c87b3a80fc17fd019c2c" target="_top" xlink:title="Imposta l&#39;indirizzo UDP del client a cui inviare le richieste di sfida.">
 <polygon fill="white" stroke="black" points="206.5,-0.5 206.5,-19.5 351.5,-19.5 351.5,-0.5 206.5,-0.5"/>
 <text text-anchor="middle" x="279" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Session.setUdp</text>
 </a>

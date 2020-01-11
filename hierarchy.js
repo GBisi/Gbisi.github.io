@@ -12,7 +12,6 @@ var hierarchy =
       [ "WordQuizzle.Notifier", "class_word_quizzle_1_1_notifier.html", null ]
     ] ],
     [ "WordQuizzle.Session", "class_word_quizzle_1_1_session.html", null ],
-    [ "WordQuizzle.Tester", "class_word_quizzle_1_1_tester.html", null ],
     [ "WordQuizzle.Translator", "class_word_quizzle_1_1_translator.html", null ],
     [ "WordQuizzle.User", "class_word_quizzle_1_1_user.html", null ],
     [ "WordQuizzle.WordQuizzleClient", "class_word_quizzle_1_1_word_quizzle_client.html", null ],

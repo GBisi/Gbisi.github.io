@@ -1,4 +1,4 @@
 <map id="WordQuizzle.DataBase.newUser" name="WordQuizzle.DataBase.newUser">
 <area shape="rect" id="node1" title="Aggiunge un nuovo utente nel database." alt="" coords="229,13,441,39"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_user_registry_service.html#af0adfa30634bf61b30cc6b9c26fa643d" title=" " alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_user_registry_service.html#af0adfa30634bf61b30cc6b9c26fa643d" title="Registra un nuovo utente." alt="" coords="5,5,181,47"/>
 </map>

@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-100 555,-100 555,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Effettua il logout di user.">
 <polygon fill="#bfbfbf" stroke="black" points="365,-38.5 365,-57.5 551,-57.5 551,-38.5 365,-38.5"/>
 <text text-anchor="middle" x="458" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WordQuizzleClient.logout</text>
 </a>
@@ -19,7 +19,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a0e08347bf2107460ca41d63036fdc6ad" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a0e08347bf2107460ca41d63036fdc6ad" target="_top" xlink:title="Crea l&#39;interfaccia per la prima volta.">
 <polygon fill="white" stroke="black" points="181,-76.5 181,-95.5 316,-95.5 316,-76.5 181,-76.5"/>
 <text text-anchor="middle" x="248.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.make</text>
 </a>
@@ -32,7 +32,7 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a5c987293ccc62020ac32b8c4f8415adf" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#a5c987293ccc62020ac32b8c4f8415adf" target="_top" xlink:title="Crea il pannello principale.">
 <polygon fill="white" stroke="black" points="168,-38.5 168,-57.5 329,-57.5 329,-38.5 168,-38.5"/>
 <text text-anchor="middle" x="248.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.makeGame</text>
 </a>
@@ -45,7 +45,7 @@
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" target="_top" xlink:title="Gestisce le richieste dell&#39;utente.">
 <polygon fill="white" stroke="black" points="183,-0.5 183,-19.5 314,-19.5 314,-0.5 183,-0.5"/>
 <text text-anchor="middle" x="248.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.parse</text>
 </a>
@@ -58,7 +58,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f" target="_top" xlink:title="Avvia l&#39;interfaccia.">
 <polygon fill="white" stroke="black" points="0,-76.5 0,-95.5 132,-95.5 132,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="66" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQGui.main</text>
 </a>
@@ -71,7 +71,7 @@
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" target="_top" xlink:title="Gestisce l&#39;interazione con l&#39;utente.">
 <polygon fill="white" stroke="black" points="2,-0.5 2,-19.5 130,-19.5 130,-0.5 2,-0.5"/>
 <text text-anchor="middle" x="66" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.WQCli.main</text>
 </a>

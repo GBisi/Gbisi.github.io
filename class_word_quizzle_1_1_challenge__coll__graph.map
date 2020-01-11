@@ -1,10 +1,10 @@
 <map id="WordQuizzle.Challenge" name="WordQuizzle.Challenge">
-<area shape="rect" id="node1" title=" " alt="" coords="437,1531,596,1799"/>
+<area shape="rect" id="node1" title="Implementa la sfida tra due utenti." alt="" coords="437,1531,596,1799"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,1325,81,1402"/>
 <area shape="rect" id="node3" title=" " alt="" coords="124,189,195,267"/>
 <area shape="rect" id="node9" href="$class_word_quizzle_1_1_word_quizzle_server_service.html" title=" " alt="" coords="555,359,767,817"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_player.html" title=" " alt="" coords="447,1273,586,1453"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_session.html" title=" " alt="" coords="391,880,539,1148"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_player.html" title="Rappresenta un giocatore impegnato un una sfida." alt="" coords="447,1273,586,1453"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_session.html" title="Rappresenta una sessione di un utente." alt="" coords="391,880,539,1148"/>
 <area shape="rect" id="node6" title=" " alt="" coords="157,549,239,627"/>
 <area shape="rect" id="node7" title=" " alt="" coords="264,549,375,627"/>
 <area shape="rect" id="node8" title=" " alt="" coords="399,549,531,627"/>

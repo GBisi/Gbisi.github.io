@@ -1,4 +1,4 @@
 <map id="WordQuizzle.WordQuizzleServer.WordQuizzleServer" name="WordQuizzle.WordQuizzleServer.WordQuizzleServer">
-<area shape="rect" id="node1" title=" " alt="" coords="297,5,513,47"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server.html#a12a2da61799e3615a9bf54388a41eac1" title=" " alt="" coords="5,13,249,39"/>
+<area shape="rect" id="node1" title="Crea un server sulla porta specificata." alt="" coords="297,5,513,47"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server.html#a12a2da61799e3615a9bf54388a41eac1" title="Avvia il server." alt="" coords="5,13,249,39"/>
 </map>

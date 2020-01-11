@@ -1,6 +1,6 @@
 <map id="WordQuizzle.UserRegistryService" name="WordQuizzle.UserRegistryService">
-<area shape="rect" id="node1" title=" " alt="" coords="149,331,325,437"/>
-<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_user_registry.html" title=" " alt="" coords="5,161,181,239"/>
+<area shape="rect" id="node1" title="Classe che si occupa della registrazione degli utenti." alt="" coords="149,331,325,437"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_user_registry.html" title="Interfaccia RMI per la registrazione di un utente." alt="" coords="5,161,181,239"/>
 <area shape="rect" id="node3" title=" " alt="" coords="60,5,127,83"/>
 <area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html" title="Database che gestisce gli utenti." alt="" coords="206,132,365,268"/>
 </map>

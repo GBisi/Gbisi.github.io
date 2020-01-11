@@ -1,7 +1,7 @@
 <map id="WordQuizzle.WordQuizzleServerService.getT1" name="WordQuizzle.WordQuizzleServerService.getT1">
 <area shape="rect" id="node1" title=" " alt="" coords="503,49,715,90"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" title=" " alt="" coords="224,5,455,32"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" title=" " alt="" coords="258,56,421,83"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title=" " alt="" coords="249,107,429,133"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title=" " alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" title="Gestisce una richiesta di sfida." alt="" coords="224,5,455,32"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="258,56,421,83"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="249,107,429,133"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,5,176,32"/>
 </map>

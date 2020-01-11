@@ -1,0 +1,7 @@
+<map id="WordQuizzle.WordQuizzleService.aggiungi_amico" name="WordQuizzle.WordQuizzleService.aggiungi_amico">
+<area shape="rect" id="node1" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="796,23,1067,65"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client.html#a91d982387c02c9ccae681f4a7d500a75" title="Aggiunge un utente alla lista di amici di user." alt="" coords="487,23,748,65"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_gui.html#a5c987293ccc62020ac32b8c4f8415adf" title="Crea il pannello principale." alt="" coords="224,5,439,32"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="244,56,419,83"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,176,83"/>
+</map>

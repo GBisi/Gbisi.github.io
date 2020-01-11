@@ -1,5 +1,5 @@
 <map id="WordQuizzle.Session.parse" name="WordQuizzle.Session.parse">
-<area shape="rect" id="node1" title=" " alt="" coords="288,31,472,57"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title=" " alt="" coords="5,5,240,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title=" " alt="" coords="33,56,213,83"/>
+<area shape="rect" id="node1" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,31,472,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,5,240,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="33,56,213,83"/>
 </map>

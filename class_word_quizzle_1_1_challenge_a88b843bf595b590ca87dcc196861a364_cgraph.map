@@ -1,5 +1,5 @@
 <map id="WordQuizzle.Challenge.result" name="WordQuizzle.Challenge.result">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,200,73"/>
+<area shape="rect" id="node1" title="Genera la stringa contenente le statistiche di un utente." alt="" coords="5,46,200,73"/>
 <area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title=" " alt="" coords="248,5,460,47"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a9aea4ed501ce0cd40cda35021357ad07" title=" " alt="" coords="248,71,460,112"/>
 </map>
