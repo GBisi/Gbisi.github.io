@@ -1,6 +1,0 @@
-<map id="WordQuizzle.DataBaseJSON.writeJSON" name="WordQuizzle.DataBaseJSON.writeJSON">
-<area shape="rect" id="node1" title="Fa il commit del database nel file json." alt="" coords="300,64,557,91"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#ae3657f1b399c6bb2292085f5b267a5c4" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="21,5,237,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a502f41cf68fd6337a482e01d283e675d" title="Modifica il punteggio (User.score) di un utente." alt="" coords="11,57,246,98"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#af4e5efb5f084f394fbca0ae77e7f5368" title="Aggiunge un nuovo utente nel database." alt="" coords="5,123,252,149"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="WordQuizzleClient.sendTranslation" name="WordQuizzleClient.sendTranslation">
+<area shape="rect" id="node1" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_service.html#a02c046b12dcaedd35e92fd7878595f57" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="279,5,513,32"/>
+</map>

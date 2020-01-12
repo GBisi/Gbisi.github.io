@@ -1,0 +1,9 @@
+<map id="User.getFriends" name="User.getFriends">
+<area shape="rect" id="node1" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="799,46,913,73"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a7d1e0c830ff9c94df196ed2d4e49e703" title="Restituisce la lista degli amici di nickUtente." alt="" coords="540,5,743,47"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_server_service.html#ad8f2f775c4d322ac50c25dbc2b673505" title="Restituisce la classifica dell&#39;utente e dei suoi amici." alt="" coords="532,71,751,112"/>
+<area shape="rect" id="node3" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="361,46,484,73"/>
+<area shape="rect" id="node4" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="208,46,313,73"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="5,21,160,47"/>
+<area shape="rect" id="node6" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="32,71,133,98"/>
+</map>

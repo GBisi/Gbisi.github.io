@@ -1,4 +1,0 @@
-<map id="WordQuizzle.WordQuizzleClient.lista_amici" name="WordQuizzle.WordQuizzleClient.lista_amici">
-<area shape="rect" id="node1" title="Richiede la lista degli amici di user." alt="" coords="5,5,243,47"/>
-<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a840ff7492e52f3917106fdea99c6e0f5" title="Richiede la lista degli amici di nickUtente." alt="" coords="291,5,537,47"/>
-</map>

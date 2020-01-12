@@ -1,0 +1,10 @@
+<map id="Notifier" name="Notifier">
+<area shape="rect" id="node1" title="Gestisce le richieste di sfida a livello di Gui." alt="" coords="157,895,239,987"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,703,81,781"/>
+<area shape="rect" id="node3" title=" " alt="" coords="106,703,186,781"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client.html" title="Definisce un Client con memoria." alt="" coords="305,292,456,560"/>
+<area shape="rect" id="node6" href="$class_w_q_gui.html" title="Crea un client con interfaccia a grafica." alt="" coords="210,652,319,832"/>
+<area shape="rect" id="node5" href="$interface_word_quizzle_service.html" title="Interfaccia che definisce i servizi utilizzabili da un client." alt="" coords="308,5,453,229"/>
+<area shape="rect" id="node7" title=" " alt="" coords="108,387,173,465"/>
+<area shape="rect" id="node8" title=" " alt="" coords="198,387,259,465"/>
+</map>

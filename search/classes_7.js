@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['user_155',['User',['../class_word_quizzle_1_1_user.html',1,'WordQuizzle']]],
-  ['userregistry_156',['UserRegistry',['../interface_word_quizzle_1_1_user_registry.html',1,'WordQuizzle']]],
-  ['userregistryservice_157',['UserRegistryService',['../class_word_quizzle_1_1_user_registry_service.html',1,'WordQuizzle']]]
+  ['user_154',['User',['../class_user.html',1,'']]],
+  ['userregistry_155',['UserRegistry',['../interface_user_registry.html',1,'']]],
+  ['userregistryservice_156',['UserRegistryService',['../class_user_registry_service.html',1,'']]]
 ];

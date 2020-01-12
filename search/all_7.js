@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['help_53',['help',['../class_word_quizzle_1_1_w_q_cli.html#af99dd07b4f0c4e029f872de8ea3ae9f3',1,'WordQuizzle::WQCli']]]
+  ['help_53',['help',['../class_w_q_cli.html#a176225dbab1800ff2b4693ea7654b9b0',1,'WQCli']]]
 ];

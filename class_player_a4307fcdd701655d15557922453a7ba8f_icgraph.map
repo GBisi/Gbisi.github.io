@@ -1,0 +1,5 @@
+<map id="Player.isTerminated" name="Player.isTerminated">
+<area shape="rect" id="node1" title="Verifica se l&#39;utente ha terminato la sfida." alt="" coords="360,31,497,57"/>
+<area shape="rect" id="node2" href="$class_challenge.html#ae140d268abab98e4b7abbf302596efa8" title="Verifica se la sfida e&#39; terminata." alt="" coords="155,5,312,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="5,31,107,57"/>
+</map>

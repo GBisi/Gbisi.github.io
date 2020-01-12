@@ -1,0 +1,4 @@
+<map id="WQGui.inChallenge" name="WQGui.inChallenge">
+<area shape="rect" id="node1" title="Verifica se l&#39;utente e&#39; impegnato in una sfida." alt="" coords="137,5,273,32"/>
+<area shape="rect" id="node2" href="$class_notifier.html#a1e6abba853ca6fe241ce37a988ee818f" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="5,5,89,32"/>
+</map>

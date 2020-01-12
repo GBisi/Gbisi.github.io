@@ -1,4 +1,0 @@
-<map id="WordQuizzle.WordQuizzleClient.sfida" name="WordQuizzle.WordQuizzleClient.sfida">
-<area shape="rect" id="node1" title="Invia una richiesta di sfida ad un amico." alt="" coords="5,5,245,32"/>
-<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a03b9a7a322f06b3c95a028faf5eb32d4" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="293,5,543,32"/>
-</map>

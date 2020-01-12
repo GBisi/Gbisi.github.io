@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['n_73',['n',['../class_word_quizzle_1_1_tester.html#af9fab96f52012b569665d5b3746b11fc',1,'WordQuizzle.Tester.n()'],['../class_word_quizzle_1_1_dictionary_txt.html#a512cfb27b4f108b4ef5f87de6856a31e',1,'WordQuizzle.DictionaryTxt.N()']]],
-  ['name_74',['name',['../class_word_quizzle_1_1_user.html#af4c6caf1df2ef8778d48ffa03a591ef8',1,'WordQuizzle::User']]],
-  ['newbfs_75',['newBfs',['../class_word_quizzle_1_1_session.html#a002484312c9f9178b1327f7dece00080',1,'WordQuizzle::Session']]],
-  ['newuser_76',['newUser',['../interface_word_quizzle_1_1_data_base.html#a214fddaaec4f5c3cac9eb1f14e065785',1,'WordQuizzle.DataBase.newUser()'],['../class_word_quizzle_1_1_data_base_j_s_o_n.html#af4e5efb5f084f394fbca0ae77e7f5368',1,'WordQuizzle.DataBaseJSON.newUser()']]],
-  ['next_77',['next',['../class_word_quizzle_1_1_player.html#a99a0da7565d3e507ef1a4d30bac5a088',1,'WordQuizzle::Player']]],
-  ['nextid_78',['nextId',['../class_word_quizzle_1_1_challenge.html#ab6a5c0dbabdf904af15dc6a9f2463bb3',1,'WordQuizzle::Challenge']]],
-  ['notifier_79',['Notifier',['../class_word_quizzle_1_1_notifier.html',1,'WordQuizzle.Notifier'],['../class_word_quizzle_1_1_notifier.html#a08ecc875e38baacc08867648a1b249fc',1,'WordQuizzle.Notifier.Notifier()']]],
-  ['nuovarichiesta_80',['nuovaRichiesta',['../class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020',1,'WordQuizzle::WQCli']]]
+  ['n_73',['n',['../class_tester.html#a460f3945bea260aeb76398f0ede5eaba',1,'Tester.n()'],['../class_dictionary_txt.html#a2f394b6914330cdd38905f9b2637a557',1,'DictionaryTxt.N()']]],
+  ['name_74',['name',['../class_user.html#a15206c2eceffa1dcd2056a1eb6992c1a',1,'User']]],
+  ['newbfs_75',['newBfs',['../class_session.html#aec1809a5616ff0dfa7244ded2fdd8a13',1,'Session']]],
+  ['newuser_76',['newUser',['../interface_data_base.html#afd47f89288d87a50b4995a048d51887e',1,'DataBase.newUser()'],['../class_data_base_j_s_o_n.html#a64a57f48b018b652282cdc153a4605b1',1,'DataBaseJSON.newUser()']]],
+  ['next_77',['next',['../class_player.html#a202753c68b279113fcbe39e23b063cdc',1,'Player']]],
+  ['nextid_78',['nextId',['../class_challenge.html#a14a01c300bf4e3bef1991f6690454592',1,'Challenge']]],
+  ['notifier_79',['Notifier',['../class_notifier.html',1,'Notifier'],['../class_notifier.html#a4961f7559ca08aeca1f870888db4fd72',1,'Notifier.Notifier()']]],
+  ['nuovarichiesta_80',['nuovaRichiesta',['../class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd',1,'WQCli']]]
 ];

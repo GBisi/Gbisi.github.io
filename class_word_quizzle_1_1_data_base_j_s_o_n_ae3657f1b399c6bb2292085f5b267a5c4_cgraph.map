@@ -1,5 +1,0 @@
-<map id="WordQuizzle.DataBaseJSON.link" name="WordQuizzle.DataBaseJSON.link">
-<area shape="rect" id="node1" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="5,31,221,57"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a8cf7829d68264a1874636d2b3cb66a5c" title="Controlla che quel nome utente sia nel database." alt="" coords="269,5,528,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a5ae7156660a70a1a8103da3539a93914" title="Fa il commit del database nel file json." alt="" coords="270,56,527,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="WordQuizzle.WordQuizzleService.mostra_classifica" name="WordQuizzle.WordQuizzleService.mostra_classifica">
-<area shape="rect" id="node1" title="Richiede la classifica dell&#39;utente e dei suoi amici." alt="" coords="788,49,1051,90"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client.html#a155c2dca547e63f1ba07589525ccfd75" title="Richiede la classifica dell&#39;user e dei suoi amici." alt="" coords="487,49,740,90"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_gui.html#a5c987293ccc62020ac32b8c4f8415adf" title="Crea il pannello principale." alt="" coords="224,5,439,32"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="244,56,419,83"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_1_1_tester.html#a374746c9801c5a79f264bac163f0a3ea" title="Esegue un test sul server." alt="" coords="252,107,411,133"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,176,83"/>
-</map>

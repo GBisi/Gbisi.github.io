@@ -1,0 +1,6 @@
+<map id="WordTranslator.main" name="WordTranslator.main">
+<area shape="rect" id="node1" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="196,5,403,32"/>
+<area shape="rect" id="node3" href="$interface_dictionary.html#a5ccfb9bdbd47081fd3dd52a010591649" title="Restituisce una lista di k parole a caso dal dizionario senza ripetizioni." alt="" coords="229,56,369,83"/>
+<area shape="rect" id="node4" href="$class_translator.html#ad52c8ccdf35d16a095786e5e052b333a" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="233,107,366,133"/>
+</map>

@@ -1,4 +1,26 @@
 var annotated_dup =
 [
-    [ "WordQuizzle", "namespace_word_quizzle.html", "namespace_word_quizzle" ]
+    [ "Bot", "class_bot.html", "class_bot" ],
+    [ "Challenge", "class_challenge.html", "class_challenge" ],
+    [ "DataBase", "interface_data_base.html", "interface_data_base" ],
+    [ "DataBaseJSON", "class_data_base_j_s_o_n.html", "class_data_base_j_s_o_n" ],
+    [ "Dictionary", "interface_dictionary.html", "interface_dictionary" ],
+    [ "DictionaryTxt", "class_dictionary_txt.html", "class_dictionary_txt" ],
+    [ "Notifier", "class_notifier.html", "class_notifier" ],
+    [ "Player", "class_player.html", "class_player" ],
+    [ "Session", "class_session.html", "class_session" ],
+    [ "StressTest", "class_stress_test.html", null ],
+    [ "Tester", "class_tester.html", "class_tester" ],
+    [ "Translator", "class_translator.html", null ],
+    [ "User", "class_user.html", "class_user" ],
+    [ "UserRegistry", "interface_user_registry.html", "interface_user_registry" ],
+    [ "UserRegistryService", "class_user_registry_service.html", "class_user_registry_service" ],
+    [ "WordQuizzleClient", "class_word_quizzle_client.html", "class_word_quizzle_client" ],
+    [ "WordQuizzleClientService", "class_word_quizzle_client_service.html", "class_word_quizzle_client_service" ],
+    [ "WordQuizzleServer", "class_word_quizzle_server.html", "class_word_quizzle_server" ],
+    [ "WordQuizzleServerService", "class_word_quizzle_server_service.html", "class_word_quizzle_server_service" ],
+    [ "WordQuizzleService", "interface_word_quizzle_service.html", "interface_word_quizzle_service" ],
+    [ "WordTranslator", "class_word_translator.html", null ],
+    [ "WQCli", "class_w_q_cli.html", "class_w_q_cli" ],
+    [ "WQGui", "class_w_q_gui.html", "class_w_q_gui" ]
 ];

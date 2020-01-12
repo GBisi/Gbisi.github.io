@@ -1,0 +1,5 @@
+<map id="Bot.game" name="Bot.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="240,5,319,32"/>
+<area shape="rect" id="node2" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="128,5,192,32"/>
+<area shape="rect" id="node3" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="5,5,80,32"/>
+</map>

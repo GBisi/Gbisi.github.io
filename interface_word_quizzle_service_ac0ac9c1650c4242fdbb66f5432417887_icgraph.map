@@ -1,0 +1,7 @@
+<map id="WordQuizzleService.sfida" name="WordQuizzleService.sfida">
+<area shape="rect" id="node1" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="539,31,709,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a2532bb6f1399cae0692189e7b1b4fb60" title="Invia una richiesta di sfida ad un amico." alt="" coords="329,31,491,57"/>
+<area shape="rect" id="node3" href="$class_w_q_gui.html#a7627c0d130d7b9a1084bf3c7afb0a055" title="Crea il pannello principale." alt="" coords="145,5,281,32"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="165,56,261,83"/>
+<area shape="rect" id="node5" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,97,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DataBaseJSON.link" name="DataBaseJSON.link">
+<area shape="rect" id="node1" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$class_data_base_j_s_o_n.html#a0e2fb15fe514e5455e92b9617782bd7a" title="Controlla che quel nome utente sia nel database." alt="" coords="191,5,369,32"/>
+<area shape="rect" id="node3" href="$class_data_base_j_s_o_n.html#a2f0cb04d60aeef45cc707b7001fdee56" title="Fa il commit del database nel file json." alt="" coords="191,56,369,83"/>
+</map>

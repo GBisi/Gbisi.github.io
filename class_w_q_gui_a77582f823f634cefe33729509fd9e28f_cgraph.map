@@ -1,0 +1,5 @@
+<map id="WQGui.make" name="WQGui.make">
+<area shape="rect" id="node1" title="Crea l&#39;interfaccia per la prima volta." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#ab3b513d94019a6b4350aaa6c92c59136" title="Effettua il logout di user." alt="" coords="155,5,324,32"/>
+<area shape="rect" id="node3" href="$interface_word_quizzle_service.html#a4f3b6b3f8ee7f02e7560de7571de1e07" title="Effettua il logout." alt="" coords="372,5,551,32"/>
+</map>

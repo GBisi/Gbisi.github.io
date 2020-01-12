@@ -1,0 +1,5 @@
+<map id="Challenge.Challenge" name="Challenge.Challenge">
+<area shape="rect" id="node1" title="Crea una nuova sfida." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="193,5,400,32"/>
+<area shape="rect" id="node3" href="$class_dictionary_txt.html#aa27ccdbfd57dd84c8f59bcf19c296da9" title="Restituisce una lista di k parole a caso dal dizionario." alt="" coords="217,56,376,83"/>
+</map>

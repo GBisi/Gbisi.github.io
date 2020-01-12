@@ -1,0 +1,5 @@
+<map id="UserRegistryService" name="UserRegistryService">
+<area shape="rect" id="node1" title="Classe che si occupa della registrazione degli utenti." alt="" coords="5,256,164,348"/>
+<area shape="rect" id="node2" href="$interface_user_registry.html" title="Interfaccia RMI per la registrazione di un utente." alt="" coords="21,131,149,208"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,118,83"/>
+</map>

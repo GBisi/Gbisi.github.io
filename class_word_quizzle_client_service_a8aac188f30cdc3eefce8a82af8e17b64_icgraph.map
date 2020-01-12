@@ -1,0 +1,13 @@
+<map id="WordQuizzleClientService.read" name="WordQuizzleClientService.read">
+<area shape="rect" id="node1" title="Ottiene un messaggio inviato dal server." alt="" coords="529,253,731,279"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client_service.html#a6132feed91596156595e4f36713acade" title="Invia un messaggio al server e attende una sua risposta." alt="" coords="277,253,481,279"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_client_service.html#a9291feb9c1117ce3493bef1149cacb08" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="8,5,227,47"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client_service.html#af8aab1c9bac51180ba45a42d6347b1f7" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="5,71,229,112"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_client_service.html#af0e53b0b09cbf74b95782fa6f838a729" title="Richiede la lista degli amici di nickUtente." alt="" coords="17,136,217,177"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_client_service.html#a3b4cd4b9507349b2ebd0a219bbf660e8" title="Effettua il login specificando l&#39;indirizzo per la connessione UDP." alt="" coords="16,202,219,229"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_client_service.html#a1c8306a88e1f8755e6b495d8c65658b4" title="Effettua il logout." alt="" coords="12,253,223,279"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_client_service.html#a4f7f08d10b089539f4173202836cee10" title="Richiede la classifica dell&#39;utente e dei suoi amici." alt="" coords="9,304,225,345"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_client_service.html#a46c0f1bdaafdb2431ca47ae00a0b4ffe" title="Richiede il punteggio di nickUtente." alt="" coords="9,369,225,411"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_client_service.html#a310c70d5ffa63bda0f13d0404fdb79ce" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="15,435,219,476"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_client_service.html#a470ca573207d4e51fe7ec5d162333234" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="16,501,219,527"/>
+</map>

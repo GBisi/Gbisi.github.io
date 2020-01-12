@@ -1,0 +1,7 @@
+<map id="WordQuizzleServerService.sfida" name="WordQuizzleServerService.sfida">
+<area shape="rect" id="node1" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="5,81,212,108"/>
+<area shape="rect" id="node2" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="266,5,411,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#ae2de3ea233827168e5869b9ac429af6a" title="Restituisce il tempo di creazione della sfida." alt="" coords="260,56,417,83"/>
+<area shape="rect" id="node4" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="275,107,403,133"/>
+<area shape="rect" id="node5" href="$class_user.html#acc6836fc440a040d322d2e1eb31d92fe" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="289,157,388,184"/>
+</map>

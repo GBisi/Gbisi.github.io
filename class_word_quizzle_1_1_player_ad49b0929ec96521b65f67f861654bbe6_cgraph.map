@@ -1,4 +1,0 @@
-<map id="WordQuizzle.Player.isTerminated" name="WordQuizzle.Player.isTerminated">
-<area shape="rect" id="node1" title="Verifica se l&#39;utente ha terminato la sfida." alt="" coords="5,13,221,39"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="269,5,481,47"/>
-</map>

@@ -1,0 +1,9 @@
+<map id="WordQuizzleServerService" name="WordQuizzleServerService">
+<area shape="rect" id="node1" title="Implementa la Business Logic." alt="" coords="326,344,521,700"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,175,124,252"/>
+<area shape="rect" id="node3" title=" " alt="" coords="149,175,319,252"/>
+<area shape="rect" id="node4" title=" " alt="" coords="308,5,355,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="343,175,503,252"/>
+<area shape="rect" id="node6" href="$interface_data_base.html" title="Database che gestisce gli utenti." alt="" coords="527,145,642,281"/>
+<area shape="rect" id="node7" title=" " alt="" coords="667,175,737,252"/>
+</map>

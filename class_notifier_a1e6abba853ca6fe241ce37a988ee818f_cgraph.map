@@ -1,0 +1,14 @@
+<map id="Notifier.run" name="Notifier.run">
+<area shape="rect" id="node1" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="5,137,89,163"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a7be01cd53d19ff448ee3fb95ace8d919" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="154,5,331,47"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client.html#aff2ae6478070d04f0864cfffe73e6b27" title="Verifica se ci sono richieste di sfida per user." alt="" coords="151,71,334,112"/>
+<area shape="rect" id="node6" href="$class_w_q_gui.html#aaa68ff750c4447d05588889a52259e37" title="Crea la finestra di gioco durante una sfida." alt="" coords="192,137,293,163"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_server_service.html#a67b0475525fabf1a456511c53fd74d95" title="Restituisce il tempo di attesa per l&#39;accettazione di una richiesta, in millisecondi." alt="" coords="137,187,348,214"/>
+<area shape="rect" id="node12" href="$class_w_q_gui.html#a92ba34e2c13ee136516c848640adb1e3" title="Verifica se l&#39;utente e&#39; impegnato in una sfida." alt="" coords="175,238,311,265"/>
+<area shape="rect" id="node3" href="$interface_word_quizzle_service.html#ac0cddaf5d6b4f16f4802b52579fd97ae" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="415,5,602,47"/>
+<area shape="rect" id="node5" href="$interface_word_quizzle_service.html#af3a47eb252f1b6e8a80e90568c87b98a" title="Verifica se ci sono richieste di sfida per nickUtente." alt="" coords="413,71,605,112"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="405,137,612,163"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_server_service.html#a5779a8f11e9348825e19ef83b74b43bc" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="403,187,614,214"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_client.html#a8af265290384d3ce6dcb44c6e08f3b4a" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="396,238,621,265"/>
+<area shape="rect" id="node10" href="$interface_word_quizzle_service.html#a02c046b12dcaedd35e92fd7878595f57" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="669,238,904,265"/>
+</map>

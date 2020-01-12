@@ -1,0 +1,5 @@
+<map id="Challenge.result" name="Challenge.result">
+<area shape="rect" id="node1" title="Genera la stringa contenente le statistiche di un utente." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="168,5,375,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_server_service.html#a2630ba2c894c53eba3344fe02c4b818f" title="Restituisce il numero di punti aggiuntivi dati al vincitore di una sfida." alt="" coords="169,56,373,83"/>
+</map>

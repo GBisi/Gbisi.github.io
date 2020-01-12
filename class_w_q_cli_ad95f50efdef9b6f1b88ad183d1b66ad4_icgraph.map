@@ -1,0 +1,6 @@
+<map id="WQCli.mostra_punteggio" name="WQCli.mostra_punteggio">
+<area shape="rect" id="node1" title="Restistuisce una stringa contenente informazioni riguardo la visualizzazione del proprio punteggio." alt="" coords="425,5,592,32"/>
+<area shape="rect" id="node2" href="$class_w_q_cli.html#a176225dbab1800ff2b4693ea7654b9b0" title="Restistuisce una stringa contenente informazioni riguardo i comandi da utilizzare." alt="" coords="289,5,377,32"/>
+<area shape="rect" id="node3" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="145,31,241,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Challenge.close" name="Challenge.close">
+<area shape="rect" id="node1" title="Conclude la sfida inviando ad ogni giocatore un messaggio." alt="" coords="307,31,421,57"/>
+<area shape="rect" id="node2" href="$class_challenge.html#ae1d74e295523725569c9e06b887e9a9e" title="Conclude la sfida." alt="" coords="155,5,259,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="5,31,107,57"/>
+</map>

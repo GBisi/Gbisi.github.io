@@ -1,0 +1,8 @@
+<map id="WordQuizzleService.lista_amici" name="WordQuizzleService.lista_amici">
+<area shape="rect" id="node1" title="Richiede la lista degli amici di nickUtente." alt="" coords="536,49,703,90"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a5503bd747932abeb7a733b780d31dc19" title="Richiede la lista degli amici di user." alt="" coords="329,49,488,90"/>
+<area shape="rect" id="node3" href="$class_w_q_gui.html#a7627c0d130d7b9a1084bf3c7afb0a055" title="Crea il pannello principale." alt="" coords="145,5,281,32"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="165,56,261,83"/>
+<area shape="rect" id="node6" href="$class_tester.html#a17bc4081690cf0fa7a13873d06501f6a" title="Esegue un test sul server." alt="" coords="173,107,253,133"/>
+<area shape="rect" id="node5" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,97,83"/>
+</map>

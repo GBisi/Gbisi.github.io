@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['end_179',['end',['../class_word_quizzle_1_1_challenge.html#a872c3c6f72016561647d84843cbbdc48',1,'WordQuizzle::Challenge']]]
+  ['end_177',['end',['../class_challenge.html#ae1d74e295523725569c9e06b887e9a9e',1,'Challenge']]]
 ];

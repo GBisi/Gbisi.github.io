@@ -1,0 +1,8 @@
+<map id="Bot.game" name="Bot.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="5,81,84,108"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="141,5,348,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_server_service.html#a5779a8f11e9348825e19ef83b74b43bc" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="139,56,350,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client.html#a8af265290384d3ce6dcb44c6e08f3b4a" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="132,107,357,133"/>
+<area shape="rect" id="node6" href="$class_translator.html#ad52c8ccdf35d16a095786e5e052b333a" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="178,157,311,184"/>
+<area shape="rect" id="node5" href="$interface_word_quizzle_service.html#a02c046b12dcaedd35e92fd7878595f57" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="405,107,640,133"/>
+</map>

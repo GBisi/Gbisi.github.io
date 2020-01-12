@@ -1,12 +1,12 @@
 var searchData=
 [
   ['pagina_20principale_81',['Pagina Principale',['../index.html',1,'']]],
-  ['p_82',['p',['../class_word_quizzle_1_1_bot.html#a3663584d677d4d919d760743147ca76b',1,'WordQuizzle::Bot']]],
-  ['parse_83',['parse',['../class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178',1,'WordQuizzle.Session.parse()'],['../class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b',1,'WordQuizzle.WQCli.parse()']]],
-  ['passw_84',['passw',['../class_word_quizzle_1_1_bot.html#aa1e4357696794f595df12962421030c5',1,'WordQuizzle.Bot.passw()'],['../class_word_quizzle_1_1_tester.html#a4a65276a625a00d1f316ea5fc37737fb',1,'WordQuizzle.Tester.passw()']]],
-  ['password_85',['password',['../class_word_quizzle_1_1_user.html#ad30f9a01ad0ed6afd7e5930049d05bb8',1,'WordQuizzle::User']]],
-  ['path_86',['path',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#aa06e47ce515a6c24b94d469cf75605f3',1,'WordQuizzle.DataBaseJSON.path()'],['../class_word_quizzle_1_1_dictionary_txt.html#a43f140c8bee295018cce7d2167d31a49',1,'WordQuizzle.DictionaryTxt.path()']]],
-  ['player_87',['Player',['../class_word_quizzle_1_1_player.html',1,'WordQuizzle.Player'],['../class_word_quizzle_1_1_player.html#a3a25c6e41194eb8d3d1c8331334cb482',1,'WordQuizzle.Player.Player()']]],
-  ['player1_88',['player1',['../class_word_quizzle_1_1_challenge.html#a571c330e88e11ba57b55e57be95f63cb',1,'WordQuizzle::Challenge']]],
-  ['player2_89',['player2',['../class_word_quizzle_1_1_challenge.html#a0bbbbfc89320b3e7dad0090ac223d128',1,'WordQuizzle::Challenge']]]
+  ['p_82',['p',['../class_bot.html#a026e4258520b2224ee726fd3237d0309',1,'Bot']]],
+  ['parse_83',['parse',['../class_session.html#a75364929cf1f8f9e75992a8a8c3b589f',1,'Session.parse()'],['../class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3',1,'WQCli.parse()']]],
+  ['passw_84',['passw',['../class_bot.html#a45aa2cc0f0cb35d3e7dfc2fe46b5544b',1,'Bot.passw()'],['../class_tester.html#a85e3031d00a3531a61abae4bdd4d2dd3',1,'Tester.passw()']]],
+  ['password_85',['password',['../class_user.html#a3ba1323d5419374f9ec77741934c5bb7',1,'User']]],
+  ['path_86',['path',['../class_data_base_j_s_o_n.html#aaa8b3067ab72828e8bbf9db71fac4009',1,'DataBaseJSON.path()'],['../class_dictionary_txt.html#aff651b03fb14c6e9bfb21fd7b29ea151',1,'DictionaryTxt.path()']]],
+  ['player_87',['Player',['../class_player.html',1,'Player'],['../class_player.html#aab5e825b50aed5342902b14a4eb4b5d3',1,'Player.Player()']]],
+  ['player1_88',['player1',['../class_challenge.html#aaf932eb1a4c8dbfee8c3fc592d46e670',1,'Challenge']]],
+  ['player2_89',['player2',['../class_challenge.html#a90d4eaee58d314a598f64e7c4b42522e',1,'Challenge']]]
 ];

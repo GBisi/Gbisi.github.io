@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['questions_284',['questions',['../class_word_quizzle_1_1_challenge.html#a8496231df8e246def3f89bdde5ac5f93',1,'WordQuizzle::Challenge']]]
+  ['questions_282',['questions',['../class_challenge.html#ade9142b26a5156838ee1290a3017fad2',1,'Challenge']]]
 ];

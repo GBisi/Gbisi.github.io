@@ -1,0 +1,6 @@
+<map id="WQCli.game" name="WQCli.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="344,31,440,57"/>
+<area shape="rect" id="node2" href="$class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd" title="Gestisce una richiesta di sfida." alt="" coords="145,5,296,32"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="173,56,269,83"/>
+<area shape="rect" id="node3" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,31,97,57"/>
+</map>

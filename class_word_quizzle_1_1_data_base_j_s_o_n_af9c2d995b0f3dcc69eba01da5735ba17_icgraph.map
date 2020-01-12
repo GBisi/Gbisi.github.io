@@ -1,4 +1,0 @@
-<map id="WordQuizzle.DataBaseJSON.readJSON" name="WordQuizzle.DataBaseJSON.readJSON">
-<area shape="rect" id="node1" title="Legge dal file json il database gia&#39; esistene, se non esiste ne crea uno." alt="" coords="249,13,504,39"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#af9ba53d110fe905a01445e045b47f859" title="Genera un database json per la gestione degli utenti." alt="" coords="5,5,201,47"/>
-</map>

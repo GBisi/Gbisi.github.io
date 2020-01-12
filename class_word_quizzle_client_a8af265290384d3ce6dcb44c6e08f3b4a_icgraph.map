@@ -1,0 +1,12 @@
+<map id="WordQuizzleClient.sendTranslation" name="WordQuizzleClient.sendTranslation">
+<area shape="rect" id="node1" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="493,56,719,83"/>
+<area shape="rect" id="node2" href="$class_bot.html#acc83eda4c2ebd3c509c0e618ff69dba6" title="Gestisce una sfida." alt="" coords="355,5,434,32"/>
+<area shape="rect" id="node5" href="$class_w_q_gui.html#aaa68ff750c4447d05588889a52259e37" title="Crea la finestra di gioco durante una sfida." alt="" coords="344,56,445,83"/>
+<area shape="rect" id="node7" href="$class_w_q_cli.html#a53002705ea7cea7d4ad300f9d9d5a120" title="Gestisce una sfida." alt="" coords="347,107,443,133"/>
+<area shape="rect" id="node3" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="189,5,253,32"/>
+<area shape="rect" id="node4" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="14,5,89,32"/>
+<area shape="rect" id="node6" href="$class_notifier.html#a1e6abba853ca6fe241ce37a988ee818f" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="179,56,263,83"/>
+<area shape="rect" id="node8" href="$class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd" title="Gestisce una richiesta di sfida." alt="" coords="145,107,296,133"/>
+<area shape="rect" id="node10" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="173,157,269,184"/>
+<area shape="rect" id="node9" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,132,97,159"/>
+</map>

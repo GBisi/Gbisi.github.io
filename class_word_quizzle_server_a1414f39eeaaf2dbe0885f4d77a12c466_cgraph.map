@@ -1,0 +1,34 @@
+<map id="WordQuizzleServer.run" name="WordQuizzleServer.run">
+<area shape="rect" id="node1" title="Gestisce le interazioni con i client." alt="" coords="5,157,160,184"/>
+<area shape="rect" id="node2" href="$class_session.html#af23241261df6cb881720a65db842ff96" title="Restituisce il ByteBuffer Array della sessione." alt="" coords="227,5,338,32"/>
+<area shape="rect" id="node3" href="$class_session.html#a80b5cf0f5ea47877e261766c51f1e351" title="Restituisce la socket del client." alt="" coords="1069,264,1193,291"/>
+<area shape="rect" id="node4" href="$class_session.html#a88138ee90b7766aebcf76b8bdc6d06bc" title="Restituisce la risposta da inviare al client." alt="" coords="208,157,357,184"/>
+<area shape="rect" id="node5" href="$class_session.html#a87a68261df83e9c32888673cfe909e2b" title="Restituisce il nome utente corrente della sessione." alt="" coords="223,208,342,235"/>
+<area shape="rect" id="node6" href="$class_session.html#aaede3db35a6f25322a0f4ca3d2b0def7" title="Verifica se la sessione e&#39; terminata." alt="" coords="209,259,356,285"/>
+<area shape="rect" id="node7" href="$class_session.html#aec1809a5616ff0dfa7244ded2fdd8a13" title="Crea un nuovo ByteBuffer Array." alt="" coords="225,309,340,336"/>
+<area shape="rect" id="node8" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="230,107,335,133"/>
+<area shape="rect" id="node9" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="405,283,528,309"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_server_service.html#a9b03b4a431c18e8d8385217e3fbd9a0a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="578,523,801,565"/>
+<area shape="rect" id="node21" href="$class_word_quizzle_server_service.html#a378a2523ed3c3c05001a6a3f5216ca82" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="576,107,803,149"/>
+<area shape="rect" id="node23" href="$class_word_quizzle_server_service.html#a7d1e0c830ff9c94df196ed2d4e49e703" title="Restituisce la lista degli amici di nickUtente." alt="" coords="588,275,791,317"/>
+<area shape="rect" id="node25" href="$class_word_quizzle_server_service.html#afa50bcf7855d98e8198b2021a91326dd" title="Effettua il login specificando l&#39;indirizzo per la connessione UDP." alt="" coords="586,173,793,200"/>
+<area shape="rect" id="node28" href="$class_word_quizzle_server_service.html#a277b16eeb84a3171777351f482157c0b" title="Effettua il logout." alt="" coords="582,224,797,251"/>
+<area shape="rect" id="node29" href="$class_word_quizzle_server_service.html#ad8f2f775c4d322ac50c25dbc2b673505" title="Restituisce la classifica dell&#39;utente e dei suoi amici." alt="" coords="580,341,799,382"/>
+<area shape="rect" id="node31" href="$class_word_quizzle_server_service.html#a8002d35c102aec827bb58c4f1ca7b295" title="Restituisce il punteggio di nickUtente." alt="" coords="580,406,799,447"/>
+<area shape="rect" id="node32" href="$class_word_quizzle_server_service.html#afc47f0b66a46f079c4bed5e579e9a173" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="586,472,793,499"/>
+<area shape="rect" id="node11" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="857,320,1002,347"/>
+<area shape="rect" id="node12" href="$class_challenge.html#ae2de3ea233827168e5869b9ac429af6a" title="Restituisce il tempo di creazione della sfida." alt="" coords="851,523,1008,549"/>
+<area shape="rect" id="node13" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="865,371,993,397"/>
+<area shape="rect" id="node14" href="$class_user.html#acc6836fc440a040d322d2e1eb31d92fe" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="880,472,979,499"/>
+<area shape="rect" id="node15" href="$class_challenge.html#a650e2bfde93fe29ad14a4f7fdcb3c4b9" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="857,573,1002,600"/>
+<area shape="rect" id="node16" href="$class_player.html#a675262b26b676f6b3e9e4bde04156050" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="1077,649,1185,676"/>
+<area shape="rect" id="node18" href="$class_player.html#aee96b4ebaa44ec51fd653c4079723bb8" title="Restituisce la sessione del giocatore." alt="" coords="1067,497,1195,524"/>
+<area shape="rect" id="node19" href="$class_session.html#a8ab972666e7c0d311d4731d9eee566d2" title="Imposta la risposta da inviare al client." alt="" coords="1056,548,1205,575"/>
+<area shape="rect" id="node20" href="$class_translator.html#ad52c8ccdf35d16a095786e5e052b333a" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="1064,599,1197,625"/>
+<area shape="rect" id="node17" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="1253,649,1460,676"/>
+<area shape="rect" id="node22" href="$interface_data_base.html#a4b079bd92d1ca63624e4f01398eb29db" title="Crea un link (amicizia) non orientato tra due utenti." alt="" coords="878,115,981,141"/>
+<area shape="rect" id="node24" href="$class_user.html#acd2375afad399d1deb32cb9667b8a1cd" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="872,269,987,296"/>
+<area shape="rect" id="node26" href="$class_user.html#a1612cd6eef2a6e09ab5e72033b2aad00" title="Restituisce la password dell&#39;utente." alt="" coords="865,167,993,193"/>
+<area shape="rect" id="node27" href="$class_session.html#aeb6b2a4acab3e9a3f866e9295999b1b6" title="Imposta l&#39;indirizzo UDP del client a cui inviare le richieste di sfida." alt="" coords="872,217,987,244"/>
+<area shape="rect" id="node30" href="$class_user.html#a6c657437f72c2867ca353762cfbcf400" title="Restituisce il punteggio dell&#39;utente." alt="" coords="877,421,982,448"/>
+</map>

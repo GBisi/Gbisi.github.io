@@ -1,0 +1,4 @@
+<map id="Player.getNext" name="Player.getNext">
+<area shape="rect" id="node1" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="5,5,113,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="161,5,368,32"/>
+</map>

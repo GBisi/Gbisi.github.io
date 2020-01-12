@@ -1,0 +1,9 @@
+<map id="Player.getNext" name="Player.getNext">
+<area shape="rect" id="node1" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="996,31,1104,57"/>
+<area shape="rect" id="node2" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="32,5,133,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#a650e2bfde93fe29ad14a4f7fdcb3c4b9" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="803,57,948,84"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server_service.html#a9b03b4a431c18e8d8385217e3fbd9a0a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="532,54,755,95"/>
+<area shape="rect" id="node5" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="361,59,484,85"/>
+<area shape="rect" id="node6" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="208,57,313,84"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="5,57,160,84"/>
+</map>

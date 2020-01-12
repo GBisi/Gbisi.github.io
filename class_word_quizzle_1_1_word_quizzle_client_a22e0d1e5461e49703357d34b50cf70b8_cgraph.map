@@ -1,4 +1,0 @@
-<map id="WordQuizzle.WordQuizzleClient.mostra_punteggio" name="WordQuizzle.WordQuizzleClient.mostra_punteggio">
-<area shape="rect" id="node1" title="Richiede il punteggio di user." alt="" coords="5,5,259,47"/>
-<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#aa52c8d6d7cb293c01798f169eb4d51d3" title="Richiede il punteggio di nickUtente." alt="" coords="307,5,569,47"/>
-</map>

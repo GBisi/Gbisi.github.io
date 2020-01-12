@@ -1,0 +1,6 @@
+<map id="WordQuizzleServerService.getX" name="WordQuizzleServerService.getX">
+<area shape="rect" id="node1" title="Restituisce quanto vale una risposta corretta." alt="" coords="489,5,693,32"/>
+<area shape="rect" id="node2" href="$class_challenge.html#aaecf42c7f107c92359e0d97dcae656ed" title="Calcola le statistiche del giocatore al termine della sfida." alt="" coords="307,5,441,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#ae1d74e295523725569c9e06b887e9a9e" title="Conclude la sfida." alt="" coords="155,5,259,32"/>
+<area shape="rect" id="node4" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="5,5,107,32"/>
+</map>

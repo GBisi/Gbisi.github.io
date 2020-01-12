@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ans_254',['ans',['../class_word_quizzle_1_1_player.html#a9ae6e4877adaade73cf24e6979e9f1f8',1,'WordQuizzle::Player']]]
+  ['ans_252',['ans',['../class_player.html#a7d1a076c3ea68225e617128119b26905',1,'Player']]]
 ];

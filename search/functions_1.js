@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bot_170',['Bot',['../class_word_quizzle_1_1_bot.html#a78910f89f5a7e3aa00c8e5d054671005',1,'WordQuizzle::Bot']]]
+  ['bot_168',['Bot',['../class_bot.html#a35d9bc048956f8b5f750911efeb32309',1,'Bot']]]
 ];

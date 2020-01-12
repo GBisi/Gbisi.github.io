@@ -1,0 +1,4 @@
+<map id="WordQuizzleClientService" name="WordQuizzleClientService">
+<area shape="rect" id="node1" title="Implementa i servizi offerti ai client per l&#39;interazione con il server." alt="" coords="5,277,197,589"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_service.html" title="Interfaccia che definisce i servizi utilizzabili da un client." alt="" coords="29,5,174,229"/>
+</map>

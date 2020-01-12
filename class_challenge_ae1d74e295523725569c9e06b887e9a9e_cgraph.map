@@ -1,0 +1,16 @@
+<map id="Challenge.end" name="Challenge.end">
+<area shape="rect" id="node1" title="Conclude la sfida." alt="" coords="5,309,109,336"/>
+<area shape="rect" id="node2" href="$class_challenge.html#aaecf42c7f107c92359e0d97dcae656ed" title="Calcola le statistiche del giocatore al termine della sfida." alt="" coords="167,81,302,108"/>
+<area shape="rect" id="node6" href="$class_challenge.html#acc51fa450378fcd049b7b6573fefa947" title="Conclude la sfida inviando ad ogni giocatore un messaggio." alt="" coords="177,208,292,235"/>
+<area shape="rect" id="node8" href="$class_player.html#aee96b4ebaa44ec51fd653c4079723bb8" title="Restituisce la sessione del giocatore." alt="" coords="399,259,527,285"/>
+<area shape="rect" id="node10" href="$class_session.html#a87a68261df83e9c32888673cfe909e2b" title="Restituisce il nome utente corrente della sessione." alt="" coords="175,309,294,336"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_server_service.html#a2630ba2c894c53eba3344fe02c4b818f" title="Restituisce il numero di punti aggiuntivi dati al vincitore di una sfida." alt="" coords="361,385,565,412"/>
+<area shape="rect" id="node12" href="$interface_data_base.html#a3783e778051222f055d70e77ea648839" title="Modifica il punteggio (User.score) di un utente." alt="" coords="157,411,312,437"/>
+<area shape="rect" id="node13" href="$class_challenge.html#a67e0299b129d8fca6f04ebc11f530864" title="Genera la stringa contenente le statistiche di un utente." alt="" coords="177,461,292,488"/>
+<area shape="rect" id="node3" href="$class_player.html#a70d0d8d7afe9e8bbb1cf095ad482969e" title="Restituisce la lista di risposte del giocatore." alt="" coords="398,5,529,32"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server_service.html#afda48ba7f7729d1479840b56505ab993" title="Restituisce quanto vale una risposta corretta." alt="" coords="361,56,565,83"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_server_service.html#af41b281a730f7289188fa385032d80ae" title="Restituisce quanto vale una risposta errata." alt="" coords="360,107,567,133"/>
+<area shape="rect" id="node7" href="$class_session.html#a80b5cf0f5ea47877e261766c51f1e351" title="Restituisce la socket del client." alt="" coords="401,157,525,184"/>
+<area shape="rect" id="node9" href="$class_session.html#a8ab972666e7c0d311d4731d9eee566d2" title="Imposta la risposta da inviare al client." alt="" coords="389,208,538,235"/>
+<area shape="rect" id="node14" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="360,461,567,488"/>
+</map>

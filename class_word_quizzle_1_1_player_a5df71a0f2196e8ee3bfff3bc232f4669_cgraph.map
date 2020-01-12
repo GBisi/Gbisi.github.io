@@ -1,4 +1,0 @@
-<map id="WordQuizzle.Player.getNext" name="WordQuizzle.Player.getNext">
-<area shape="rect" id="node1" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="5,13,192,39"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="240,5,452,47"/>
-</map>

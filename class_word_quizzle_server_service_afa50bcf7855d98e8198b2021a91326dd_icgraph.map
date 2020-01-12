@@ -1,0 +1,7 @@
+<map id="WordQuizzleServerService.login" name="WordQuizzleServerService.login">
+<area shape="rect" id="node1" title="Effettua il login specificando l&#39;indirizzo per la connessione UDP." alt="" coords="532,31,739,57"/>
+<area shape="rect" id="node2" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="361,31,484,57"/>
+<area shape="rect" id="node3" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="208,31,313,57"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node5" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="32,56,133,83"/>
+</map>

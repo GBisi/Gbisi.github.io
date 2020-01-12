@@ -1,0 +1,8 @@
+<map id="WQGui.makeLogin" name="WQGui.makeLogin">
+<area shape="rect" id="node1" title="Crea la finestra di login e registrazione." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a90fec95de2354aa8baf1f248b578cdd0" title="Restituisce il nome utente corrente." alt="" coords="185,5,364,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_client.html#ab3dfa5eb3dd327ca00e89b9920125e0e" title="Effettua il login." alt="" coords="194,56,355,83"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_client.html#a516539e0da1d5d54431a7e41cf9339f8" title="Registra un nuovo utente." alt="" coords="186,107,363,149"/>
+<area shape="rect" id="node4" href="$interface_word_quizzle_service.html#a7d076a6d78b7108aa0d793ea398492f4" title="Effettua il login." alt="" coords="420,56,591,83"/>
+<area shape="rect" id="node6" href="$interface_word_quizzle_service.html#a11603d2e946c2df51d3fa9d1daa53791" title="Registra un utente." alt="" coords="412,107,599,149"/>
+</map>

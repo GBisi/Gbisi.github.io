@@ -1,5 +1,0 @@
-<map id="WordQuizzle.WQCli" name="WordQuizzle.WQCli">
-<area shape="rect" id="node1" title="Crea un client con interfaccia a linea di comando." alt="" coords="44,623,185,920"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_client.html" title="Definisce un Client con memoria." alt="" coords="10,292,219,560"/>
-<area shape="rect" id="node3" href="$interface_word_quizzle_1_1_word_quizzle_service.html" title="Interfaccia che definisce i servizi utilizzabili da un client." alt="" coords="5,5,224,229"/>
-</map>

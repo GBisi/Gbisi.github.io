@@ -1,6 +1,0 @@
-<map id="WordQuizzle.Challenge.isTerminated" name="WordQuizzle.Challenge.isTerminated">
-<area shape="rect" id="node1" title="Verifica se la sfida e&#39; terminata." alt="" coords="5,35,177,76"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#ac78bda2a578b3baa0933ca28e4b72e0c" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="227,5,439,47"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_player.html#ad49b0929ec96521b65f67f861654bbe6" title="Verifica se l&#39;utente ha terminato la sfida." alt="" coords="225,71,441,98"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="489,64,701,105"/>
-</map>

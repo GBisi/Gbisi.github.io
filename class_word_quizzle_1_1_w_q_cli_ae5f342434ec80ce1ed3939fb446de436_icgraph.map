@@ -1,6 +1,0 @@
-<map id="WordQuizzle.WQCli.game" name="WordQuizzle.WQCli.game">
-<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="503,31,677,57"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" title="Gestisce una richiesta di sfida." alt="" coords="224,5,455,32"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="252,56,427,83"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,31,176,57"/>
-</map>

@@ -37,9 +37,6 @@ var NAVTREE =
         [ "Svolgimento del gioco", "index.html#autotoc_md17", null ]
       ] ]
     ] ],
-    [ "Package", "namespaces.html", [
-      [ "Package", "namespaces.html", "namespaces_dup" ]
-    ] ],
     [ "Classi", "annotated.html", [
       [ "Elenco dei tipi composti", "annotated.html", "annotated_dup" ],
       [ "Indice dei tipi composti", "classes.html", null ],

@@ -1,0 +1,14 @@
+<map id="WordQuizzleServerService.accettaSfida" name="WordQuizzleServerService.accettaSfida">
+<area shape="rect" id="node1" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="5,99,228,141"/>
+<area shape="rect" id="node2" href="$interface_data_base.html#a580f93c56dbbed8b2fb1fc2e856efe68" title="Controlla che quel nome utente sia nel database." alt="" coords="282,5,427,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#ae2de3ea233827168e5869b9ac429af6a" title="Restituisce il tempo di creazione della sfida." alt="" coords="276,56,433,83"/>
+<area shape="rect" id="node4" href="$interface_data_base.html#af660eaf16066006da658ac99fa3f6936" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="291,107,419,133"/>
+<area shape="rect" id="node5" href="$class_user.html#acc6836fc440a040d322d2e1eb31d92fe" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="305,157,404,184"/>
+<area shape="rect" id="node6" href="$class_challenge.html#a650e2bfde93fe29ad14a4f7fdcb3c4b9" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="282,208,427,235"/>
+<area shape="rect" id="node7" href="$class_session.html#a80b5cf0f5ea47877e261766c51f1e351" title="Restituisce la socket del client." alt="" coords="494,107,618,133"/>
+<area shape="rect" id="node8" href="$class_player.html#a675262b26b676f6b3e9e4bde04156050" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="502,157,610,184"/>
+<area shape="rect" id="node10" href="$class_player.html#aee96b4ebaa44ec51fd653c4079723bb8" title="Restituisce la sessione del giocatore." alt="" coords="492,208,620,235"/>
+<area shape="rect" id="node11" href="$class_session.html#a8ab972666e7c0d311d4731d9eee566d2" title="Imposta la risposta da inviare al client." alt="" coords="481,259,631,285"/>
+<area shape="rect" id="node12" href="$class_translator.html#ad52c8ccdf35d16a095786e5e052b333a" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="489,309,623,336"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="679,157,885,184"/>
+</map>

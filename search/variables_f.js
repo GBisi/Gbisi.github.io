@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['s_286',['s',['../class_word_quizzle_1_1_player.html#ac6fda0afb92fc6f1972dd30c6cd71a19',1,'WordQuizzle::Player']]],
-  ['score_287',['score',['../class_word_quizzle_1_1_user.html#a5533a7e7a758b7ab872ab672df9d4188',1,'WordQuizzle::User']]],
-  ['selector_288',['selector',['../class_word_quizzle_1_1_challenge.html#a9570050e87703b782579d38856f2df89',1,'WordQuizzle.Challenge.selector()'],['../class_word_quizzle_1_1_word_quizzle_server.html#ad90c19ebff4aa366a4fbd7b1b0a2b2ff',1,'WordQuizzle.WordQuizzleServer.selector()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#a8d8ca61081595356ecbe2893518eb66a',1,'WordQuizzle.WordQuizzleServerService.selector()']]],
-  ['server_289',['server',['../class_word_quizzle_1_1_challenge.html#a27190f26b9b56eeee575e98201ce9a81',1,'WordQuizzle.Challenge.server()'],['../class_word_quizzle_1_1_word_quizzle_server.html#a635e17d6afecde915a2671736e77325c',1,'WordQuizzle.WordQuizzleServer.server()']]],
-  ['service_290',['service',['../class_word_quizzle_1_1_word_quizzle_client.html#a5b652dd1eb82de6f2689c6aa4f999d8c',1,'WordQuizzle::WordQuizzleClient']]],
-  ['socket_291',['socket',['../class_word_quizzle_1_1_word_quizzle_client_service.html#a50c2d95bdba5069f6a552313feb11545',1,'WordQuizzle.WordQuizzleClientService.socket()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#a9fd633313ab0e254c2f110f4e2218db8',1,'WordQuizzle.WordQuizzleServerService.socket()']]],
-  ['startgametime_292',['startGameTime',['../class_word_quizzle_1_1_challenge.html#a00606721deea0d49b8ebd2013c9f9be3',1,'WordQuizzle::Challenge']]],
-  ['starttime_293',['startTime',['../class_word_quizzle_1_1_challenge.html#a1eb2e160786b0d383eb7557f2993c6fb',1,'WordQuizzle::Challenge']]]
+  ['s_284',['s',['../class_player.html#a51d200892c34c3ecd1cc1810ff4d3fd0',1,'Player']]],
+  ['score_285',['score',['../class_user.html#ac5fe54bdbb28e8942e8edc34e29e5b9f',1,'User']]],
+  ['selector_286',['selector',['../class_challenge.html#ad55cdeb806bf50e1f0b2375df529e51b',1,'Challenge.selector()'],['../class_word_quizzle_server.html#a14cf2c1d5add083e6a79d5a8d073065a',1,'WordQuizzleServer.selector()'],['../class_word_quizzle_server_service.html#ab3a27476e9f4880665543f7b50244b66',1,'WordQuizzleServerService.selector()']]],
+  ['server_287',['server',['../class_challenge.html#abb33b949f6433fa74c8e36936a9c38fc',1,'Challenge.server()'],['../class_word_quizzle_server.html#a153591e35e749a06d72649f609858998',1,'WordQuizzleServer.server()']]],
+  ['service_288',['service',['../class_word_quizzle_client.html#a37f9ab52f9f54b0bb4999c0a0cdd1468',1,'WordQuizzleClient']]],
+  ['socket_289',['socket',['../class_word_quizzle_client_service.html#ae4e6f911b0af27ebf08a5b9ff1184413',1,'WordQuizzleClientService.socket()'],['../class_word_quizzle_server_service.html#a731afeb6201b0ed9182758d087e2d844',1,'WordQuizzleServerService.socket()']]],
+  ['startgametime_290',['startGameTime',['../class_challenge.html#a6c2ad68b485fb539d8488a265fce0a45',1,'Challenge']]],
+  ['starttime_291',['startTime',['../class_challenge.html#ab0eebc45c7dba1462f300c40cefe1b96',1,'Challenge']]]
 ];

@@ -1,0 +1,6 @@
+<map id="Session.getUser" name="Session.getUser">
+<area shape="rect" id="node1" title="Restituisce il nome utente corrente della sessione." alt="" coords="357,56,476,83"/>
+<area shape="rect" id="node2" href="$class_challenge.html#ae1d74e295523725569c9e06b887e9a9e" title="Conclude la sfida." alt="" coords="180,5,284,32"/>
+<area shape="rect" id="node3" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="155,107,309,133"/>
+</map>

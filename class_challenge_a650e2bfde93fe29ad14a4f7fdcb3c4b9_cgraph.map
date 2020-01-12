@@ -1,0 +1,9 @@
+<map id="Challenge.setPlayer2" name="Challenge.setPlayer2">
+<area shape="rect" id="node1" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="5,107,151,133"/>
+<area shape="rect" id="node2" href="$class_session.html#a80b5cf0f5ea47877e261766c51f1e351" title="Restituisce la socket del client." alt="" coords="211,5,335,32"/>
+<area shape="rect" id="node3" href="$class_player.html#a675262b26b676f6b3e9e4bde04156050" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="219,56,327,83"/>
+<area shape="rect" id="node5" href="$class_player.html#aee96b4ebaa44ec51fd653c4079723bb8" title="Restituisce la sessione del giocatore." alt="" coords="209,107,337,133"/>
+<area shape="rect" id="node6" href="$class_session.html#a8ab972666e7c0d311d4731d9eee566d2" title="Imposta la risposta da inviare al client." alt="" coords="199,157,348,184"/>
+<area shape="rect" id="node7" href="$class_translator.html#ad52c8ccdf35d16a095786e5e052b333a" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="207,208,340,235"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="396,56,603,83"/>
+</map>

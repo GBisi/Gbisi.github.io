@@ -1,4 +1,0 @@
-<map id="WordQuizzle.WordQuizzleClient.logout" name="WordQuizzle.WordQuizzleClient.logout">
-<area shape="rect" id="node1" title="Effettua il logout di user." alt="" coords="5,5,253,32"/>
-<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_word_quizzle_service.html#afad4dcc98ed2305c17a64146548c1100" title="Effettua il logout." alt="" coords="301,5,559,32"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="WQCli.game" name="WQCli.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="5,56,101,83"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="159,5,365,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_server_service.html#a5779a8f11e9348825e19ef83b74b43bc" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="157,56,367,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client.html#a8af265290384d3ce6dcb44c6e08f3b4a" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="149,107,375,133"/>
+<area shape="rect" id="node5" href="$interface_word_quizzle_service.html#a02c046b12dcaedd35e92fd7878595f57" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="423,107,657,133"/>
+</map>

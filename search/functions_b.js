@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['parse_225',['parse',['../class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178',1,'WordQuizzle.Session.parse()'],['../class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b',1,'WordQuizzle.WQCli.parse()']]],
-  ['player_226',['Player',['../class_word_quizzle_1_1_player.html#a3a25c6e41194eb8d3d1c8331334cb482',1,'WordQuizzle::Player']]]
+  ['parse_223',['parse',['../class_session.html#a75364929cf1f8f9e75992a8a8c3b589f',1,'Session.parse()'],['../class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3',1,'WQCli.parse()']]],
+  ['player_224',['Player',['../class_player.html#aab5e825b50aed5342902b14a4eb4b5d3',1,'Player']]]
 ];

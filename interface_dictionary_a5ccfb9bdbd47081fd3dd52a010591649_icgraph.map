@@ -1,0 +1,4 @@
+<map id="Dictionary.getWords" name="Dictionary.getWords">
+<area shape="rect" id="node1" title="Restituisce una lista di k parole a caso dal dizionario senza ripetizioni." alt="" coords="196,5,336,32"/>
+<area shape="rect" id="node2" href="$class_word_translator.html#a27c3e05df1dbcf411ecaeb82902584f9" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="5,5,148,32"/>
+</map>

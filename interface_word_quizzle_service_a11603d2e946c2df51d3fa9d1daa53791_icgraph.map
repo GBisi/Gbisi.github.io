@@ -1,0 +1,10 @@
+<map id="WordQuizzleService.registra_utente" name="WordQuizzleService.registra_utente">
+<area shape="rect" id="node1" title="Registra un utente." alt="" coords="551,74,737,115"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a516539e0da1d5d54431a7e41cf9339f8" title="Registra un nuovo utente." alt="" coords="325,74,503,115"/>
+<area shape="rect" id="node3" href="$class_w_q_gui.html#a7899aa3dee6ed38cba2a6a3f683b4186" title="Crea la finestra di login e registrazione." alt="" coords="145,5,277,32"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="163,56,259,83"/>
+<area shape="rect" id="node6" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="179,107,243,133"/>
+<area shape="rect" id="node8" href="$class_tester.html#a17bc4081690cf0fa7a13873d06501f6a" title="Esegue un test sul server." alt="" coords="171,157,251,184"/>
+<area shape="rect" id="node5" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,97,83"/>
+<area shape="rect" id="node7" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="14,107,89,133"/>
+</map>

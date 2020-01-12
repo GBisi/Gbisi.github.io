@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['notifier_149',['Notifier',['../class_word_quizzle_1_1_notifier.html',1,'WordQuizzle']]]
+  ['notifier_148',['Notifier',['../class_notifier.html',1,'']]]
 ];

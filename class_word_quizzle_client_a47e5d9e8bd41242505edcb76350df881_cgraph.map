@@ -1,0 +1,4 @@
+<map id="WordQuizzleClient.aggiungi_amico" name="WordQuizzleClient.aggiungi_amico">
+<area shape="rect" id="node1" title="Aggiunge un utente alla lista di amici di user." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_service.html#a9b0441e9bbdbda3213f217f4fe5a97f3" title="Aggiunge un utente alla lista di amici di nickUtente." alt="" coords="236,5,427,47"/>
+</map>

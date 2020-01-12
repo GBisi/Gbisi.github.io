@@ -1,0 +1,4 @@
+<map id="WordQuizzleClient.accettaSfida" name="WordQuizzleClient.accettaSfida">
+<area shape="rect" id="node1" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_service.html#ac0cddaf5d6b4f16f4802b52579fd97ae" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="231,5,417,47"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['end_264',['end',['../class_word_quizzle_1_1_session.html#a009ccad385178bf25899bff3c90620ae',1,'WordQuizzle::Session']]]
+  ['end_262',['end',['../class_session.html#aa7a6d4a344692772457c556177a70fcd',1,'Session']]]
 ];

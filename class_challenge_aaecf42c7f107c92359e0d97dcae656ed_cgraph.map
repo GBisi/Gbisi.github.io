@@ -1,0 +1,6 @@
+<map id="Challenge.calculate" name="Challenge.calculate">
+<area shape="rect" id="node1" title="Calcola le statistiche del giocatore al termine della sfida." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$class_player.html#a70d0d8d7afe9e8bbb1cf095ad482969e" title="Restituisce la lista di risposte del giocatore." alt="" coords="226,5,357,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_server_service.html#afda48ba7f7729d1479840b56505ab993" title="Restituisce quanto vale una risposta corretta." alt="" coords="189,56,393,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_server_service.html#af41b281a730f7289188fa385032d80ae" title="Restituisce quanto vale una risposta errata." alt="" coords="188,107,395,133"/>
+</map>

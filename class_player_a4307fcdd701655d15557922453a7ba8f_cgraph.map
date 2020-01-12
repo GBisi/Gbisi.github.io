@@ -1,0 +1,4 @@
+<map id="Player.isTerminated" name="Player.isTerminated">
+<area shape="rect" id="node1" title="Verifica se l&#39;utente ha terminato la sfida." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_server_service.html#a445af71c2bed6349e5239893b2e0ca8c" title="Restituisce il numero di parole per sfida." alt="" coords="191,5,397,32"/>
+</map>

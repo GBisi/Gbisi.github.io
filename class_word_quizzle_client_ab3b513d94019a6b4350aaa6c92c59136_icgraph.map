@@ -1,0 +1,9 @@
+<map id="WordQuizzleClient.logout" name="WordQuizzleClient.logout">
+<area shape="rect" id="node1" title="Effettua il logout di user." alt="" coords="335,81,504,108"/>
+<area shape="rect" id="node2" href="$class_w_q_gui.html#a77582f823f634cefe33729509fd9e28f" title="Crea l&#39;interfaccia per la prima volta." alt="" coords="168,5,269,32"/>
+<area shape="rect" id="node4" href="$class_w_q_gui.html#a7627c0d130d7b9a1084bf3c7afb0a055" title="Crea il pannello principale." alt="" coords="151,56,287,83"/>
+<area shape="rect" id="node5" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="171,107,267,133"/>
+<area shape="rect" id="node7" href="$class_tester.html#a17bc4081690cf0fa7a13873d06501f6a" title="Esegue un test sul server." alt="" coords="179,157,259,184"/>
+<area shape="rect" id="node3" href="$class_w_q_gui.html#a48d7f8d46048dc649c0e097d26d7d808" title="Avvia l&#39;interfaccia." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node6" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="8,107,100,133"/>
+</map>

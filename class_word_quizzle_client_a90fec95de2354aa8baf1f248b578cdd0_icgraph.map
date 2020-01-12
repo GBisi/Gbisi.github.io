@@ -1,0 +1,4 @@
+<map id="WordQuizzleClient.getUser" name="WordQuizzleClient.getUser">
+<area shape="rect" id="node1" title="Restituisce il nome utente corrente." alt="" coords="185,5,364,32"/>
+<area shape="rect" id="node2" href="$class_w_q_gui.html#a7899aa3dee6ed38cba2a6a3f683b4186" title="Crea la finestra di login e registrazione." alt="" coords="5,5,137,32"/>
+</map>

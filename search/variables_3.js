@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['db_261',['db',['../class_word_quizzle_1_1_challenge.html#a9505107cb46b1be16ad0bf1362561932',1,'WordQuizzle.Challenge.db()'],['../class_word_quizzle_1_1_user_registry_service.html#aadba3b71d050e34d4cfd66275191be3b',1,'WordQuizzle.UserRegistryService.db()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#a2185eb41bde269fd13c6b995c5df3017',1,'WordQuizzle.WordQuizzleServerService.db()']]],
-  ['debug_262',['debug',['../class_word_quizzle_1_1_tester.html#a2457ed8bff99001b69d7c2f94a6829e8',1,'WordQuizzle::Tester']]],
-  ['defaultword_263',['defaultWord',['../class_word_quizzle_1_1_dictionary_txt.html#ac6c7358923273c19f3f0f59c2bc455df',1,'WordQuizzle::DictionaryTxt']]]
+  ['db_259',['db',['../class_challenge.html#aca67029ba2b45f32db1a1027d1fba204',1,'Challenge.db()'],['../class_user_registry_service.html#af21f37b28f412e7d1b66f59ab7b39501',1,'UserRegistryService.db()'],['../class_word_quizzle_server_service.html#ab03872c32373d31348897dd78be2ac86',1,'WordQuizzleServerService.db()']]],
+  ['debug_260',['debug',['../class_tester.html#a78456b3af41e33263ab4034b3b583864',1,'Tester']]],
+  ['defaultword_261',['defaultWord',['../class_dictionary_txt.html#a898b309f31f91b0838bf73b6e4bf78c9',1,'DictionaryTxt']]]
 ];

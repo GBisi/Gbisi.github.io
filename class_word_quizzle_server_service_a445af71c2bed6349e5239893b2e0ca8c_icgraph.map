@@ -1,0 +1,25 @@
+<map id="WordQuizzleServerService.getK" name="WordQuizzleServerService.getK">
+<area shape="rect" id="node1" title="Restituisce il numero di parole per sfida." alt="" coords="1259,183,1465,209"/>
+<area shape="rect" id="node2" href="$class_challenge.html#ac2c09ec141092a57447ee6c5afb5517f" title="Crea una nuova sfida." alt="" coords="1069,5,1209,32"/>
+<area shape="rect" id="node3" href="$class_bot.html#acc83eda4c2ebd3c509c0e618ff69dba6" title="Gestisce una sfida." alt="" coords="1100,56,1179,83"/>
+<area shape="rect" id="node6" href="$class_w_q_gui.html#aaa68ff750c4447d05588889a52259e37" title="Crea la finestra di gioco durante una sfida." alt="" coords="1089,107,1190,133"/>
+<area shape="rect" id="node8" href="$class_w_q_cli.html#a53002705ea7cea7d4ad300f9d9d5a120" title="Gestisce una sfida." alt="" coords="1091,157,1187,184"/>
+<area shape="rect" id="node12" href="$class_player.html#a675262b26b676f6b3e9e4bde04156050" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="1085,208,1193,235"/>
+<area shape="rect" id="node19" href="$class_player.html#a4307fcdd701655d15557922453a7ba8f" title="Verifica se l&#39;utente ha terminato la sfida." alt="" coords="413,411,551,437"/>
+<area shape="rect" id="node21" href="$class_word_translator.html#a27c3e05df1dbcf411ecaeb82902584f9" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="1068,360,1211,387"/>
+<area shape="rect" id="node22" href="$class_challenge.html#a67e0299b129d8fca6f04ebc11f530864" title="Genera la stringa contenente le statistiche di un utente." alt="" coords="653,309,767,336"/>
+<area shape="rect" id="node4" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="913,5,977,32"/>
+<area shape="rect" id="node5" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="673,5,747,32"/>
+<area shape="rect" id="node7" href="$class_notifier.html#a1e6abba853ca6fe241ce37a988ee818f" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="903,56,987,83"/>
+<area shape="rect" id="node9" href="$class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd" title="Gestisce una richiesta di sfida." alt="" coords="869,107,1020,133"/>
+<area shape="rect" id="node11" href="$class_w_q_cli.html#a69d5ad39deabe879509740cc27efb3f3" title="Gestisce le richieste dell&#39;utente." alt="" coords="897,157,993,184"/>
+<area shape="rect" id="node10" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="664,124,756,151"/>
+<area shape="rect" id="node13" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="32,309,133,336"/>
+<area shape="rect" id="node14" href="$class_challenge.html#a650e2bfde93fe29ad14a4f7fdcb3c4b9" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="872,208,1017,235"/>
+<area shape="rect" id="node15" href="$class_word_quizzle_server_service.html#a9b03b4a431c18e8d8385217e3fbd9a0a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="599,193,821,234"/>
+<area shape="rect" id="node16" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="421,203,543,229"/>
+<area shape="rect" id="node17" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="234,207,339,233"/>
+<area shape="rect" id="node18" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="5,207,160,233"/>
+<area shape="rect" id="node20" href="$class_challenge.html#ae140d268abab98e4b7abbf302596efa8" title="Verifica se la sfida e&#39; terminata." alt="" coords="208,360,365,387"/>
+<area shape="rect" id="node23" href="$class_challenge.html#ae1d74e295523725569c9e06b887e9a9e" title="Conclude la sfida." alt="" coords="430,309,534,336"/>
+</map>

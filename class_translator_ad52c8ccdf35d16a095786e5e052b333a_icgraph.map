@@ -1,0 +1,14 @@
+<map id="Translator.translate" name="Translator.translate">
+<area shape="rect" id="node1" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="996,81,1129,108"/>
+<area shape="rect" id="node2" href="$class_bot.html#acc83eda4c2ebd3c509c0e618ff69dba6" title="Gestisce una sfida." alt="" coords="836,5,915,32"/>
+<area shape="rect" id="node5" href="$class_word_translator.html#a27c3e05df1dbcf411ecaeb82902584f9" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="804,56,947,83"/>
+<area shape="rect" id="node6" href="$class_challenge.html#a650e2bfde93fe29ad14a4f7fdcb3c4b9" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="803,107,948,133"/>
+<area shape="rect" id="node12" href="$class_translator.html#afec450514da1655c2c6b97a93393d96b" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="809,157,942,184"/>
+<area shape="rect" id="node3" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="611,5,675,32"/>
+<area shape="rect" id="node4" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="385,5,460,32"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_server_service.html#a9b03b4a431c18e8d8385217e3fbd9a0a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="532,99,755,141"/>
+<area shape="rect" id="node8" href="$class_session.html#a56e3ffab046de2082083cfc54b5d8e72" title="Gestisce effettivamente la richiesta del client." alt="" coords="361,107,484,133"/>
+<area shape="rect" id="node9" href="$class_session.html#a75364929cf1f8f9e75992a8a8c3b589f" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="208,107,313,133"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_server.html#a1414f39eeaaf2dbe0885f4d77a12c466" title="Gestisce le interazioni con i client." alt="" coords="5,81,160,108"/>
+<area shape="rect" id="node11" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="32,132,133,159"/>
+</map>

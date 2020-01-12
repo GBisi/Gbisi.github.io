@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['user_244',['User',['../class_word_quizzle_1_1_user.html#a7197cc8a5899940e6e91dec38a9c3cf4',1,'WordQuizzle.User.User(String name, String password)'],['../class_word_quizzle_1_1_user.html#aaa96aebf46ea034b6fd998b40e5b393a',1,'WordQuizzle.User.User(String name, String password, int score)']]],
-  ['userregistryservice_245',['UserRegistryService',['../class_word_quizzle_1_1_user_registry_service.html#aa69db0ab84d6621d248a1c67ffc4155a',1,'WordQuizzle::UserRegistryService']]]
+  ['user_242',['User',['../class_user.html#ac65fe601a4108b9292ca1a07118d7952',1,'User.User(String name, String password)'],['../class_user.html#a785ffae743cb892f6062b05a23d6bc0d',1,'User.User(String name, String password, int score)']]],
+  ['userregistryservice_243',['UserRegistryService',['../class_user_registry_service.html#ac96748dd7077e19413298758eca9e563',1,'UserRegistryService']]]
 ];

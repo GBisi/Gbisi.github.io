@@ -1,0 +1,6 @@
+<map id="WordQuizzleClientService.logout" name="WordQuizzleClientService.logout">
+<area shape="rect" id="node1" title="Effettua il logout." alt="" coords="5,31,216,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client_service.html#a6132feed91596156595e4f36713acade" title="Invia un messaggio al server e attende una sua risposta." alt="" coords="264,31,468,57"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_client_service.html#a8aac188f30cdc3eefce8a82af8e17b64" title="Ottiene un messaggio inviato dal server." alt="" coords="517,5,718,32"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_client_service.html#a7d2afa64e76c96cabcbcf48219517937" title="Invia al server un messaggio." alt="" coords="516,56,719,83"/>
+</map>

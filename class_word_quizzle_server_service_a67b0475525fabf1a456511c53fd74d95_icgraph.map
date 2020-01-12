@@ -1,0 +1,7 @@
+<map id="WordQuizzleServerService.getT1" name="WordQuizzleServerService.getT1">
+<area shape="rect" id="node1" title="Restituisce il tempo di attesa per l&#39;accettazione di una richiesta, in millisecondi." alt="" coords="344,56,555,83"/>
+<area shape="rect" id="node2" href="$class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd" title="Gestisce una richiesta di sfida." alt="" coords="145,5,296,32"/>
+<area shape="rect" id="node4" href="$class_notifier.html#a1e6abba853ca6fe241ce37a988ee818f" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="179,56,263,83"/>
+<area shape="rect" id="node5" href="$class_challenge.html#adfd88e7904c2d0954ca82e07890c5ca4" title="Gestisce la sfida." alt="" coords="170,107,271,133"/>
+<area shape="rect" id="node3" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,5,97,32"/>
+</map>

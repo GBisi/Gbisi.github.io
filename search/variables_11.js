@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['udp_298',['udp',['../class_word_quizzle_1_1_session.html#ae19cfcdce7818b90875010a19143aa32',1,'WordQuizzle.Session.udp()'],['../class_word_quizzle_1_1_word_quizzle_client_service.html#a8dbcab0448fb60b11208a47dfdc8ea7b',1,'WordQuizzle.WordQuizzleClientService.udp()']]],
-  ['user_299',['user',['../class_word_quizzle_1_1_bot.html#a73cedd50bc9dd901f7446d4a04fc5a3d',1,'WordQuizzle.Bot.user()'],['../class_word_quizzle_1_1_session.html#a327d9d06b6ad0093e28a24b9bb4daa9b',1,'WordQuizzle.Session.user()'],['../class_word_quizzle_1_1_tester.html#a6e01597067d5d80767c4f0154a73d760',1,'WordQuizzle.Tester.user()'],['../class_word_quizzle_1_1_word_quizzle_client.html#af116b00599e42f731bbf8d2eee486ebc',1,'WordQuizzle.WordQuizzleClient.user()']]],
-  ['users_300',['users',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#a72565b59aaf9ad9ac54761aa3c603d2c',1,'WordQuizzle.DataBaseJSON.users()'],['../class_word_quizzle_1_1_word_quizzle_server_service.html#af57e4b1e516c2db620f5e58c81603e90',1,'WordQuizzle.WordQuizzleServerService.users()']]]
+  ['udp_296',['udp',['../class_session.html#a7aa2b652e05a7f1565c1c9b208ea2bc6',1,'Session.udp()'],['../class_word_quizzle_client_service.html#a7bbe3af5f86a5777ed0e775b04524b53',1,'WordQuizzleClientService.udp()']]],
+  ['user_297',['user',['../class_bot.html#a1d8ab85e8ee2aa033c2c1eade6886760',1,'Bot.user()'],['../class_session.html#a954710b123ef2ac49351ff209f1d9fa0',1,'Session.user()'],['../class_tester.html#aec3aeca1b1aec1fe35b162a339ac76fa',1,'Tester.user()'],['../class_word_quizzle_client.html#a142e0b89bd6b15d7fb921ff072e8321b',1,'WordQuizzleClient.user()']]],
+  ['users_298',['users',['../class_data_base_j_s_o_n.html#aa645c8e507c0eab9a7532e89d4f225e7',1,'DataBaseJSON.users()'],['../class_word_quizzle_server_service.html#a7668ae352a5daee2d3a815481c8a2eed',1,'WordQuizzleServerService.users()']]]
 ];

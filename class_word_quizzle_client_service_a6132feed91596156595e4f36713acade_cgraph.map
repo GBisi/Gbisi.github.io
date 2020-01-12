@@ -1,0 +1,5 @@
+<map id="WordQuizzleClientService.send" name="WordQuizzleClientService.send">
+<area shape="rect" id="node1" title="Invia un messaggio al server e attende una sua risposta." alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client_service.html#a8aac188f30cdc3eefce8a82af8e17b64" title="Ottiene un messaggio inviato dal server." alt="" coords="258,5,459,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_client_service.html#a7d2afa64e76c96cabcbcf48219517937" title="Invia al server un messaggio." alt="" coords="257,56,460,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Challenge.close" name="Challenge.close">
+<area shape="rect" id="node1" title="Conclude la sfida inviando ad ogni giocatore un messaggio." alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$class_session.html#a80b5cf0f5ea47877e261766c51f1e351" title="Restituisce la socket del client." alt="" coords="181,5,305,32"/>
+<area shape="rect" id="node3" href="$class_player.html#aee96b4ebaa44ec51fd653c4079723bb8" title="Restituisce la sessione del giocatore." alt="" coords="179,56,307,83"/>
+<area shape="rect" id="node4" href="$class_session.html#a8ab972666e7c0d311d4731d9eee566d2" title="Imposta la risposta da inviare al client." alt="" coords="168,107,317,133"/>
+</map>

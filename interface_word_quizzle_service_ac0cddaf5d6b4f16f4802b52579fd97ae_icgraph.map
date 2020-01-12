@@ -1,0 +1,9 @@
+<map id="WordQuizzleService.accettaSfida" name="WordQuizzleService.accettaSfida">
+<area shape="rect" id="node1" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="569,49,756,90"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_client.html#a7be01cd53d19ff448ee3fb95ace8d919" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="344,49,521,90"/>
+<area shape="rect" id="node3" href="$class_w_q_cli.html#ac8782ba29a63a974f4e17365f8817edd" title="Gestisce una richiesta di sfida." alt="" coords="145,5,296,32"/>
+<area shape="rect" id="node5" href="$class_bot.html#a39bedd8a99e6e57223c433c8197bcb49" title="Avvia il bot." alt="" coords="189,56,253,83"/>
+<area shape="rect" id="node7" href="$class_notifier.html#a1e6abba853ca6fe241ce37a988ee818f" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="179,107,263,133"/>
+<area shape="rect" id="node4" href="$class_w_q_cli.html#a13932f1ea4f257ce081aa524f090b6ee" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node6" href="$class_bot.html#a698976f1ad72fc3c09eff6f887f11d45" title="Esegue un bot." alt="" coords="14,56,89,83"/>
+</map>
