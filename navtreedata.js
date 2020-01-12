@@ -24,18 +24,10 @@ var NAVTREE =
 [
   [ "Word Quizzle", "index.html", [
     [ "Pagina Principale", "index.html", [
-      [ "Laboratorio di Reti, Corsi A e B", "index.html#autotoc_md0", null ],
-      [ "Word Quizzle (WQ)", "index.html#autotoc_md1", null ],
-      [ "Progetto di Fine Corso", "index.html#autotoc_md2", null ],
-      [ "A.A. 2019/2020", "index.html#autotoc_md3", null ],
-      [ "1. Descrizione del Problema", "index.html#autotoc_md4", null ],
-      [ "2. WQ: specifica delle operazioni", "index.html#autotoc_md5", null ],
-      [ "3. WQ: specifiche per l'implementazione", "index.html#autotoc_md13", null ],
-      [ "4. Modalità di svolgimento e consegna", "index.html#autotoc_md14", null ],
-      [ "5. Esempio di interfaccia CLI", "index.html#autotoc_md15", [
-        [ "Lista dei comandi", "index.html#autotoc_md16", null ],
-        [ "Svolgimento del gioco", "index.html#autotoc_md17", null ]
-      ] ]
+      [ "Laboratorio di Reti (B)", "index.html#autotoc_md0", null ],
+      [ "Word Quizzle", "index.html#autotoc_md1", null ],
+      [ "A.A. 2019/2020", "index.html#autotoc_md2", null ],
+      [ "Developed by Giuseppe Bisicchia (Mat. 559033)", "index.html#autotoc_md3", null ]
     ] ],
     [ "Classi", "annotated.html", [
       [ "Elenco dei tipi composti", "annotated.html", "annotated_dup" ],
@@ -53,7 +45,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"index.html#autotoc_md2"
+"interface_dictionary.html"
 ];
 
 var SYNCONMSG = 'cliccare per disabilitare la sincronizzazione del pannello';

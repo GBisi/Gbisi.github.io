@@ -1,12 +1,5 @@
 var class_bot =
 [
-    [ "Registrazione di un utente​:", "index.html#autotoc_md6", null ],
-    [ "login(nickUtente, password):", "index.html#autotoc_md7", null ],
-    [ "logout(nickUtente):", "index.html#autotoc_md8", null ],
-    [ "aggiungi_amico (nickUtente, nickAmico):", "index.html#autotoc_md9", null ],
-    [ "lista_amici(nickUtente):", "index.html#autotoc_md10", null ],
-    [ "mostra_punteggio(nickUtente): ​", "index.html#autotoc_md11", null ],
-    [ "mostra_classifica(nickUtente): ​", "index.html#autotoc_md12", null ],
     [ "Bot", "class_bot.html#a35d9bc048956f8b5f750911efeb32309", null ],
     [ "game", "class_bot.html#acc83eda4c2ebd3c509c0e618ff69dba6", null ],
     [ "run", "class_bot.html#a39bedd8a99e6e57223c433c8197bcb49", null ],
