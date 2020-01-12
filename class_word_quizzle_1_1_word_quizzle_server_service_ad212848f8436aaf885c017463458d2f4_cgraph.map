@@ -1,7 +1,7 @@
 <map id="WordQuizzle.WordQuizzleServerService.mostra_classifica" name="WordQuizzle.WordQuizzleServerService.mostra_classifica">
 <area shape="rect" id="node1" title="Restituisce la classifica dell&#39;utente e dei suoi amici." alt="" coords="5,74,217,115"/>
 <area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_user.html#a8a3e0c4b349c4e6bf825bc84c179c36b" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="281,56,474,83"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_user.html#ae4cc205520a878a71ce7c673e96f7e4f" title="Restituisce il punteggio dell&#39;utente." alt="" coords="285,107,469,133"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_user.html#ad66dbb3ea2106c21fbed251e0845c839" title="Restituisce la lista di amici dell&#39;utente." alt="" coords="281,56,474,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_user.html#a1fb37d9d2420f8f20347a37282cc3ab1" title="Restituisce il punteggio dell&#39;utente." alt="" coords="285,107,469,133"/>
 <area shape="rect" id="node5" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,157,481,184"/>
 </map>

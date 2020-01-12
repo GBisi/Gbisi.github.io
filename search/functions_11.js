@@ -7,5 +7,5 @@ var searchData=
   ['wqcli_244',['WQCli',['../class_word_quizzle_1_1_w_q_cli.html#abbfeca795402787c509e85596a212d64',1,'WordQuizzle::WQCli']]],
   ['wqgui_245',['WQGui',['../class_word_quizzle_1_1_w_q_gui.html#ad0afc4bc38496c180e2dd38956586798',1,'WordQuizzle::WQGui']]],
   ['write_246',['write',['../class_word_quizzle_1_1_word_quizzle_client_service.html#a25566e1d25884c6c0dbb5aab0c1b52fd',1,'WordQuizzle::WordQuizzleClientService']]],
-  ['writejson_247',['writeJSON',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#a04803859cfb2935ed77a512440d643da',1,'WordQuizzle::DataBaseJSON']]]
+  ['writejson_247',['writeJSON',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#a5ae7156660a70a1a8103da3539a93914',1,'WordQuizzle::DataBaseJSON']]]
 ];

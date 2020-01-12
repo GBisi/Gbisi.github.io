@@ -1,0 +1,9 @@
+<map id="WordQuizzle.User.isFriend" name="WordQuizzle.User.isFriend">
+<area shape="rect" id="node1" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="1031,46,1209,73"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="771,5,983,47"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aee4ec771e269748e727002f9fa02e8a0" title="Invia una richiesta di sfida ad un amico di nickUtente." alt="" coords="771,71,983,112"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title="Gestisce effettivamente la richiesta del client." alt="" coords="520,46,723,73"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,46,472,73"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,21,240,47"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="33,71,213,98"/>
+</map>

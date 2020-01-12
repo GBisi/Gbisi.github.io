@@ -33,7 +33,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_user.html#a8a3e0c4b349c4e6bf825bc84c179c36b" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_user.html#ad66dbb3ea2106c21fbed251e0845c839" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
 <polygon fill="white" stroke="black" points="206.5,-38.5 206.5,-57.5 351.5,-57.5 351.5,-38.5 206.5,-38.5"/>
 <text text-anchor="middle" x="279" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.getFriends</text>
 </a>

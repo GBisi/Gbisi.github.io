@@ -3,7 +3,7 @@
 <area shape="rect" id="node2" href="$interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5" title="Controlla che quel nome utente sia nel database." alt="" coords="265,5,489,32"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html#a5c11b31b9fe597b760b5b4817d1c0dc0" title="Restituisce il tempo di creazione della sfida." alt="" coords="287,57,467,98"/>
 <area shape="rect" id="node4" href="$interface_word_quizzle_1_1_data_base.html#a987acacce768d19e4551b5b3a508ccf3" title="Dato un nome utente ottiene l&#39;oggetto User corrispondente." alt="" coords="274,123,481,149"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="288,173,467,200"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_user.html#a9a59479dd5044067d85bc43b92673acf" title="Verifica se un nome utente e&#39; amico dell&#39;utente." alt="" coords="288,173,467,200"/>
 <area shape="rect" id="node6" href="$class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="287,225,467,266"/>
 <area shape="rect" id="node7" href="$class_word_quizzle_1_1_session.html#ac7d5ff28ffd9355eea98b9f66c3c19cd" title="Restituisce la socket del client." alt="" coords="550,131,753,157"/>
 <area shape="rect" id="node8" href="$class_word_quizzle_1_1_player.html#a5df71a0f2196e8ee3bfff3bc232f4669" title="Restituisce l&#39;indice della prossima domanda da sottoporre al giocatore." alt="" coords="558,181,745,208"/>

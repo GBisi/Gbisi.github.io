@@ -8,11 +8,9 @@ var class_word_quizzle_1_1_data_base_j_s_o_n =
     [ "newUser", "class_word_quizzle_1_1_data_base_j_s_o_n.html#af4e5efb5f084f394fbca0ae77e7f5368", null ],
     [ "readJSON", "class_word_quizzle_1_1_data_base_j_s_o_n.html#af9c2d995b0f3dcc69eba01da5735ba17", null ],
     [ "toString", "class_word_quizzle_1_1_data_base_j_s_o_n.html#aa310d209a505e0776d7829414ae717d5", null ],
-    [ "writeJSON", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a04803859cfb2935ed77a512440d643da", null ],
+    [ "writeJSON", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a5ae7156660a70a1a8103da3539a93914", null ],
     [ "gson", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a033f0480b29190475b07c20cb6735243", null ],
     [ "path", "class_word_quizzle_1_1_data_base_j_s_o_n.html#aa06e47ce515a6c24b94d469cf75605f3", null ],
-    [ "read", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a84eea262a0ced5f4cec6c0288b5bc6b2", null ],
     [ "type", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a6b2ebcbd8b45b9374c279515c93ef814", null ],
-    [ "users", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a6ff17a7bfb640843fc5bd84e680315a6", null ],
-    [ "write", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a53a65965b1b6ab97660014479a35ff81", null ]
+    [ "users", "class_word_quizzle_1_1_data_base_j_s_o_n.html#a72565b59aaf9ad9ac54761aa3c603d2c", null ]
 ];

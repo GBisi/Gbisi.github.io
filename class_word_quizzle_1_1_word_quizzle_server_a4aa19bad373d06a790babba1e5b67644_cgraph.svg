@@ -321,7 +321,7 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" target="_top" xlink:title="Verifica se un nome utente e&#39; amico dell&#39;utente.">
+<g id="a_node14"><a xlink:href="class_word_quizzle_1_1_user.html#a9a59479dd5044067d85bc43b92673acf" target="_top" xlink:title="Verifica se un nome utente e&#39; amico dell&#39;utente.">
 <polygon fill="white" stroke="black" points="819,-156 819,-175 953,-175 953,-156 819,-156"/>
 <text text-anchor="middle" x="886" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.isFriend</text>
 </a>
@@ -447,7 +447,7 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
-<g id="a_node24"><a xlink:href="class_word_quizzle_1_1_user.html#a8a3e0c4b349c4e6bf825bc84c179c36b" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
+<g id="a_node24"><a xlink:href="class_word_quizzle_1_1_user.html#ad66dbb3ea2106c21fbed251e0845c839" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
 <polygon fill="white" stroke="black" points="813.5,-308 813.5,-327 958.5,-327 958.5,-308 813.5,-308"/>
 <text text-anchor="middle" x="886" y="-315" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.getFriends</text>
 </a>
@@ -511,7 +511,7 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
-<g id="a_node30"><a xlink:href="class_word_quizzle_1_1_user.html#ae4cc205520a878a71ce7c673e96f7e4f" target="_top" xlink:title="Restituisce il punteggio dell&#39;utente.">
+<g id="a_node30"><a xlink:href="class_word_quizzle_1_1_user.html#a1fb37d9d2420f8f20347a37282cc3ab1" target="_top" xlink:title="Restituisce il punteggio dell&#39;utente.">
 <polygon fill="white" stroke="black" points="817,-194 817,-213 955,-213 955,-194 817,-194"/>
 <text text-anchor="middle" x="886" y="-201" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.getScore</text>
 </a>

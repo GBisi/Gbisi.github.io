@@ -32,7 +32,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_data_base_j_s_o_n.html#a04803859cfb2935ed77a512440d643da" target="_top" xlink:title="Fa il commit del database nel file json.">
+<g id="a_node3"><a xlink:href="class_word_quizzle_1_1_data_base_j_s_o_n.html#a5ae7156660a70a1a8103da3539a93914" target="_top" xlink:title="Fa il commit del database nel file json.">
 <polygon fill="white" stroke="black" points="198.5,-0.5 198.5,-19.5 391.5,-19.5 391.5,-0.5 198.5,-0.5"/>
 <text text-anchor="middle" x="295" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.DataBaseJSON.writeJSON</text>
 </a>

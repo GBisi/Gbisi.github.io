@@ -1,7 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"index.html#autotoc_md9":[3],
-"interface_word_quizzle_1_1_data_base.html":[2,0,0,9],
 "interface_word_quizzle_1_1_data_base.html#a2128ed726158cf0961972a99ac83b9a8":[2,0,0,9,2],
 "interface_word_quizzle_1_1_data_base.html#a214fddaaec4f5c3cac9eb1f14e065785":[2,0,0,9,4],
 "interface_word_quizzle_1_1_data_base.html#a256d6e7e3541d11a9ff219431066a7d5":[2,0,0,9,0],
@@ -26,8 +24,8 @@ var NAVTREEINDEX1 =
 "interface_word_quizzle_1_1_word_quizzle_service.html#aa52c8d6d7cb293c01798f169eb4d51d3":[2,0,0,24,7],
 "interface_word_quizzle_1_1_word_quizzle_service.html#abae2cda062f36f0e54c9d13589c53027":[2,0,0,24,4],
 "interface_word_quizzle_1_1_word_quizzle_service.html#afad4dcc98ed2305c17a64146548c1100":[2,0,0,24,5],
-"namespace_word_quizzle.html":[1,0,0],
 "namespace_word_quizzle.html":[2,0,0],
+"namespace_word_quizzle.html":[1,0,0],
 "namespaces.html":[1,0],
 "pages.html":[]
 };

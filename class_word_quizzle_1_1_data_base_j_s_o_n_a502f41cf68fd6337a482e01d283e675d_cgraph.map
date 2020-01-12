@@ -1,5 +1,5 @@
 <map id="WordQuizzle.DataBaseJSON.modifyScore" name="WordQuizzle.DataBaseJSON.modifyScore">
 <area shape="rect" id="node1" title="Modifica il punteggio (User.score) di un utente." alt="" coords="5,23,240,65"/>
 <area shape="rect" id="node2" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a8cf7829d68264a1874636d2b3cb66a5c" title="Controlla che quel nome utente sia nel database." alt="" coords="288,5,547,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a04803859cfb2935ed77a512440d643da" title="Fa il commit del database nel file json." alt="" coords="289,56,546,83"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_data_base_j_s_o_n.html#a5ae7156660a70a1a8103da3539a93914" title="Fa il commit del database nel file json." alt="" coords="289,56,546,83"/>
 </map>

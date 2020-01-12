@@ -171,7 +171,7 @@
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_user.html#a3cb7161060a60e47d7d9437bed21b888" target="_top" xlink:title="Verifica se un nome utente e&#39; amico dell&#39;utente.">
+<g id="a_node6"><a xlink:href="class_word_quizzle_1_1_user.html#a9a59479dd5044067d85bc43b92673acf" target="_top" xlink:title="Verifica se un nome utente e&#39; amico dell&#39;utente.">
 <polygon fill="white" stroke="black" points="400,-120.5 400,-139.5 534,-139.5 534,-120.5 400,-120.5"/>
 <text text-anchor="middle" x="467" y="-127.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.isFriend</text>
 </a>
@@ -305,7 +305,7 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="class_word_quizzle_1_1_user.html#a8a3e0c4b349c4e6bf825bc84c179c36b" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
+<g id="a_node17"><a xlink:href="class_word_quizzle_1_1_user.html#ad66dbb3ea2106c21fbed251e0845c839" target="_top" xlink:title="Restituisce la lista di amici dell&#39;utente.">
 <polygon fill="white" stroke="black" points="394.5,-322.5 394.5,-341.5 539.5,-341.5 539.5,-322.5 394.5,-322.5"/>
 <text text-anchor="middle" x="467" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.getFriends</text>
 </a>
@@ -369,7 +369,7 @@
 </g>
 <!-- Node23 -->
 <g id="node23" class="node"><title>Node23</title>
-<g id="a_node23"><a xlink:href="class_word_quizzle_1_1_user.html#ae4cc205520a878a71ce7c673e96f7e4f" target="_top" xlink:title="Restituisce il punteggio dell&#39;utente.">
+<g id="a_node23"><a xlink:href="class_word_quizzle_1_1_user.html#a1fb37d9d2420f8f20347a37282cc3ab1" target="_top" xlink:title="Restituisce il punteggio dell&#39;utente.">
 <polygon fill="white" stroke="black" points="398,-208.5 398,-227.5 536,-227.5 536,-208.5 398,-208.5"/>
 <text text-anchor="middle" x="467" y="-215.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.User.getScore</text>
 </a>
