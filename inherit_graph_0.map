@@ -1,6 +1,8 @@
 <map id="Grafico della gerarchia delle classi" name="Grafico della gerarchia delle classi">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,81,83"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html" title="Implementa un bot automatico per giocare in singolo e/o per testing." alt="" coords="148,5,269,32"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html" title="Implementa la sfida tra due utenti." alt="" coords="129,56,288,83"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_notifier.html" title="Gestisce le richieste di sfida a livello di Gui." alt="" coords="138,107,279,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,81,133"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html" title="Implementa un bot automatico per giocare in singolo e/o per testing." alt="" coords="175,5,296,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_challenge.html" title="Implementa la sfida tra due utenti." alt="" coords="156,56,315,83"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_notifier.html" title="Gestisce le richieste di sfida a livello di Gui." alt="" coords="165,107,306,133"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_tester.html" title="Classe che permette il testing delle funzionalita&#39; del server." alt="" coords="167,157,304,184"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server.html" title="Il server che gestisce le interazioni con i client." alt="" coords="129,208,341,235"/>
 </map>

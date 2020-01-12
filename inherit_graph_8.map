@@ -1,3 +1,5 @@
 <map id="Grafico della gerarchia delle classi" name="Grafico della gerarchia delle classi">
-<area shape="rect" id="node1" href="$class_word_quizzle_1_1_word_quizzle_client.html" title="Definisce un Client con memoria." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,72,39"/>
+<area shape="rect" id="node2" href="$interface_word_quizzle_1_1_user_registry.html" title="Interfaccia RMI per la registrazione di un utente." alt="" coords="120,13,296,39"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_user_registry_service.html" title="Classe che si occupa della registrazione degli utenti." alt="" coords="344,5,520,47"/>
 </map>

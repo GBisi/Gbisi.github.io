@@ -1,8 +1,9 @@
 <map id="WordQuizzle.WordQuizzleClient.login" name="WordQuizzle.WordQuizzleClient.login">
-<area shape="rect" id="node1" title="Effettua il login." alt="" coords="483,56,723,83"/>
+<area shape="rect" id="node1" title="Effettua il login." alt="" coords="483,81,723,108"/>
 <area shape="rect" id="node2" href="$class_word_quizzle_1_1_w_q_gui.html#aad977af8a8393382e53bc94a76605a3b" title="Crea la finestra di login e registrazione." alt="" coords="224,5,435,32"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="242,56,417,83"/>
 <area shape="rect" id="node5" href="$class_word_quizzle_1_1_bot.html#aa088d2cccb4552d9277db7908b7cc706" title="Avvia il bot." alt="" coords="258,107,401,133"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_tester.html#a374746c9801c5a79f264bac163f0a3ea" title="Esegue un test sul server." alt="" coords="250,157,409,184"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,56,176,83"/>
 <area shape="rect" id="node6" href="$class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2" title="Esegue un bot." alt="" coords="14,107,167,133"/>
 </map>

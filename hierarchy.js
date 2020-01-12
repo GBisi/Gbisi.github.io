@@ -10,13 +10,15 @@ var hierarchy =
     [ "Runnable", null, [
       [ "WordQuizzle.Bot", "class_word_quizzle_1_1_bot.html", null ],
       [ "WordQuizzle.Challenge", "class_word_quizzle_1_1_challenge.html", null ],
-      [ "WordQuizzle.Notifier", "class_word_quizzle_1_1_notifier.html", null ]
+      [ "WordQuizzle.Notifier", "class_word_quizzle_1_1_notifier.html", null ],
+      [ "WordQuizzle.Tester", "class_word_quizzle_1_1_tester.html", null ],
+      [ "WordQuizzle.WordQuizzleServer", "class_word_quizzle_1_1_word_quizzle_server.html", null ]
     ] ],
     [ "WordQuizzle.Session", "class_word_quizzle_1_1_session.html", null ],
+    [ "WordQuizzle.StressTest", "class_word_quizzle_1_1_stress_test.html", null ],
     [ "WordQuizzle.Translator", "class_word_quizzle_1_1_translator.html", null ],
     [ "WordQuizzle.User", "class_word_quizzle_1_1_user.html", null ],
     [ "WordQuizzle.WordQuizzleClient", "class_word_quizzle_1_1_word_quizzle_client.html", null ],
-    [ "WordQuizzle.WordQuizzleServer", "class_word_quizzle_1_1_word_quizzle_server.html", null ],
     [ "WordQuizzle.WordQuizzleServerService", "class_word_quizzle_1_1_word_quizzle_server_service.html", null ],
     [ "WordQuizzle.WordQuizzleService", "interface_word_quizzle_1_1_word_quizzle_service.html", [
       [ "WordQuizzle.WordQuizzleClientService", "class_word_quizzle_1_1_word_quizzle_client_service.html", null ]

@@ -16,6 +16,8 @@ var namespace_word_quizzle =
     [ "Notifier", "class_word_quizzle_1_1_notifier.html", "class_word_quizzle_1_1_notifier" ],
     [ "Player", "class_word_quizzle_1_1_player.html", "class_word_quizzle_1_1_player" ],
     [ "Session", "class_word_quizzle_1_1_session.html", "class_word_quizzle_1_1_session" ],
+    [ "StressTest", "class_word_quizzle_1_1_stress_test.html", null ],
+    [ "Tester", "class_word_quizzle_1_1_tester.html", "class_word_quizzle_1_1_tester" ],
     [ "Translator", "class_word_quizzle_1_1_translator.html", null ],
     [ "User", "class_word_quizzle_1_1_user.html", "class_word_quizzle_1_1_user" ],
     [ "UserRegistry", "interface_word_quizzle_1_1_user_registry.html", "interface_word_quizzle_1_1_user_registry" ],
