@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['user_231',['User',['../class_word_quizzle_1_1_user.html#a7197cc8a5899940e6e91dec38a9c3cf4',1,'WordQuizzle.User.User(String name, String password)'],['../class_word_quizzle_1_1_user.html#aaa96aebf46ea034b6fd998b40e5b393a',1,'WordQuizzle.User.User(String name, String password, int score)']]],
-  ['userregistryservice_232',['UserRegistryService',['../class_word_quizzle_1_1_user_registry_service.html#aa69db0ab84d6621d248a1c67ffc4155a',1,'WordQuizzle::UserRegistryService']]]
+  ['tostring_234',['toString',['../class_word_quizzle_1_1_data_base_j_s_o_n.html#aa310d209a505e0776d7829414ae717d5',1,'WordQuizzle.DataBaseJSON.toString()'],['../class_word_quizzle_1_1_user.html#a84c15175f1549463d34a31286863f08f',1,'WordQuizzle.User.toString()']]],
+  ['translate_235',['translate',['../class_word_quizzle_1_1_translator.html#a9fcad4b807785c63c72bc85f672fb635',1,'WordQuizzle.Translator.translate(String word)'],['../class_word_quizzle_1_1_translator.html#aebc2b8b89e22283fa8bb1286c5f13f32',1,'WordQuizzle.Translator.translate(String[] ls)']]]
 ];

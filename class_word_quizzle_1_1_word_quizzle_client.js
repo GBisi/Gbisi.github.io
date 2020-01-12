@@ -1,6 +1,6 @@
 var class_word_quizzle_1_1_word_quizzle_client =
 [
-    [ "WordQuizzleClient", "class_word_quizzle_1_1_word_quizzle_client.html#a2a4d1f8164b0b2ed841e7509ff7ea98b", null ],
+    [ "WordQuizzleClient", "class_word_quizzle_1_1_word_quizzle_client.html#a83d04936ea02a276bdd338f5343b00e3", null ],
     [ "accettaSfida", "class_word_quizzle_1_1_word_quizzle_client.html#a540dfbf20ba0d5a8118e6d9284b79bc0", null ],
     [ "aggiungi_amico", "class_word_quizzle_1_1_word_quizzle_client.html#a91d982387c02c9ccae681f4a7d500a75", null ],
     [ "controllaRichieste", "class_word_quizzle_1_1_word_quizzle_client.html#afe12a12441c9c8adefb14b42aa17fcc9", null ],

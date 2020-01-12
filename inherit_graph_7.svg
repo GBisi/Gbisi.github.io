@@ -9,8 +9,8 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 35)">
 <title>Grafico della gerarchia delle classi</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-35 390,-35 390,4 -4,4"/>
-<!-- Node18 -->
-<g id="node1" class="node"><title>Node18</title>
+<!-- Node19 -->
+<g id="node1" class="node"><title>Node19</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-6 0,-25 50,-25 50,-6 0,-6"/>
 <text text-anchor="middle" x="25" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">Remote</text>
@@ -25,8 +25,8 @@
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node0 -->
-<g id="edge1" class="edge"><title>Node18&#45;&gt;Node0</title>
+<!-- Node19&#45;&gt;Node0 -->
+<g id="edge1" class="edge"><title>Node19&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M60.1479,-15.5C68.1843,-15.5 77.0143,-15.5 85.9143,-15.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="60.1013,-12.0001 50.1013,-15.5 60.1012,-19.0001 60.1013,-12.0001"/>
 </g>

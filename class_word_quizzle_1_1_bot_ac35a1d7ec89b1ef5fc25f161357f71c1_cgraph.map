@@ -1,0 +1,7 @@
+<map id="WordQuizzle.Bot.game" name="WordQuizzle.Bot.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="5,78,163,105"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#a970fe0e2dd7457bab2c64ae722a912fc" title="Restituisce il numero di parole per sfida." alt="" coords="225,5,437,47"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_word_quizzle_client.html#a828a5e7a358bd53296d88c97172db13b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="211,71,452,112"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_translator.html#a9fcad4b807785c63c72bc85f672fb635" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="225,137,437,163"/>
+<area shape="rect" id="node4" href="$interface_word_quizzle_1_1_word_quizzle_service.html#a40fcaf644a7b5e4e1c1e592052f55e0b" title="Invia la traduzione della parola precedentemente inviata dal server durante una sfida." alt="" coords="500,71,751,112"/>
+</map>

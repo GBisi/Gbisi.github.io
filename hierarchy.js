@@ -8,6 +8,7 @@ var hierarchy =
     ] ],
     [ "WordQuizzle.Player", "class_word_quizzle_1_1_player.html", null ],
     [ "Runnable", null, [
+      [ "WordQuizzle.Bot", "class_word_quizzle_1_1_bot.html", null ],
       [ "WordQuizzle.Challenge", "class_word_quizzle_1_1_challenge.html", null ],
       [ "WordQuizzle.Notifier", "class_word_quizzle_1_1_notifier.html", null ]
     ] ],

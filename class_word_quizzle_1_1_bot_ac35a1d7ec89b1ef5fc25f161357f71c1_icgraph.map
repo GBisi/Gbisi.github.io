@@ -1,0 +1,5 @@
+<map id="WordQuizzle.Bot.game" name="WordQuizzle.Bot.game">
+<area shape="rect" id="node1" title="Gestisce una sfida." alt="" coords="397,5,555,32"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html#aa088d2cccb4552d9277db7908b7cc706" title="Avvia il bot." alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2" title="Esegue un bot." alt="" coords="5,5,159,32"/>
+</map>

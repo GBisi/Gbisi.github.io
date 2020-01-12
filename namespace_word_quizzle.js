@@ -7,6 +7,7 @@ var namespace_word_quizzle =
     [ "lista_amici(nickUtente):", "index.html#autotoc_md10", null ],
     [ "mostra_punteggio(nickUtente): ​", "index.html#autotoc_md11", null ],
     [ "mostra_classifica(nickUtente): ​", "index.html#autotoc_md12", null ],
+    [ "Bot", "class_word_quizzle_1_1_bot.html", "class_word_quizzle_1_1_bot" ],
     [ "Challenge", "class_word_quizzle_1_1_challenge.html", "class_word_quizzle_1_1_challenge" ],
     [ "DataBase", "interface_word_quizzle_1_1_data_base.html", "interface_word_quizzle_1_1_data_base" ],
     [ "DataBaseJSON", "class_word_quizzle_1_1_data_base_j_s_o_n.html", "class_word_quizzle_1_1_data_base_j_s_o_n" ],
