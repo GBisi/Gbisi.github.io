@@ -1,13 +1,14 @@
 <map id="WordQuizzle.Translator.translate" name="WordQuizzle.Translator.translate">
-<area shape="rect" id="node1" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="1291,64,1503,91"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html#ac35a1d7ec89b1ef5fc25f161357f71c1" title="Gestisce una sfida." alt="" coords="1058,5,1215,32"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="1047,57,1227,98"/>
-<area shape="rect" id="node11" href="$class_word_quizzle_1_1_translator.html#aebc2b8b89e22283fa8bb1286c5f13f32" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="1031,123,1243,149"/>
+<area shape="rect" id="node1" title="Traduce una parola dall&#39;italiano all&#39;inglese." alt="" coords="1300,85,1512,112"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html#ac35a1d7ec89b1ef5fc25f161357f71c1" title="Gestisce una sfida." alt="" coords="1063,5,1220,32"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_word_translator.html#ab869f0c122cb4a4aef5a1e7df320da5c" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="1031,56,1252,83"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_challenge.html#ad9edc220ce2d24274149ab8c6a564a0a" title="Aggiunge l&#39;utente sfidato alla sfida e la avvia." alt="" coords="1051,107,1231,149"/>
+<area shape="rect" id="node12" href="$class_word_quizzle_1_1_translator.html#aebc2b8b89e22283fa8bb1286c5f13f32" title="Traduce una lista di parole dall&#39;italiano all&#39;inglese." alt="" coords="1035,173,1247,200"/>
 <area shape="rect" id="node3" href="$class_word_quizzle_1_1_bot.html#aa088d2cccb4552d9277db7908b7cc706" title="Avvia il bot." alt="" coords="805,5,948,32"/>
 <area shape="rect" id="node4" href="$class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2" title="Esegue un bot." alt="" coords="545,5,698,32"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="771,57,983,98"/>
-<area shape="rect" id="node7" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title="Gestisce effettivamente la richiesta del client." alt="" coords="520,64,723,91"/>
-<area shape="rect" id="node8" href="$class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,64,472,91"/>
-<area shape="rect" id="node9" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,39,240,65"/>
-<area shape="rect" id="node10" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="33,89,213,116"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_word_quizzle_server_service.html#aebc8c566d10a0d24752a33f146f03a2a" title="Accetta una richiesta di sfida inviata da nickAmico." alt="" coords="771,107,983,149"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_1_1_session.html#a21992c338367b1a3c2e57fdb7cae3018" title="Gestisce effettivamente la richiesta del client." alt="" coords="520,115,723,141"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_1_1_session.html#a6793f02ea7cab6fffe0361893cf40178" title="Riceve una stringa contenente uan richiesta da parte del client e la gestisce." alt="" coords="288,115,472,141"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_1_1_word_quizzle_server.html#a4aa19bad373d06a790babba1e5b67644" title="Gestisce le interazioni con i client." alt="" coords="5,89,240,116"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="33,140,213,167"/>
 </map>

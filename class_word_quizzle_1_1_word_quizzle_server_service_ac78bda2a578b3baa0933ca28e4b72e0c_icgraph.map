@@ -1,11 +1,14 @@
 <map id="WordQuizzle.WordQuizzleServerService.getT2" name="WordQuizzle.WordQuizzleServerService.getT2">
-<area shape="rect" id="node1" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="731,59,943,101"/>
-<area shape="rect" id="node2" href="$class_word_quizzle_1_1_w_q_gui.html#a0e3cb31624c4fdda7b58977fe75de341" title="Crea la finestra di gioco durante una sfida." alt="" coords="503,11,683,37"/>
-<area shape="rect" id="node4" href="$class_word_quizzle_1_1_w_q_cli.html#ae5f342434ec80ce1ed3939fb446de436" title="Gestisce una sfida." alt="" coords="505,67,680,93"/>
-<area shape="rect" id="node8" href="$class_word_quizzle_1_1_challenge.html#a4587e95b2628810f0c66278e90a9934c" title="Verifica se la sfida e&#39; terminata." alt="" coords="507,129,679,170"/>
-<area shape="rect" id="node3" href="$class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="258,5,421,32"/>
-<area shape="rect" id="node5" href="$class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" title="Gestisce una richiesta di sfida." alt="" coords="224,56,455,83"/>
-<area shape="rect" id="node7" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="252,107,427,133"/>
-<area shape="rect" id="node6" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,81,176,108"/>
-<area shape="rect" id="node9" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="249,157,429,184"/>
+<area shape="rect" id="node1" title="Restituisce la durata di una sfida, in millisecondi." alt="" coords="731,74,943,115"/>
+<area shape="rect" id="node2" href="$class_word_quizzle_1_1_bot.html#ac35a1d7ec89b1ef5fc25f161357f71c1" title="Gestisce una sfida." alt="" coords="514,5,671,32"/>
+<area shape="rect" id="node5" href="$class_word_quizzle_1_1_w_q_gui.html#a0e3cb31624c4fdda7b58977fe75de341" title="Crea la finestra di gioco durante una sfida." alt="" coords="503,56,683,83"/>
+<area shape="rect" id="node7" href="$class_word_quizzle_1_1_w_q_cli.html#ae5f342434ec80ce1ed3939fb446de436" title="Gestisce una sfida." alt="" coords="505,107,680,133"/>
+<area shape="rect" id="node11" href="$class_word_quizzle_1_1_challenge.html#a4587e95b2628810f0c66278e90a9934c" title="Verifica se la sfida e&#39; terminata." alt="" coords="507,179,679,221"/>
+<area shape="rect" id="node3" href="$class_word_quizzle_1_1_bot.html#aa088d2cccb4552d9277db7908b7cc706" title="Avvia il bot." alt="" coords="268,5,411,32"/>
+<area shape="rect" id="node4" href="$class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2" title="Esegue un bot." alt="" coords="14,5,167,32"/>
+<area shape="rect" id="node6" href="$class_word_quizzle_1_1_notifier.html#ad051f74dab1ae47c4453f9d094b6d0c4" title="Attende l&#39;arrivo di una richiesta e se il client non e&#39; impegnato in una sfida gli notifica la richie..." alt="" coords="258,56,421,83"/>
+<area shape="rect" id="node8" href="$class_word_quizzle_1_1_w_q_cli.html#a7b07b55738bdd5da89a2ef645afdc020" title="Gestisce una richiesta di sfida." alt="" coords="224,107,455,133"/>
+<area shape="rect" id="node10" href="$class_word_quizzle_1_1_w_q_cli.html#a318ef86f91a825da4ff4684bd3332a6b" title="Gestisce le richieste dell&#39;utente." alt="" coords="252,157,427,184"/>
+<area shape="rect" id="node9" href="$class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727" title="Gestisce l&#39;interazione con l&#39;utente." alt="" coords="5,132,176,159"/>
+<area shape="rect" id="node12" href="$class_word_quizzle_1_1_challenge.html#aa7b93cfc7d1927c0b1c060cc387321b9" title="Gestisce la sfida." alt="" coords="249,208,429,235"/>
 </map>

@@ -57,7 +57,7 @@ var sectionId = 'dynsection-1';
 <polygon fill="white" stroke="none" points="-4,4 -4,-580 239.5,-580 239.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<g id="a_node1"><a xlink:title="Implementa un bot automatico per giocare in singolo e per testing.">
+<g id="a_node1"><a xlink:title="Implementa un bot automatico per giocare in singolo e/o per testing.">
 <polygon fill="#bfbfbf" stroke="black" points="22,-0.5 22,-112.5 113,-112.5 113,-0.5 22,-0.5"/>
 <text text-anchor="middle" x="67.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">WordQuizzle.Bot</text>
 <polyline fill="none" stroke="black" points="22,-93.5 113,-93.5 "/>

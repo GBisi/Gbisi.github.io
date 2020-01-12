@@ -21,6 +21,7 @@ var hierarchy =
     [ "WordQuizzle.WordQuizzleService", "interface_word_quizzle_1_1_word_quizzle_service.html", [
       [ "WordQuizzle.WordQuizzleClientService", "class_word_quizzle_1_1_word_quizzle_client_service.html", null ]
     ] ],
+    [ "WordQuizzle.WordTranslator", "class_word_quizzle_1_1_word_translator.html", null ],
     [ "WordQuizzle.WQCli", "class_word_quizzle_1_1_w_q_cli.html", null ],
     [ "JFrame", null, [
       [ "WordQuizzle.WQGui", "class_word_quizzle_1_1_w_q_gui.html", null ]

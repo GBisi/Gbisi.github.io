@@ -25,6 +25,7 @@ var namespace_word_quizzle =
     [ "WordQuizzleServer", "class_word_quizzle_1_1_word_quizzle_server.html", "class_word_quizzle_1_1_word_quizzle_server" ],
     [ "WordQuizzleServerService", "class_word_quizzle_1_1_word_quizzle_server_service.html", "class_word_quizzle_1_1_word_quizzle_server_service" ],
     [ "WordQuizzleService", "interface_word_quizzle_1_1_word_quizzle_service.html", "interface_word_quizzle_1_1_word_quizzle_service" ],
+    [ "WordTranslator", "class_word_quizzle_1_1_word_translator.html", null ],
     [ "WQCli", "class_word_quizzle_1_1_w_q_cli.html", "class_word_quizzle_1_1_w_q_cli" ],
     [ "WQGui", "class_word_quizzle_1_1_w_q_gui.html", "class_word_quizzle_1_1_w_q_gui" ]
 ];

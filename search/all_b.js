@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['main_64',['main',['../class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2',1,'WordQuizzle.Bot.main()'],['../class_word_quizzle_1_1_word_quizzle_server.html#a12a2da61799e3615a9bf54388a41eac1',1,'WordQuizzle.WordQuizzleServer.main()'],['../class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727',1,'WordQuizzle.WQCli.main()'],['../class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f',1,'WordQuizzle.WQGui.main()']]],
+  ['main_64',['main',['../class_word_quizzle_1_1_bot.html#a1092df275f21d17d0b0a7edf7bbb59f2',1,'WordQuizzle.Bot.main()'],['../class_word_quizzle_1_1_word_quizzle_server.html#a12a2da61799e3615a9bf54388a41eac1',1,'WordQuizzle.WordQuizzleServer.main()'],['../class_word_quizzle_1_1_word_translator.html#ab869f0c122cb4a4aef5a1e7df320da5c',1,'WordQuizzle.WordTranslator.main()'],['../class_word_quizzle_1_1_w_q_cli.html#a7c2d51051cc7f1b20c57c1424d3b7727',1,'WordQuizzle.WQCli.main()'],['../class_word_quizzle_1_1_w_q_gui.html#ae0526e759d1f51457ce5e6144a51432f',1,'WordQuizzle.WQGui.main()']]],
   ['make_65',['make',['../class_word_quizzle_1_1_w_q_gui.html#a0e08347bf2107460ca41d63036fdc6ad',1,'WordQuizzle::WQGui']]],
   ['makegame_66',['makeGame',['../class_word_quizzle_1_1_w_q_gui.html#a5c987293ccc62020ac32b8c4f8415adf',1,'WordQuizzle::WQGui']]],
   ['makelogin_67',['makeLogin',['../class_word_quizzle_1_1_w_q_gui.html#aad977af8a8393382e53bc94a76605a3b',1,'WordQuizzle::WQGui']]],
